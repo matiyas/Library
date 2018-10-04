@@ -3,13 +3,24 @@ from django.core.validators import MinValueValidator, MaxValueValidator
 from django.utils import timezone
 
 
-class Country(models.Model):
-    code = models.CharField(max_length=2, primary_key=True)
+class AbstractCountry(models.Model):
+    code = models.CharField(max_length=10, primary_key=True)
     english_name = models.CharField(max_length=200, null=True)
     polish_name = models.CharField(max_length=200, null=True)
 
     def __str__(self):
         return self.english_name
+
+    class Meta:
+        abstract = True
+
+
+class Country(AbstractCountry):
+    pass
+
+
+class Language(AbstractCountry):
+    pass
 
 
 class Person(models.Model):

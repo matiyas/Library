@@ -12,7 +12,3 @@ class ReaderForm(forms.ModelForm):
     class Meta:
         model = Reader
         fields = ('__all__')
-
-
-class 
-
