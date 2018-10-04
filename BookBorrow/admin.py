@@ -1,16 +1,11 @@
 from django.contrib import admin
-from .models import Reader, Book, Address
-from .forms import AddressForm
+from .models import Reader, Book
+from .forms import ReaderForm
 
 
-class ReaderInline(admin.StackedInline):
-    model = Reader
+class ReaderAdmin(admin.ModelAdmin):
+    form = ReaderForm
 
 
-class AddressAdmin(admin.ModelAdmin):
-    form = AddressForm
-    inlines = (ReaderInline,)
-
-
-admin.site.register(Address, AddressAdmin)
-# admin.site.register(Reader, ReaderAdmin)
+admin.site.register(Reader, ReaderAdmin)
+admin.site.register(Book)

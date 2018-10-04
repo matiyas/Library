@@ -36,30 +36,20 @@ class Publishment(models.Model):
         return self.name
 
 
-class Address(models.Model):
+class Reader(Person):
+    login = models.CharField(max_length=20)
+    password = models.CharField(max_length=100)
+    email = models.CharField(max_length=200)
+    phone = models.CharField(max_length=20)
+    account_lock = models.BooleanField(default=False)
+    penalty = models.DecimalField(max_digits=6, decimal_places=2, default=0)
+    books_limit = models.SmallIntegerField(default=2)
     country = models.ForeignKey(Country, on_delete=models.CASCADE, to_field='code')
     city = models.CharField(max_length=200)
     post_code = models.CharField(max_length=20)
     street = models.CharField(max_length=200)
     apartment_nr = models.SmallIntegerField(null=True)
     building_nr = models.SmallIntegerField()
-
-    def __str__(self):
-        return '{}, {} {}'.format(self.city, self.street, self.apartment_nr)
-
-    class Meta:
-        verbose_name_plural = "Addresses"
-
-
-class Reader(Person):
-    login = models.CharField(max_length=20)
-    password = models.CharField(max_length=100)
-    email = models.CharField(max_length=200)
-    phone = models.CharField(max_length=20)
-    address = models.OneToOneField(Address, on_delete=models.PROTECT)
-    lock = models.BooleanField(default=False)
-    penalty = models.DecimalField(max_digits=6, decimal_places=2, default=0)
-    books_limit = models.SmallIntegerField(default=2)
 
     def __str__(self):
         return '[' + self.login + '] ' + super().__str__()
