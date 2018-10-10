@@ -1,18 +1,37 @@
 from dal import autocomplete
 from django import forms
-from BookBorrow.models import Country, Reader
+from BookBorrow.models import Country, Reader, Book, Author
 
 
-class ReaderForm(forms.ModelForm):
-    country = forms.ModelChoiceField(
-        queryset=Country.objects.all(),
-        widget=autocomplete.ModelSelect2(url='country-autocomplete')
-    )
+def autocomplete_form_class(**kwargs):
+    class AutocompleteForm(forms.ModelForm):
+        locals()[kwargs['field']] = forms.ModelChoiceField(
+            queryset=kwargs['autocomplete_model'].objects.all(),
+            widget=autocomplete.ModelSelect2(url=kwargs['url'])
+        )
 
-    class Meta:
-        model = Reader
-        fields = ('__all__')
+        class Meta:
+            model = kwargs['model']
+            fields = '__all__'
+
+    return AutocompleteForm
 
 
-class 
-
+AuthorForm = autocomplete_form_class(
+    field='country',
+    autocomplete_model=Country,
+    url='country-autocomplete',
+    model=Author
+)
+ReaderForm = autocomplete_form_class(
+    field='country',
+    autocomplete_model=Country,
+    url='country-autocomplete',
+    model=Reader
+)
+BookForm = autocomplete_form_class(
+    field='lang',
+    autocomplete_model=Country,
+    url='language-autocomplete',
+    model=Book
+)

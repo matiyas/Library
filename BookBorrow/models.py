@@ -3,22 +3,39 @@ from django.core.validators import MinValueValidator, MaxValueValidator
 from django.utils import timezone
 
 
-class Country(models.Model):
-    code = models.CharField(max_length=2, primary_key=True)
+class AbstractCountry(models.Model):
+    code = models.CharField(max_length=10, primary_key=True)
     english_name = models.CharField(max_length=200, null=True)
     polish_name = models.CharField(max_length=200, null=True)
 
     def __str__(self):
         return self.english_name
 
+    class Meta:
+        abstract = True
+
+
+class Country(AbstractCountry):
+    pass
+
+
+class Language(AbstractCountry):
+    pass
+
 
 class Person(models.Model):
     first_name = models.CharField(max_length=200)
     last_name = models.CharField(max_length=200)
     birth_date = models.DateField(null=True)
+    country = models.ForeignKey(
+        Country,
+        on_delete=models.SET_NULL,
+        null=True,
+        to_field='code'
+    )
 
     def __str__(self):
-        return self.first_name + ' ' + self.last_name
+        return '{} {}'.format(self.first_name, self.last_name)
 
     class Meta:
         abstract = True
@@ -26,7 +43,6 @@ class Person(models.Model):
 
 class Author(Person):
     death_date = models.DateField(null=True)
-    country = models.ForeignKey(Country, on_delete=models.SET_NULL, null=True, to_field='code')
 
 
 class Publishment(models.Model):
@@ -44,7 +60,6 @@ class Reader(Person):
     account_lock = models.BooleanField(default=False)
     penalty = models.DecimalField(max_digits=6, decimal_places=2, default=0)
     books_limit = models.SmallIntegerField(default=2)
-    country = models.ForeignKey(Country, on_delete=models.CASCADE, to_field='code')
     city = models.CharField(max_length=200)
     post_code = models.CharField(max_length=20)
     street = models.CharField(max_length=200)
@@ -52,7 +67,7 @@ class Reader(Person):
     building_nr = models.SmallIntegerField()
 
     def __str__(self):
-        return '[' + self.login + '] ' + super().__str__()
+        return '[{}] {}'.format(self.login, super().__str__())
 
 
 class Status(models.Model):
@@ -62,9 +77,22 @@ class Status(models.Model):
 class Book(models.Model):
     title = models.CharField(max_length=200)
     isbn = models.CharField(max_length=13, null=True)
-    author = models.ForeignKey(Author, on_delete=models.SET_NULL, null=True)
-    lang = models.ForeignKey(Country, on_delete=models.SET_NULL, null=True, to_field='code')
-    publishment = models.ForeignKey(Publishment, on_delete=models.SET_NULL, null=True)
+    author = models.ForeignKey(
+        Author,
+        on_delete=models.SET_NULL,
+        null=True
+    )
+    lang = models.ForeignKey(
+        Language,
+        on_delete=models.SET_NULL,
+        null=True,
+        to_field='code'
+    )
+    publishment = models.ForeignKey(
+        Publishment,
+        on_delete=models.SET_NULL,
+        null=True
+    )
     publication_year = models.IntegerField(
         null=True,
         validators=[
@@ -81,10 +109,14 @@ class Book(models.Model):
     )    
 
     def __str__(self):
-        return self.author.first_name[0] + '. ' + self.author.last_name + ', ' + self.title
+        return '{}. {}, {}'.format(
+            str(Author.first_name)[0],
+            Author.last_name,
+            self.title
+        )
 
 
 class BookQueue(models.Model):
     reader = models.ForeignKey(Reader, on_delete=models.CASCADE)
     book = models.ForeignKey(Book, on_delete=models.CASCADE)
-    reservaton_date = models.DateTimeField(auto_now_add=True)
+    reservation_date = models.DateTimeField(auto_now_add=True)
