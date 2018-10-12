@@ -1,6 +1,9 @@
 from django.db import models
-from django.core.validators import MinValueValidator, MaxValueValidator
+from django.core.validators import (
+    MinValueValidator, MaxValueValidator, EmailValidator,
+)
 from django.utils import timezone
+from .validators import no_future_date
 
 
 class AbstractCountry(models.Model):
@@ -26,7 +29,7 @@ class Language(AbstractCountry):
 class Person(models.Model):
     first_name = models.CharField(max_length=200)
     last_name = models.CharField(max_length=200)
-    birth_date = models.DateField(null=True)
+    birth_date = models.DateField(null=True, validators=[no_future_date, ])
     country = models.ForeignKey(
         Country,
         on_delete=models.SET_NULL,
@@ -55,7 +58,7 @@ class Publishment(models.Model):
 class Reader(Person):
     login = models.CharField(max_length=20)
     password = models.CharField(max_length=100)
-    email = models.CharField(max_length=200)
+    email = models.CharField(max_length=200, validators=[EmailValidator, ])
     phone = models.CharField(max_length=20)
     account_lock = models.BooleanField(default=False)
     penalty = models.DecimalField(max_digits=6, decimal_places=2, default=0)

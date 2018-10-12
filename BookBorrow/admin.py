@@ -14,7 +14,7 @@ class BookAdmin(admin.ModelAdmin):
 class BookInline(admin.StackedInline):
     model = Book
     form = BookForm
-    extra = 2
+    extra = 0
 
 
 class AuthorAdmin(admin.ModelAdmin):
