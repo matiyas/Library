@@ -1,14 +1,6 @@
 from django.contrib import admin
-from .models import Reader, Book, Author
+from .models import Reader, Book, Author, Publishment
 from .forms import ReaderForm, BookForm, AuthorForm
-
-
-class ReaderAdmin(admin.ModelAdmin):
-    form = ReaderForm
-
-
-class BookAdmin(admin.ModelAdmin):
-    form = BookForm
 
 
 class BookInline(admin.StackedInline):
@@ -17,11 +9,24 @@ class BookInline(admin.StackedInline):
     extra = 0
 
 
+@admin.register(Author)
 class AuthorAdmin(admin.ModelAdmin):
     form = AuthorForm
     inlines = [BookInline, ]
 
 
-admin.site.register(Author, AuthorAdmin)
-admin.site.register(Reader, ReaderAdmin)
-admin.site.register(Book, BookAdmin)
+@admin.register(Reader)
+class ReaderAdmin(admin.ModelAdmin):
+    form = ReaderForm
+
+
+@admin.register(Book)
+class BookAdmin(admin.ModelAdmin):
+    exclude = ('status', 'return_date')
+    form = BookForm
+
+
+@admin.register(Publishment)
+class PublishmentAdmin(admin.ModelAdmin):
+    model = Publishment
+
