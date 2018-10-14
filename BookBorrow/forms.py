@@ -1,6 +1,6 @@
 from dal import autocomplete
 from django import forms
-from BookBorrow.models import Country, Reader, Book, Author
+from BookBorrow.models import Country, Reader, Book, Author, Language
 
 
 def autocomplete_form_class(**kwargs):
@@ -31,7 +31,7 @@ ReaderForm = autocomplete_form_class(
 )
 BookForm = autocomplete_form_class(
     field='lang',
-    autocomplete_model=Country,
+    autocomplete_model=Language,
     url='language-autocomplete',
     model=Book
 )
