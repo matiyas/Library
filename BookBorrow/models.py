@@ -3,7 +3,7 @@ from django.core.validators import (
     MinValueValidator, MaxValueValidator, EmailValidator,
     MaxLengthValidator)
 from django.utils import timezone
-from BookBorrow.validators import author_birth_date_validator, reader_birth_date_validator
+from BookBorrow.validators import reader_birth_date_validator
 
 
 class AbstractCountry(models.Model):
@@ -81,7 +81,7 @@ class Reader(Person):
 
 class Book(models.Model):
     title = models.CharField(max_length=200)
-    isbn = models.CharField(max_length=13, blank=True, null=True)
+    isbn = models.CharField(max_length=30, blank=True, null=True)
     authors = models.ManyToManyField(Author)
     subject = models.ForeignKey(
         Subject,
