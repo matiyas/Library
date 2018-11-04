@@ -128,3 +128,8 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.0/howto/static-files/
 
 STATIC_URL = '/static/'
+TEMPLATE_DIRS = (
+    os.path.join(BASE_DIR, 'BookBorrow', 'templates'),
+    os.path.join(BASE_DIR, 'LibSys', 'templates'),
+    os.path.join(BASE_DIR, 'templates'),
+)
