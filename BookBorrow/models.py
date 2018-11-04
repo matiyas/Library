@@ -82,12 +82,7 @@ class Reader(Person):
 class Book(models.Model):
     title = models.CharField(max_length=200)
     isbn = models.CharField(max_length=13, blank=True, null=True)
-    author = models.ForeignKey(
-        Author,
-        on_delete=models.SET_NULL,
-        blank=True,
-        null=True
-    )
+    authors = models.ManyToManyField(Author)
     subject = models.ForeignKey(
         Subject,
         on_delete=models.SET_NULL,
@@ -129,10 +124,7 @@ class Book(models.Model):
     )    
 
     def __str__(self):
-        if self.author is not None:
-            return '{}. {}, {}'.format(self.author.first_name[0], self.author.last_name, self.title)
-        else:
-            return self.title
+        return self.title
 
 
 class BookQueue(models.Model):

@@ -25,7 +25,6 @@ class BookAdmin(admin.ModelAdmin):
 @admin.register(Author)
 class AuthorAdmin(admin.ModelAdmin):
     model = Author
-    inlines = [BookInline, ]
 
 
 @admin.register(Publishment)
