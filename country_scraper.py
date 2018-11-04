@@ -25,4 +25,3 @@ for link in soup.find_all('a', href=re.compile(r'/wiki/ISO_3166-1_alfa-2#[A-Z]{2
 		polish_name=row[0].a.string
 	)
 	country.save()
-	

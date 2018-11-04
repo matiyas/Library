@@ -48,14 +48,7 @@ class Person(models.Model):
 
 
 class Author(Person):
-    birth_date = models.DateField(blank=True, null=True, validators=(author_birth_date_validator, ))
-    death_date = models.DateField(null=True, blank=True)
-    country = models.ForeignKey(
-        Country,
-        on_delete=models.SET_NULL,
-        null=True,
-        to_field='code'
-    )
+    pass
 
 
 class Publishment(AbstractChoice):

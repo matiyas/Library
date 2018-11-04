@@ -17,12 +17,6 @@ def autocomplete_form_class(**kwargs):
     return AutocompleteForm
 
 
-AuthorForm = autocomplete_form_class(
-    field='country',
-    autocomplete_model=Country,
-    url='country-autocomplete',
-    model=Author
-)
 ReaderForm = autocomplete_form_class(
     field='country',
     autocomplete_model=Country,

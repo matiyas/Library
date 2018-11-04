@@ -2,7 +2,7 @@ from django.contrib import admin
 
 from BookBorrow.models import Subject
 from .models import Reader, Book, Author, Publishment
-from .forms import ReaderForm, BookForm, AuthorForm
+from .forms import ReaderForm, BookForm
 
 
 class BookInline(admin.StackedInline):
@@ -24,7 +24,7 @@ class BookAdmin(admin.ModelAdmin):
 
 @admin.register(Author)
 class AuthorAdmin(admin.ModelAdmin):
-    form = AuthorForm
+    model = Author
     inlines = [BookInline, ]
 
 
