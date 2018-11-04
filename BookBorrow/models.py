@@ -18,6 +18,16 @@ class AbstractCountry(models.Model):
         abstract = True
 
 
+class AbstractChoice(models.Model):
+    name = models.CharField(max_length=200, unique=True)
+
+    def __str__(self):
+        return self.name
+
+    class Meta:
+        abstract = True
+
+
 class Country(AbstractCountry):
     pass
 
@@ -48,11 +58,12 @@ class Author(Person):
     )
 
 
-class Publishment(models.Model):
-    name = models.CharField(max_length=200, unique=True)
+class Publishment(AbstractChoice):
+    pass
 
-    def __str__(self):
-        return self.name
+
+class Subject(AbstractChoice):
+    pass
 
 
 class Reader(Person):
@@ -80,6 +91,12 @@ class Book(models.Model):
     isbn = models.CharField(max_length=13, blank=True, null=True)
     author = models.ForeignKey(
         Author,
+        on_delete=models.SET_NULL,
+        blank=True,
+        null=True
+    )
+    subject = models.ForeignKey(
+        Subject,
         on_delete=models.SET_NULL,
         blank=True,
         null=True
@@ -119,7 +136,10 @@ class Book(models.Model):
     )    
 
     def __str__(self):
-        return '{}. {}, {}'.format(self.author.first_name[0], self.author.last_name, self.title)
+        if self.author is not None:
+            return '{}. {}, {}'.format(self.author.first_name[0], self.author.last_name, self.title)
+        else:
+            return self.title
 
 
 class BookQueue(models.Model):

@@ -1,5 +1,7 @@
-from django.http import HttpResponse
 from dal import autocomplete
+from django.views import generic
+
+from BookBorrow.models import Book
 from .models import Country, Language
 
 
@@ -29,5 +31,8 @@ class LanguageAutocomplete(AbstractAutocomplete):
     objects_order = 'english_name'
 
 
-def index(request):
-    return HttpResponse('<h1>Hello World!</h1>')
+class IndexView(generic.ListView):
+    template_name = 'BookBorrow/index.html'
+
+    def get_queryset(self):
+        return Book.objects.all()

@@ -1,4 +1,6 @@
 from django.contrib import admin
+
+from BookBorrow.models import Subject
 from .models import Reader, Book, Author, Publishment
 from .forms import ReaderForm, BookForm, AuthorForm
 
@@ -7,12 +9,6 @@ class BookInline(admin.StackedInline):
     model = Book
     form = BookForm
     extra = 0
-
-
-@admin.register(Author)
-class AuthorAdmin(admin.ModelAdmin):
-    form = AuthorForm
-    inlines = [BookInline, ]
 
 
 @admin.register(Reader)
@@ -26,7 +22,17 @@ class BookAdmin(admin.ModelAdmin):
     form = BookForm
 
 
+@admin.register(Author)
+class AuthorAdmin(admin.ModelAdmin):
+    form = AuthorForm
+    inlines = [BookInline, ]
+
+
 @admin.register(Publishment)
 class PublishmentAdmin(admin.ModelAdmin):
     model = Publishment
 
+
+@admin.register(Subject)
+class SubjectAdmin(admin.ModelAdmin):
+    model = Subject
