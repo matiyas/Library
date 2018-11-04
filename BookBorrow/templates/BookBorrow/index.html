@@ -1,0 +1,23 @@
+{% block content %}
+    <h1>Borrow a Book</h1>
+    <table>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Subject</th>
+        <th>Publication year</th>
+        <th>Publishment</th>
+        <th>Language</th>
+        <th>Status</th>
+        {% for book in book_list %}
+            <tr>
+                <td>{{ book.title }}</td>
+                <td>{{ book.author }}</td>
+                <td>{{ book.subject }}</td>
+                <td>{{ book.publication_year }}</td>
+                <td>{{ book.publishment }}</td>
+                <td>{{ book.lang }}</td>
+                <td>{{ book.status }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+{% endblock %}

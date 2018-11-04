@@ -1,16 +1,38 @@
 from django.contrib import admin
-from .models import Reader, Book, Address
-from .forms import AddressForm
+
+from BookBorrow.models import Subject
+from .models import Reader, Book, Author, Publishment
+from .forms import ReaderForm, BookForm, AuthorForm
 
 
-class ReaderInline(admin.StackedInline):
-    model = Reader
+class BookInline(admin.StackedInline):
+    model = Book
+    form = BookForm
+    extra = 0
 
 
-class AddressAdmin(admin.ModelAdmin):
-    form = AddressForm
-    inlines = (ReaderInline,)
+@admin.register(Reader)
+class ReaderAdmin(admin.ModelAdmin):
+    form = ReaderForm
 
 
-admin.site.register(Address, AddressAdmin)
-# admin.site.register(Reader, ReaderAdmin)
+@admin.register(Book)
+class BookAdmin(admin.ModelAdmin):
+    exclude = ('status', 'return_date')
+    form = BookForm
+
+
+@admin.register(Author)
+class AuthorAdmin(admin.ModelAdmin):
+    form = AuthorForm
+    inlines = [BookInline, ]
+
+
+@admin.register(Publishment)
+class PublishmentAdmin(admin.ModelAdmin):
+    model = Publishment
+
+
+@admin.register(Subject)
+class SubjectAdmin(admin.ModelAdmin):
+    model = Subject
