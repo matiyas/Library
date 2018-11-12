@@ -8,11 +8,10 @@ from BookBorrow.validators import reader_birth_date_validator
 
 class AbstractCountry(models.Model):
     code = models.CharField(max_length=10, primary_key=True, )
-    english_name = models.CharField(max_length=200)
-    polish_name = models.CharField(max_length=200)
+    name = models.CharField(max_length=200)
 
     def __str__(self):
-        return self.english_name
+        return self.name
 
     class Meta:
         abstract = True
@@ -37,11 +36,10 @@ class Language(AbstractCountry):
 
 
 class Person(models.Model):
-    first_name = models.CharField(max_length=200, validators=(MaxLengthValidator(200), ))
-    last_name = models.CharField(max_length=200, validators=(MaxLengthValidator(200), ))
+    name = models.CharField(max_length=200, validators=(MaxLengthValidator(200), ))
 
     def __str__(self):
-        return '{} {}'.format(self.first_name, self.last_name)
+        return '{}'.format(self.name)
 
     class Meta:
         abstract = True

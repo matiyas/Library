@@ -21,7 +21,6 @@ for link in soup.find_all('a', href=re.compile(r'/wiki/ISO_3166-1_alfa-2#[A-Z]{2
 	row = link.parent.parent.find_all('td')
 	country = Country(
 		code=row[2].string, 
-		english_name=row[1].string, 
-		polish_name=row[0].a.string
+		name=row[1].string
 	)
 	country.save()
