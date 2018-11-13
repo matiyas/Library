@@ -1,0 +1,8122 @@
+- model: BookBorrow.country
+  pk: AD
+  fields: {name: 'Andorra
+
+'}
+- model: BookBorrow.country
+  pk: AE
+  fields: {name: 'United Arab Emirates
+
+'}
+- model: BookBorrow.country
+  pk: AF
+  fields: {name: 'Afghanistan
+
+'}
+- model: BookBorrow.country
+  pk: AG
+  fields: {name: 'Antigua and Barbuda
+
+'}
+- model: BookBorrow.country
+  pk: AI
+  fields: {name: 'Anguilla
+
+'}
+- model: BookBorrow.country
+  pk: AL
+  fields: {name: 'Albania
+
+'}
+- model: BookBorrow.country
+  pk: AM
+  fields: {name: 'Armenia
+
+'}
+- model: BookBorrow.country
+  pk: AO
+  fields: {name: 'Angola
+
+'}
+- model: BookBorrow.country
+  pk: AQ
+  fields: {name: 'Antarctica
+
+'}
+- model: BookBorrow.country
+  pk: AR
+  fields: {name: 'Argentina
+
+'}
+- model: BookBorrow.country
+  pk: AS
+  fields: {name: 'American Samoa
+
+'}
+- model: BookBorrow.country
+  pk: AT
+  fields: {name: 'Austria
+
+'}
+- model: BookBorrow.country
+  pk: AU
+  fields: {name: 'Australia
+
+'}
+- model: BookBorrow.country
+  pk: AW
+  fields: {name: 'Aruba
+
+'}
+- model: BookBorrow.country
+  pk: AX
+  fields: {name: "\xC5land Islands\n"}
+- model: BookBorrow.country
+  pk: AZ
+  fields: {name: 'Azerbaijan
+
+'}
+- model: BookBorrow.country
+  pk: BA
+  fields: {name: 'Bosnia and Herzegovina
+
+'}
+- model: BookBorrow.country
+  pk: BB
+  fields: {name: 'Barbados
+
+'}
+- model: BookBorrow.country
+  pk: BD
+  fields: {name: 'Bangladesh
+
+'}
+- model: BookBorrow.country
+  pk: BE
+  fields: {name: 'Belgium
+
+'}
+- model: BookBorrow.country
+  pk: BF
+  fields: {name: 'Burkina Faso
+
+'}
+- model: BookBorrow.country
+  pk: BG
+  fields: {name: 'Bulgaria
+
+'}
+- model: BookBorrow.country
+  pk: BH
+  fields: {name: 'Bahrain
+
+'}
+- model: BookBorrow.country
+  pk: BI
+  fields: {name: 'Burundi
+
+'}
+- model: BookBorrow.country
+  pk: BJ
+  fields: {name: 'Benin
+
+'}
+- model: BookBorrow.country
+  pk: BL
+  fields: {name: "Saint Barth\xE9lemy\n"}
+- model: BookBorrow.country
+  pk: BM
+  fields: {name: 'Bermuda
+
+'}
+- model: BookBorrow.country
+  pk: BN
+  fields: {name: 'Brunei Darussalam
+
+'}
+- model: BookBorrow.country
+  pk: BO
+  fields: {name: 'Bolivia, Plurinational State of
+
+'}
+- model: BookBorrow.country
+  pk: BQ
+  fields: {name: 'Bonaire, Sint Eustatius and Saba
+
+'}
+- model: BookBorrow.country
+  pk: BR
+  fields: {name: 'Brazil
+
+'}
+- model: BookBorrow.country
+  pk: BS
+  fields: {name: 'Bahamas
+
+'}
+- model: BookBorrow.country
+  pk: BT
+  fields: {name: 'Bhutan
+
+'}
+- model: BookBorrow.country
+  pk: BV
+  fields: {name: 'Bouvet Island
+
+'}
+- model: BookBorrow.country
+  pk: BW
+  fields: {name: 'Botswana
+
+'}
+- model: BookBorrow.country
+  pk: BY
+  fields: {name: 'Belarus
+
+'}
+- model: BookBorrow.country
+  pk: BZ
+  fields: {name: 'Belize
+
+'}
+- model: BookBorrow.country
+  pk: CA
+  fields: {name: 'Canada
+
+'}
+- model: BookBorrow.country
+  pk: CC
+  fields: {name: 'Cocos (Keeling) Islands
+
+'}
+- model: BookBorrow.country
+  pk: CD
+  fields: {name: 'Congo, the Democratic Republic of the
+
+'}
+- model: BookBorrow.country
+  pk: CF
+  fields: {name: 'Central African Republic
+
+'}
+- model: BookBorrow.country
+  pk: CG
+  fields: {name: 'Congo
+
+'}
+- model: BookBorrow.country
+  pk: CH
+  fields: {name: 'Switzerland
+
+'}
+- model: BookBorrow.country
+  pk: CI
+  fields: {name: "C\xF4te d'Ivoire\n"}
+- model: BookBorrow.country
+  pk: CK
+  fields: {name: 'Cook Islands
+
+'}
+- model: BookBorrow.country
+  pk: CL
+  fields: {name: 'Chile
+
+'}
+- model: BookBorrow.country
+  pk: CM
+  fields: {name: 'Cameroon
+
+'}
+- model: BookBorrow.country
+  pk: CN
+  fields: {name: 'China
+
+'}
+- model: BookBorrow.country
+  pk: CO
+  fields: {name: 'Colombia
+
+'}
+- model: BookBorrow.country
+  pk: CR
+  fields: {name: 'Costa Rica
+
+'}
+- model: BookBorrow.country
+  pk: CU
+  fields: {name: 'Cuba
+
+'}
+- model: BookBorrow.country
+  pk: CV
+  fields: {name: 'Cape Verde
+
+'}
+- model: BookBorrow.country
+  pk: CW
+  fields: {name: "Cura\xE7ao\n"}
+- model: BookBorrow.country
+  pk: CX
+  fields: {name: 'Christmas Island
+
+'}
+- model: BookBorrow.country
+  pk: CY
+  fields: {name: 'Cyprus
+
+'}
+- model: BookBorrow.country
+  pk: CZ
+  fields: {name: 'Czechia
+
+'}
+- model: BookBorrow.country
+  pk: DE
+  fields: {name: 'Germany
+
+'}
+- model: BookBorrow.country
+  pk: DJ
+  fields: {name: 'Djibouti
+
+'}
+- model: BookBorrow.country
+  pk: DK
+  fields: {name: 'Denmark
+
+'}
+- model: BookBorrow.country
+  pk: DM
+  fields: {name: 'Dominica
+
+'}
+- model: BookBorrow.country
+  pk: DO
+  fields: {name: 'Dominican Republic
+
+'}
+- model: BookBorrow.country
+  pk: DZ
+  fields: {name: 'Algeria
+
+'}
+- model: BookBorrow.country
+  pk: EC
+  fields: {name: 'Ecuador
+
+'}
+- model: BookBorrow.country
+  pk: EE
+  fields: {name: 'Estonia
+
+'}
+- model: BookBorrow.country
+  pk: EG
+  fields: {name: 'Egypt
+
+'}
+- model: BookBorrow.country
+  pk: EH
+  fields: {name: 'Western Sahara
+
+'}
+- model: BookBorrow.country
+  pk: ER
+  fields: {name: 'Eritrea
+
+'}
+- model: BookBorrow.country
+  pk: ES
+  fields: {name: 'Spain
+
+'}
+- model: BookBorrow.country
+  pk: ET
+  fields: {name: 'Ethiopia
+
+'}
+- model: BookBorrow.country
+  pk: FI
+  fields: {name: 'Finland
+
+'}
+- model: BookBorrow.country
+  pk: FJ
+  fields: {name: 'Fiji
+
+'}
+- model: BookBorrow.country
+  pk: FK
+  fields: {name: 'Falkland Islands (Malvinas)
+
+'}
+- model: BookBorrow.country
+  pk: FM
+  fields: {name: 'Micronesia, Federated States of
+
+'}
+- model: BookBorrow.country
+  pk: FO
+  fields: {name: 'Faroe Islands
+
+'}
+- model: BookBorrow.country
+  pk: FR
+  fields: {name: 'France
+
+'}
+- model: BookBorrow.country
+  pk: GA
+  fields: {name: 'Gabon
+
+'}
+- model: BookBorrow.country
+  pk: GB
+  fields: {name: 'United Kingdom
+
+'}
+- model: BookBorrow.country
+  pk: GD
+  fields: {name: 'Grenada
+
+'}
+- model: BookBorrow.country
+  pk: GE
+  fields: {name: 'Georgia
+
+'}
+- model: BookBorrow.country
+  pk: GF
+  fields: {name: 'French Guiana
+
+'}
+- model: BookBorrow.country
+  pk: GG
+  fields: {name: 'Guernsey
+
+'}
+- model: BookBorrow.country
+  pk: GH
+  fields: {name: 'Ghana
+
+'}
+- model: BookBorrow.country
+  pk: GI
+  fields: {name: 'Gibraltar
+
+'}
+- model: BookBorrow.country
+  pk: GL
+  fields: {name: 'Greenland
+
+'}
+- model: BookBorrow.country
+  pk: GM
+  fields: {name: 'Gambia
+
+'}
+- model: BookBorrow.country
+  pk: GN
+  fields: {name: 'Guinea
+
+'}
+- model: BookBorrow.country
+  pk: GP
+  fields: {name: 'Guadeloupe
+
+'}
+- model: BookBorrow.country
+  pk: GQ
+  fields: {name: 'Equatorial Guinea
+
+'}
+- model: BookBorrow.country
+  pk: GR
+  fields: {name: 'Greece
+
+'}
+- model: BookBorrow.country
+  pk: GS
+  fields: {name: 'South Georgia and the South Sandwich Islands
+
+'}
+- model: BookBorrow.country
+  pk: GT
+  fields: {name: 'Guatemala
+
+'}
+- model: BookBorrow.country
+  pk: GU
+  fields: {name: 'Guam
+
+'}
+- model: BookBorrow.country
+  pk: GW
+  fields: {name: 'Guinea-Bissau
+
+'}
+- model: BookBorrow.country
+  pk: GY
+  fields: {name: 'Guyana
+
+'}
+- model: BookBorrow.country
+  pk: HK
+  fields: {name: 'Hong Kong
+
+'}
+- model: BookBorrow.country
+  pk: HM
+  fields: {name: 'Heard Island and McDonald Islands
+
+'}
+- model: BookBorrow.country
+  pk: HN
+  fields: {name: 'Honduras
+
+'}
+- model: BookBorrow.country
+  pk: HR
+  fields: {name: 'Croatia
+
+'}
+- model: BookBorrow.country
+  pk: HT
+  fields: {name: 'Haiti
+
+'}
+- model: BookBorrow.country
+  pk: HU
+  fields: {name: 'Hungary
+
+'}
+- model: BookBorrow.country
+  pk: ID
+  fields: {name: 'Indonesia
+
+'}
+- model: BookBorrow.country
+  pk: IE
+  fields: {name: 'Ireland
+
+'}
+- model: BookBorrow.country
+  pk: IL
+  fields: {name: 'Israel
+
+'}
+- model: BookBorrow.country
+  pk: IM
+  fields: {name: 'Isle of Man
+
+'}
+- model: BookBorrow.country
+  pk: IN
+  fields: {name: 'India
+
+'}
+- model: BookBorrow.country
+  pk: IO
+  fields: {name: 'British Indian Ocean Territory
+
+'}
+- model: BookBorrow.country
+  pk: IQ
+  fields: {name: 'Iraq
+
+'}
+- model: BookBorrow.country
+  pk: IR
+  fields: {name: 'Iran, Islamic Republic of
+
+'}
+- model: BookBorrow.country
+  pk: IS
+  fields: {name: 'Iceland
+
+'}
+- model: BookBorrow.country
+  pk: IT
+  fields: {name: 'Italy
+
+'}
+- model: BookBorrow.country
+  pk: JE
+  fields: {name: 'Jersey
+
+'}
+- model: BookBorrow.country
+  pk: JM
+  fields: {name: 'Jamaica
+
+'}
+- model: BookBorrow.country
+  pk: JO
+  fields: {name: 'Jordan
+
+'}
+- model: BookBorrow.country
+  pk: JP
+  fields: {name: 'Japan
+
+'}
+- model: BookBorrow.country
+  pk: KE
+  fields: {name: 'Kenya
+
+'}
+- model: BookBorrow.country
+  pk: KG
+  fields: {name: 'Kyrgyzstan
+
+'}
+- model: BookBorrow.country
+  pk: KH
+  fields: {name: 'Cambodia
+
+'}
+- model: BookBorrow.country
+  pk: KI
+  fields: {name: 'Kiribati
+
+'}
+- model: BookBorrow.country
+  pk: KM
+  fields: {name: 'Comoros
+
+'}
+- model: BookBorrow.country
+  pk: KN
+  fields: {name: 'Saint Kitts and Nevis
+
+'}
+- model: BookBorrow.country
+  pk: KP
+  fields: {name: 'Korea, Democratic People''s Republic of
+
+'}
+- model: BookBorrow.country
+  pk: KR
+  fields: {name: 'Korea, Republic of
+
+'}
+- model: BookBorrow.country
+  pk: KW
+  fields: {name: 'Kuwait
+
+'}
+- model: BookBorrow.country
+  pk: KY
+  fields: {name: 'Cayman Islands
+
+'}
+- model: BookBorrow.country
+  pk: KZ
+  fields: {name: 'Kazakhstan
+
+'}
+- model: BookBorrow.country
+  pk: LA
+  fields: {name: 'Lao People''s Democratic Republic
+
+'}
+- model: BookBorrow.country
+  pk: LB
+  fields: {name: 'Lebanon
+
+'}
+- model: BookBorrow.country
+  pk: LC
+  fields: {name: 'Saint Lucia
+
+'}
+- model: BookBorrow.country
+  pk: LI
+  fields: {name: 'Liechtenstein
+
+'}
+- model: BookBorrow.country
+  pk: LK
+  fields: {name: 'Sri Lanka
+
+'}
+- model: BookBorrow.country
+  pk: LR
+  fields: {name: 'Liberia
+
+'}
+- model: BookBorrow.country
+  pk: LS
+  fields: {name: 'Lesotho
+
+'}
+- model: BookBorrow.country
+  pk: LT
+  fields: {name: 'Lithuania
+
+'}
+- model: BookBorrow.country
+  pk: LU
+  fields: {name: 'Luxembourg
+
+'}
+- model: BookBorrow.country
+  pk: LV
+  fields: {name: 'Latvia
+
+'}
+- model: BookBorrow.country
+  pk: LY
+  fields: {name: 'Libyan Arab Jamahiriya
+
+'}
+- model: BookBorrow.country
+  pk: MA
+  fields: {name: 'Morocco
+
+'}
+- model: BookBorrow.country
+  pk: MC
+  fields: {name: 'Monaco
+
+'}
+- model: BookBorrow.country
+  pk: MD
+  fields: {name: 'Moldova, Republic of
+
+'}
+- model: BookBorrow.country
+  pk: ME
+  fields: {name: 'Montenegro
+
+'}
+- model: BookBorrow.country
+  pk: MF
+  fields: {name: 'Saint Martin (French part)
+
+'}
+- model: BookBorrow.country
+  pk: MG
+  fields: {name: 'Madagascar
+
+'}
+- model: BookBorrow.country
+  pk: MH
+  fields: {name: 'Marshall Islands
+
+'}
+- model: BookBorrow.country
+  pk: MK
+  fields: {name: 'Macedonia, the former Yugoslav Republic of
+
+'}
+- model: BookBorrow.country
+  pk: ML
+  fields: {name: 'Mali
+
+'}
+- model: BookBorrow.country
+  pk: MM
+  fields: {name: 'Myanmar
+
+'}
+- model: BookBorrow.country
+  pk: MN
+  fields: {name: 'Mongolia
+
+'}
+- model: BookBorrow.country
+  pk: MO
+  fields: {name: 'Macao
+
+'}
+- model: BookBorrow.country
+  pk: MP
+  fields: {name: 'Northern Mariana Islands
+
+'}
+- model: BookBorrow.country
+  pk: MQ
+  fields: {name: 'Martinique
+
+'}
+- model: BookBorrow.country
+  pk: MR
+  fields: {name: 'Mauritania
+
+'}
+- model: BookBorrow.country
+  pk: MS
+  fields: {name: 'Montserrat
+
+'}
+- model: BookBorrow.country
+  pk: MT
+  fields: {name: 'Malta
+
+'}
+- model: BookBorrow.country
+  pk: MU
+  fields: {name: 'Mauritius
+
+'}
+- model: BookBorrow.country
+  pk: MV
+  fields: {name: 'Maldives
+
+'}
+- model: BookBorrow.country
+  pk: MW
+  fields: {name: 'Malawi
+
+'}
+- model: BookBorrow.country
+  pk: MX
+  fields: {name: 'Mexico
+
+'}
+- model: BookBorrow.country
+  pk: MY
+  fields: {name: 'Malaysia
+
+'}
+- model: BookBorrow.country
+  pk: MZ
+  fields: {name: 'Mozambique
+
+'}
+- model: BookBorrow.country
+  pk: NA
+  fields: {name: 'Namibia
+
+'}
+- model: BookBorrow.country
+  pk: NC
+  fields: {name: 'New Caledonia
+
+'}
+- model: BookBorrow.country
+  pk: NE
+  fields: {name: 'Niger
+
+'}
+- model: BookBorrow.country
+  pk: NF
+  fields: {name: 'Norfolk Island
+
+'}
+- model: BookBorrow.country
+  pk: NG
+  fields: {name: 'Nigeria
+
+'}
+- model: BookBorrow.country
+  pk: NI
+  fields: {name: 'Nicaragua
+
+'}
+- model: BookBorrow.country
+  pk: NL
+  fields: {name: 'Netherlands
+
+'}
+- model: BookBorrow.country
+  pk: 'NO'
+  fields: {name: 'Norway
+
+'}
+- model: BookBorrow.country
+  pk: NP
+  fields: {name: 'Nepal
+
+'}
+- model: BookBorrow.country
+  pk: NR
+  fields: {name: 'Nauru
+
+'}
+- model: BookBorrow.country
+  pk: NU
+  fields: {name: 'Niue
+
+'}
+- model: BookBorrow.country
+  pk: NZ
+  fields: {name: 'New Zealand
+
+'}
+- model: BookBorrow.country
+  pk: OM
+  fields: {name: 'Oman
+
+'}
+- model: BookBorrow.country
+  pk: PA
+  fields: {name: 'Panama
+
+'}
+- model: BookBorrow.country
+  pk: PE
+  fields: {name: 'Peru
+
+'}
+- model: BookBorrow.country
+  pk: PF
+  fields: {name: 'French Polynesia
+
+'}
+- model: BookBorrow.country
+  pk: PG
+  fields: {name: 'Papua New Guinea
+
+'}
+- model: BookBorrow.country
+  pk: PH
+  fields: {name: 'Philippines
+
+'}
+- model: BookBorrow.country
+  pk: PK
+  fields: {name: 'Pakistan
+
+'}
+- model: BookBorrow.country
+  pk: PL
+  fields: {name: 'Poland
+
+'}
+- model: BookBorrow.country
+  pk: PM
+  fields: {name: 'Saint Pierre and Miquelon
+
+'}
+- model: BookBorrow.country
+  pk: PN
+  fields: {name: 'Pitcairn
+
+'}
+- model: BookBorrow.country
+  pk: PR
+  fields: {name: 'Puerto Rico
+
+'}
+- model: BookBorrow.country
+  pk: PS
+  fields: {name: 'Palestinian Territory, Occupied
+
+'}
+- model: BookBorrow.country
+  pk: PT
+  fields: {name: 'Portugal
+
+'}
+- model: BookBorrow.country
+  pk: PW
+  fields: {name: 'Palau
+
+'}
+- model: BookBorrow.country
+  pk: PY
+  fields: {name: 'Paraguay
+
+'}
+- model: BookBorrow.country
+  pk: QA
+  fields: {name: 'Qatar
+
+'}
+- model: BookBorrow.country
+  pk: RE
+  fields: {name: "R\xE9union\n"}
+- model: BookBorrow.country
+  pk: RO
+  fields: {name: 'Romania
+
+'}
+- model: BookBorrow.country
+  pk: RS
+  fields: {name: 'Serbia
+
+'}
+- model: BookBorrow.country
+  pk: RU
+  fields: {name: 'Russian Federation
+
+'}
+- model: BookBorrow.country
+  pk: RW
+  fields: {name: 'Rwanda
+
+'}
+- model: BookBorrow.country
+  pk: SA
+  fields: {name: 'Saudi Arabia
+
+'}
+- model: BookBorrow.country
+  pk: SB
+  fields: {name: 'Solomon Islands
+
+'}
+- model: BookBorrow.country
+  pk: SC
+  fields: {name: 'Seychelles
+
+'}
+- model: BookBorrow.country
+  pk: SD
+  fields: {name: 'Sudan
+
+'}
+- model: BookBorrow.country
+  pk: SE
+  fields: {name: 'Sweden
+
+'}
+- model: BookBorrow.country
+  pk: SG
+  fields: {name: 'Singapore
+
+'}
+- model: BookBorrow.country
+  pk: SH
+  fields: {name: 'Saint Helena, Ascension and Tristan da Cunha
+
+'}
+- model: BookBorrow.country
+  pk: SI
+  fields: {name: 'Slovenia
+
+'}
+- model: BookBorrow.country
+  pk: SJ
+  fields: {name: 'Svalbard and Jan Mayen
+
+'}
+- model: BookBorrow.country
+  pk: SK
+  fields: {name: 'Slovakia
+
+'}
+- model: BookBorrow.country
+  pk: SL
+  fields: {name: 'Sierra Leone
+
+'}
+- model: BookBorrow.country
+  pk: SM
+  fields: {name: 'San Marino
+
+'}
+- model: BookBorrow.country
+  pk: SN
+  fields: {name: 'Senegal
+
+'}
+- model: BookBorrow.country
+  pk: SO
+  fields: {name: 'Somalia
+
+'}
+- model: BookBorrow.country
+  pk: SR
+  fields: {name: 'Suriname
+
+'}
+- model: BookBorrow.country
+  pk: SS
+  fields: {name: 'South Sudan
+
+'}
+- model: BookBorrow.country
+  pk: ST
+  fields: {name: 'Sao Tome and Principe
+
+'}
+- model: BookBorrow.country
+  pk: SV
+  fields: {name: 'El Salvador
+
+'}
+- model: BookBorrow.country
+  pk: SX
+  fields: {name: 'Sint Maarten (Dutch part)
+
+'}
+- model: BookBorrow.country
+  pk: SY
+  fields: {name: 'Syrian Arab Republic
+
+'}
+- model: BookBorrow.country
+  pk: SZ
+  fields: {name: 'Eswatini
+
+'}
+- model: BookBorrow.country
+  pk: TC
+  fields: {name: 'Turks and Caicos Islands
+
+'}
+- model: BookBorrow.country
+  pk: TD
+  fields: {name: 'Chad
+
+'}
+- model: BookBorrow.country
+  pk: TF
+  fields: {name: 'French Southern Territories
+
+'}
+- model: BookBorrow.country
+  pk: TG
+  fields: {name: 'Togo
+
+'}
+- model: BookBorrow.country
+  pk: TH
+  fields: {name: 'Thailand
+
+'}
+- model: BookBorrow.country
+  pk: TJ
+  fields: {name: 'Tajikistan
+
+'}
+- model: BookBorrow.country
+  pk: TK
+  fields: {name: 'Tokelau
+
+'}
+- model: BookBorrow.country
+  pk: TL
+  fields: {name: 'Timor-Leste
+
+'}
+- model: BookBorrow.country
+  pk: TM
+  fields: {name: 'Turkmenistan
+
+'}
+- model: BookBorrow.country
+  pk: TN
+  fields: {name: 'Tunisia
+
+'}
+- model: BookBorrow.country
+  pk: TO
+  fields: {name: 'Tonga
+
+'}
+- model: BookBorrow.country
+  pk: TR
+  fields: {name: 'Turkey
+
+'}
+- model: BookBorrow.country
+  pk: TT
+  fields: {name: 'Trinidad and Tobago
+
+'}
+- model: BookBorrow.country
+  pk: TV
+  fields: {name: 'Tuvalu
+
+'}
+- model: BookBorrow.country
+  pk: TW
+  fields: {name: 'Taiwan, Province of China
+
+'}
+- model: BookBorrow.country
+  pk: TZ
+  fields: {name: 'Tanzania, United Republic of
+
+'}
+- model: BookBorrow.country
+  pk: UA
+  fields: {name: 'Ukraine
+
+'}
+- model: BookBorrow.country
+  pk: UG
+  fields: {name: 'Uganda
+
+'}
+- model: BookBorrow.country
+  pk: UM
+  fields: {name: 'United States Minor Outlying Islands
+
+'}
+- model: BookBorrow.country
+  pk: US
+  fields: {name: 'United States
+
+'}
+- model: BookBorrow.country
+  pk: UY
+  fields: {name: 'Uruguay
+
+'}
+- model: BookBorrow.country
+  pk: UZ
+  fields: {name: 'Uzbekistan
+
+'}
+- model: BookBorrow.country
+  pk: VA
+  fields: {name: 'Holy See (Vatican City State)
+
+'}
+- model: BookBorrow.country
+  pk: VC
+  fields: {name: 'Saint Vincent and the Grenadines
+
+'}
+- model: BookBorrow.country
+  pk: VE
+  fields: {name: 'Venezuela, Bolivarian Republic of
+
+'}
+- model: BookBorrow.country
+  pk: VG
+  fields: {name: 'Virgin Islands, British
+
+'}
+- model: BookBorrow.country
+  pk: VI
+  fields: {name: 'Virgin Islands, U.S.
+
+'}
+- model: BookBorrow.country
+  pk: VN
+  fields: {name: 'Viet Nam
+
+'}
+- model: BookBorrow.country
+  pk: VU
+  fields: {name: 'Vanuatu
+
+'}
+- model: BookBorrow.country
+  pk: WF
+  fields: {name: 'Wallis and Futuna
+
+'}
+- model: BookBorrow.country
+  pk: WS
+  fields: {name: 'Samoa
+
+'}
+- model: BookBorrow.country
+  pk: YE
+  fields: {name: 'Yemen
+
+'}
+- model: BookBorrow.country
+  pk: YT
+  fields: {name: 'Mayotte
+
+'}
+- model: BookBorrow.country
+  pk: ZA
+  fields: {name: 'South Africa
+
+'}
+- model: BookBorrow.country
+  pk: ZM
+  fields: {name: 'Zambia
+
+'}
+- model: BookBorrow.country
+  pk: ZW
+  fields: {name: 'Zimbabwe
+
+'}
+- model: BookBorrow.language
+  pk: aa
+  fields: {name: Afar}
+- model: BookBorrow.language
+  pk: ab
+  fields: {name: Abkhazian}
+- model: BookBorrow.language
+  pk: ace
+  fields: {name: Achinese}
+- model: BookBorrow.language
+  pk: ach
+  fields: {name: Acoli}
+- model: BookBorrow.language
+  pk: ada
+  fields: {name: Adangme}
+- model: BookBorrow.language
+  pk: ady
+  fields: {name: Adyghe}
+- model: BookBorrow.language
+  pk: ae
+  fields: {name: Avestan}
+- model: BookBorrow.language
+  pk: aeb
+  fields: {name: Tunisian Arabic}
+- model: BookBorrow.language
+  pk: af
+  fields: {name: Afrikaans}
+- model: BookBorrow.language
+  pk: afh
+  fields: {name: Afrihili}
+- model: BookBorrow.language
+  pk: agq
+  fields: {name: Aghem}
+- model: BookBorrow.language
+  pk: ain
+  fields: {name: Ainu}
+- model: BookBorrow.language
+  pk: ak
+  fields: {name: Akan}
+- model: BookBorrow.language
+  pk: akk
+  fields: {name: Akkadian}
+- model: BookBorrow.language
+  pk: akz
+  fields: {name: Alabama}
+- model: BookBorrow.language
+  pk: ale
+  fields: {name: Aleut}
+- model: BookBorrow.language
+  pk: aln
+  fields: {name: Gheg Albanian}
+- model: BookBorrow.language
+  pk: alt
+  fields: {name: Southern Altai}
+- model: BookBorrow.language
+  pk: am
+  fields: {name: Amharic}
+- model: BookBorrow.language
+  pk: an
+  fields: {name: Aragonese}
+- model: BookBorrow.language
+  pk: ang
+  fields: {name: Old English}
+- model: BookBorrow.language
+  pk: anp
+  fields: {name: Angika}
+- model: BookBorrow.language
+  pk: ar
+  fields: {name: Arabic}
+- model: BookBorrow.language
+  pk: ar_001
+  fields: {name: Modern Standard Arabic}
+- model: BookBorrow.language
+  pk: arc
+  fields: {name: Aramaic}
+- model: BookBorrow.language
+  pk: arn
+  fields: {name: Mapuche}
+- model: BookBorrow.language
+  pk: aro
+  fields: {name: Araona}
+- model: BookBorrow.language
+  pk: arp
+  fields: {name: Arapaho}
+- model: BookBorrow.language
+  pk: arq
+  fields: {name: Algerian Arabic}
+- model: BookBorrow.language
+  pk: arw
+  fields: {name: Arawak}
+- model: BookBorrow.language
+  pk: ary
+  fields: {name: Moroccan Arabic}
+- model: BookBorrow.language
+  pk: arz
+  fields: {name: Egyptian Arabic}
+- model: BookBorrow.language
+  pk: as
+  fields: {name: Assamese}
+- model: BookBorrow.language
+  pk: asa
+  fields: {name: Asu}
+- model: BookBorrow.language
+  pk: ase
+  fields: {name: American Sign Language}
+- model: BookBorrow.language
+  pk: ast
+  fields: {name: Asturian}
+- model: BookBorrow.language
+  pk: av
+  fields: {name: Avaric}
+- model: BookBorrow.language
+  pk: avk
+  fields: {name: Kotava}
+- model: BookBorrow.language
+  pk: awa
+  fields: {name: Awadhi}
+- model: BookBorrow.language
+  pk: ay
+  fields: {name: Aymara}
+- model: BookBorrow.language
+  pk: az
+  fields: {name: Azerbaijani}
+- model: BookBorrow.language
+  pk: azb
+  fields: {name: South Azerbaijani}
+- model: BookBorrow.language
+  pk: ba
+  fields: {name: Bashkir}
+- model: BookBorrow.language
+  pk: bal
+  fields: {name: Baluchi}
+- model: BookBorrow.language
+  pk: ban
+  fields: {name: Balinese}
+- model: BookBorrow.language
+  pk: bar
+  fields: {name: Bavarian}
+- model: BookBorrow.language
+  pk: bas
+  fields: {name: Basaa}
+- model: BookBorrow.language
+  pk: bax
+  fields: {name: Bamun}
+- model: BookBorrow.language
+  pk: bbc
+  fields: {name: Batak Toba}
+- model: BookBorrow.language
+  pk: bbj
+  fields: {name: Ghomala}
+- model: BookBorrow.language
+  pk: be
+  fields: {name: Belarusian}
+- model: BookBorrow.language
+  pk: bej
+  fields: {name: Beja}
+- model: BookBorrow.language
+  pk: bem
+  fields: {name: Bemba}
+- model: BookBorrow.language
+  pk: bew
+  fields: {name: Betawi}
+- model: BookBorrow.language
+  pk: bez
+  fields: {name: Bena}
+- model: BookBorrow.language
+  pk: bfd
+  fields: {name: Bafut}
+- model: BookBorrow.language
+  pk: bfq
+  fields: {name: Badaga}
+- model: BookBorrow.language
+  pk: bg
+  fields: {name: Bulgarian}
+- model: BookBorrow.language
+  pk: bho
+  fields: {name: Bhojpuri}
+- model: BookBorrow.language
+  pk: bi
+  fields: {name: Bislama}
+- model: BookBorrow.language
+  pk: bik
+  fields: {name: Bikol}
+- model: BookBorrow.language
+  pk: bin
+  fields: {name: Bini}
+- model: BookBorrow.language
+  pk: bjn
+  fields: {name: Banjar}
+- model: BookBorrow.language
+  pk: bkm
+  fields: {name: Kom}
+- model: BookBorrow.language
+  pk: bla
+  fields: {name: Siksika}
+- model: BookBorrow.language
+  pk: bm
+  fields: {name: Bambara}
+- model: BookBorrow.language
+  pk: bn
+  fields: {name: Bengali}
+- model: BookBorrow.language
+  pk: bo
+  fields: {name: Tibetan}
+- model: BookBorrow.language
+  pk: bpy
+  fields: {name: Bishnupriya}
+- model: BookBorrow.language
+  pk: bqi
+  fields: {name: Bakhtiari}
+- model: BookBorrow.language
+  pk: br
+  fields: {name: Breton}
+- model: BookBorrow.language
+  pk: bra
+  fields: {name: Braj}
+- model: BookBorrow.language
+  pk: brh
+  fields: {name: Brahui}
+- model: BookBorrow.language
+  pk: brx
+  fields: {name: Bodo}
+- model: BookBorrow.language
+  pk: bs
+  fields: {name: Bosnian}
+- model: BookBorrow.language
+  pk: bss
+  fields: {name: Akoose}
+- model: BookBorrow.language
+  pk: bua
+  fields: {name: Buriat}
+- model: BookBorrow.language
+  pk: bug
+  fields: {name: Buginese}
+- model: BookBorrow.language
+  pk: bum
+  fields: {name: Bulu}
+- model: BookBorrow.language
+  pk: byn
+  fields: {name: Blin}
+- model: BookBorrow.language
+  pk: byv
+  fields: {name: Medumba}
+- model: BookBorrow.language
+  pk: ca
+  fields: {name: Catalan}
+- model: BookBorrow.language
+  pk: cad
+  fields: {name: Caddo}
+- model: BookBorrow.language
+  pk: car
+  fields: {name: Carib}
+- model: BookBorrow.language
+  pk: cay
+  fields: {name: Cayuga}
+- model: BookBorrow.language
+  pk: cch
+  fields: {name: Atsam}
+- model: BookBorrow.language
+  pk: ce
+  fields: {name: Chechen}
+- model: BookBorrow.language
+  pk: ceb
+  fields: {name: Cebuano}
+- model: BookBorrow.language
+  pk: cgg
+  fields: {name: Chiga}
+- model: BookBorrow.language
+  pk: ch
+  fields: {name: Chamorro}
+- model: BookBorrow.language
+  pk: chb
+  fields: {name: Chibcha}
+- model: BookBorrow.language
+  pk: chg
+  fields: {name: Chagatai}
+- model: BookBorrow.language
+  pk: chk
+  fields: {name: Chuukese}
+- model: BookBorrow.language
+  pk: chm
+  fields: {name: Mari}
+- model: BookBorrow.language
+  pk: chn
+  fields: {name: Chinook Jargon}
+- model: BookBorrow.language
+  pk: cho
+  fields: {name: Choctaw}
+- model: BookBorrow.language
+  pk: chp
+  fields: {name: Chipewyan}
+- model: BookBorrow.language
+  pk: chr
+  fields: {name: Cherokee}
+- model: BookBorrow.language
+  pk: chy
+  fields: {name: Cheyenne}
+- model: BookBorrow.language
+  pk: ckb
+  fields: {name: Central Kurdish}
+- model: BookBorrow.language
+  pk: co
+  fields: {name: Corsican}
+- model: BookBorrow.language
+  pk: cop
+  fields: {name: Coptic}
+- model: BookBorrow.language
+  pk: cps
+  fields: {name: Capiznon}
+- model: BookBorrow.language
+  pk: cr
+  fields: {name: Cree}
+- model: BookBorrow.language
+  pk: crh
+  fields: {name: Crimean Turkish}
+- model: BookBorrow.language
+  pk: cs
+  fields: {name: Czech}
+- model: BookBorrow.language
+  pk: csb
+  fields: {name: Kashubian}
+- model: BookBorrow.language
+  pk: cu
+  fields: {name: Church Slavic}
+- model: BookBorrow.language
+  pk: cv
+  fields: {name: Chuvash}
+- model: BookBorrow.language
+  pk: cy
+  fields: {name: Welsh}
+- model: BookBorrow.language
+  pk: da
+  fields: {name: Danish}
+- model: BookBorrow.language
+  pk: dak
+  fields: {name: Dakota}
+- model: BookBorrow.language
+  pk: dar
+  fields: {name: Dargwa}
+- model: BookBorrow.language
+  pk: dav
+  fields: {name: Taita}
+- model: BookBorrow.language
+  pk: de
+  fields: {name: German}
+- model: BookBorrow.language
+  pk: de_AT
+  fields: {name: Austrian German}
+- model: BookBorrow.language
+  pk: de_CH
+  fields: {name: Swiss High German}
+- model: BookBorrow.language
+  pk: del
+  fields: {name: Delaware}
+- model: BookBorrow.language
+  pk: den
+  fields: {name: Slave}
+- model: BookBorrow.language
+  pk: dgr
+  fields: {name: Dogrib}
+- model: BookBorrow.language
+  pk: din
+  fields: {name: Dinka}
+- model: BookBorrow.language
+  pk: dje
+  fields: {name: Zarma}
+- model: BookBorrow.language
+  pk: doi
+  fields: {name: Dogri}
+- model: BookBorrow.language
+  pk: dsb
+  fields: {name: Lower Sorbian}
+- model: BookBorrow.language
+  pk: dtp
+  fields: {name: Central Dusun}
+- model: BookBorrow.language
+  pk: dua
+  fields: {name: Duala}
+- model: BookBorrow.language
+  pk: dum
+  fields: {name: Middle Dutch}
+- model: BookBorrow.language
+  pk: dv
+  fields: {name: Divehi}
+- model: BookBorrow.language
+  pk: dyo
+  fields: {name: Jola-Fonyi}
+- model: BookBorrow.language
+  pk: dyu
+  fields: {name: Dyula}
+- model: BookBorrow.language
+  pk: dz
+  fields: {name: Dzongkha}
+- model: BookBorrow.language
+  pk: dzg
+  fields: {name: Dazaga}
+- model: BookBorrow.language
+  pk: ebu
+  fields: {name: Embu}
+- model: BookBorrow.language
+  pk: ee
+  fields: {name: Ewe}
+- model: BookBorrow.language
+  pk: efi
+  fields: {name: Efik}
+- model: BookBorrow.language
+  pk: egl
+  fields: {name: Emilian}
+- model: BookBorrow.language
+  pk: egy
+  fields: {name: Ancient Egyptian}
+- model: BookBorrow.language
+  pk: eka
+  fields: {name: Ekajuk}
+- model: BookBorrow.language
+  pk: el
+  fields: {name: Greek}
+- model: BookBorrow.language
+  pk: elx
+  fields: {name: Elamite}
+- model: BookBorrow.language
+  pk: en
+  fields: {name: English}
+- model: BookBorrow.language
+  pk: en_AU
+  fields: {name: Australian English}
+- model: BookBorrow.language
+  pk: en_CA
+  fields: {name: Canadian English}
+- model: BookBorrow.language
+  pk: en_GB
+  fields: {name: British English}
+- model: BookBorrow.language
+  pk: en_US
+  fields: {name: American English}
+- model: BookBorrow.language
+  pk: enm
+  fields: {name: Middle English}
+- model: BookBorrow.language
+  pk: eo
+  fields: {name: Esperanto}
+- model: BookBorrow.language
+  pk: es
+  fields: {name: Spanish}
+- model: BookBorrow.language
+  pk: es_419
+  fields: {name: Latin American Spanish}
+- model: BookBorrow.language
+  pk: es_ES
+  fields: {name: European Spanish}
+- model: BookBorrow.language
+  pk: es_MX
+  fields: {name: Mexican Spanish}
+- model: BookBorrow.language
+  pk: esu
+  fields: {name: Central Yupik}
+- model: BookBorrow.language
+  pk: et
+  fields: {name: Estonian}
+- model: BookBorrow.language
+  pk: eu
+  fields: {name: Basque}
+- model: BookBorrow.language
+  pk: ewo
+  fields: {name: Ewondo}
+- model: BookBorrow.language
+  pk: ext
+  fields: {name: Extremaduran}
+- model: BookBorrow.language
+  pk: fa
+  fields: {name: Persian}
+- model: BookBorrow.language
+  pk: fan
+  fields: {name: Fang}
+- model: BookBorrow.language
+  pk: fat
+  fields: {name: Fanti}
+- model: BookBorrow.language
+  pk: ff
+  fields: {name: Fulah}
+- model: BookBorrow.language
+  pk: fi
+  fields: {name: Finnish}
+- model: BookBorrow.language
+  pk: fil
+  fields: {name: Filipino}
+- model: BookBorrow.language
+  pk: fit
+  fields: {name: Tornedalen Finnish}
+- model: BookBorrow.language
+  pk: fj
+  fields: {name: Fijian}
+- model: BookBorrow.language
+  pk: fo
+  fields: {name: Faroese}
+- model: BookBorrow.language
+  pk: fon
+  fields: {name: Fon}
+- model: BookBorrow.language
+  pk: fr
+  fields: {name: French}
+- model: BookBorrow.language
+  pk: fr_CA
+  fields: {name: Canadian French}
+- model: BookBorrow.language
+  pk: fr_CH
+  fields: {name: Swiss French}
+- model: BookBorrow.language
+  pk: frc
+  fields: {name: Cajun French}
+- model: BookBorrow.language
+  pk: frm
+  fields: {name: Middle French}
+- model: BookBorrow.language
+  pk: fro
+  fields: {name: Old French}
+- model: BookBorrow.language
+  pk: frp
+  fields: {name: Arpitan}
+- model: BookBorrow.language
+  pk: frr
+  fields: {name: Northern Frisian}
+- model: BookBorrow.language
+  pk: frs
+  fields: {name: Eastern Frisian}
+- model: BookBorrow.language
+  pk: fur
+  fields: {name: Friulian}
+- model: BookBorrow.language
+  pk: fy
+  fields: {name: Western Frisian}
+- model: BookBorrow.language
+  pk: ga
+  fields: {name: Irish}
+- model: BookBorrow.language
+  pk: gaa
+  fields: {name: Ga}
+- model: BookBorrow.language
+  pk: gag
+  fields: {name: Gagauz}
+- model: BookBorrow.language
+  pk: gan
+  fields: {name: Gan Chinese}
+- model: BookBorrow.language
+  pk: gay
+  fields: {name: Gayo}
+- model: BookBorrow.language
+  pk: gba
+  fields: {name: Gbaya}
+- model: BookBorrow.language
+  pk: gbz
+  fields: {name: Zoroastrian Dari}
+- model: BookBorrow.language
+  pk: gd
+  fields: {name: Scottish Gaelic}
+- model: BookBorrow.language
+  pk: gez
+  fields: {name: Geez}
+- model: BookBorrow.language
+  pk: gil
+  fields: {name: Gilbertese}
+- model: BookBorrow.language
+  pk: gl
+  fields: {name: Galician}
+- model: BookBorrow.language
+  pk: glk
+  fields: {name: Gilaki}
+- model: BookBorrow.language
+  pk: gmh
+  fields: {name: Middle High German}
+- model: BookBorrow.language
+  pk: gn
+  fields: {name: Guarani}
+- model: BookBorrow.language
+  pk: goh
+  fields: {name: Old High German}
+- model: BookBorrow.language
+  pk: gom
+  fields: {name: Goan Konkani}
+- model: BookBorrow.language
+  pk: gon
+  fields: {name: Gondi}
+- model: BookBorrow.language
+  pk: gor
+  fields: {name: Gorontalo}
+- model: BookBorrow.language
+  pk: got
+  fields: {name: Gothic}
+- model: BookBorrow.language
+  pk: grb
+  fields: {name: Grebo}
+- model: BookBorrow.language
+  pk: grc
+  fields: {name: Ancient Greek}
+- model: BookBorrow.language
+  pk: gsw
+  fields: {name: Swiss German}
+- model: BookBorrow.language
+  pk: gu
+  fields: {name: Gujarati}
+- model: BookBorrow.language
+  pk: guc
+  fields: {name: Wayuu}
+- model: BookBorrow.language
+  pk: gur
+  fields: {name: Frafra}
+- model: BookBorrow.language
+  pk: guz
+  fields: {name: Gusii}
+- model: BookBorrow.language
+  pk: gv
+  fields: {name: Manx}
+- model: BookBorrow.language
+  pk: gwi
+  fields: {name: "Gwich\u02BCin"}
+- model: BookBorrow.language
+  pk: ha
+  fields: {name: Hausa}
+- model: BookBorrow.language
+  pk: hai
+  fields: {name: Haida}
+- model: BookBorrow.language
+  pk: hak
+  fields: {name: Hakka Chinese}
+- model: BookBorrow.language
+  pk: haw
+  fields: {name: Hawaiian}
+- model: BookBorrow.language
+  pk: he
+  fields: {name: Hebrew}
+- model: BookBorrow.language
+  pk: hi
+  fields: {name: Hindi}
+- model: BookBorrow.language
+  pk: hif
+  fields: {name: Fiji Hindi}
+- model: BookBorrow.language
+  pk: hil
+  fields: {name: Hiligaynon}
+- model: BookBorrow.language
+  pk: hit
+  fields: {name: Hittite}
+- model: BookBorrow.language
+  pk: hmn
+  fields: {name: Hmong}
+- model: BookBorrow.language
+  pk: ho
+  fields: {name: Hiri Motu}
+- model: BookBorrow.language
+  pk: hr
+  fields: {name: Croatian}
+- model: BookBorrow.language
+  pk: hsb
+  fields: {name: Upper Sorbian}
+- model: BookBorrow.language
+  pk: hsn
+  fields: {name: Xiang Chinese}
+- model: BookBorrow.language
+  pk: ht
+  fields: {name: Haitian}
+- model: BookBorrow.language
+  pk: hu
+  fields: {name: Hungarian}
+- model: BookBorrow.language
+  pk: hup
+  fields: {name: Hupa}
+- model: BookBorrow.language
+  pk: hy
+  fields: {name: Armenian}
+- model: BookBorrow.language
+  pk: hz
+  fields: {name: Herero}
+- model: BookBorrow.language
+  pk: ia
+  fields: {name: Interlingua}
+- model: BookBorrow.language
+  pk: iba
+  fields: {name: Iban}
+- model: BookBorrow.language
+  pk: ibb
+  fields: {name: Ibibio}
+- model: BookBorrow.language
+  pk: id
+  fields: {name: Indonesian}
+- model: BookBorrow.language
+  pk: ie
+  fields: {name: Interlingue}
+- model: BookBorrow.language
+  pk: ig
+  fields: {name: Igbo}
+- model: BookBorrow.language
+  pk: ii
+  fields: {name: Sichuan Yi}
+- model: BookBorrow.language
+  pk: ik
+  fields: {name: Inupiaq}
+- model: BookBorrow.language
+  pk: ilo
+  fields: {name: Iloko}
+- model: BookBorrow.language
+  pk: inh
+  fields: {name: Ingush}
+- model: BookBorrow.language
+  pk: io
+  fields: {name: Ido}
+- model: BookBorrow.language
+  pk: is
+  fields: {name: Icelandic}
+- model: BookBorrow.language
+  pk: it
+  fields: {name: Italian}
+- model: BookBorrow.language
+  pk: iu
+  fields: {name: Inuktitut}
+- model: BookBorrow.language
+  pk: izh
+  fields: {name: Ingrian}
+- model: BookBorrow.language
+  pk: ja
+  fields: {name: Japanese}
+- model: BookBorrow.language
+  pk: jam
+  fields: {name: Jamaican Creole English}
+- model: BookBorrow.language
+  pk: jbo
+  fields: {name: Lojban}
+- model: BookBorrow.language
+  pk: jgo
+  fields: {name: Ngomba}
+- model: BookBorrow.language
+  pk: jmc
+  fields: {name: Machame}
+- model: BookBorrow.language
+  pk: jpr
+  fields: {name: Judeo-Persian}
+- model: BookBorrow.language
+  pk: jrb
+  fields: {name: Judeo-Arabic}
+- model: BookBorrow.language
+  pk: jut
+  fields: {name: Jutish}
+- model: BookBorrow.language
+  pk: jv
+  fields: {name: Javanese}
+- model: BookBorrow.language
+  pk: ka
+  fields: {name: Georgian}
+- model: BookBorrow.language
+  pk: kaa
+  fields: {name: Kara-Kalpak}
+- model: BookBorrow.language
+  pk: kab
+  fields: {name: Kabyle}
+- model: BookBorrow.language
+  pk: kac
+  fields: {name: Kachin}
+- model: BookBorrow.language
+  pk: kaj
+  fields: {name: Jju}
+- model: BookBorrow.language
+  pk: kam
+  fields: {name: Kamba}
+- model: BookBorrow.language
+  pk: kaw
+  fields: {name: Kawi}
+- model: BookBorrow.language
+  pk: kbd
+  fields: {name: Kabardian}
+- model: BookBorrow.language
+  pk: kbl
+  fields: {name: Kanembu}
+- model: BookBorrow.language
+  pk: kcg
+  fields: {name: Tyap}
+- model: BookBorrow.language
+  pk: kde
+  fields: {name: Makonde}
+- model: BookBorrow.language
+  pk: kea
+  fields: {name: Kabuverdianu}
+- model: BookBorrow.language
+  pk: ken
+  fields: {name: Kenyang}
+- model: BookBorrow.language
+  pk: kfo
+  fields: {name: Koro}
+- model: BookBorrow.language
+  pk: kg
+  fields: {name: Kongo}
+- model: BookBorrow.language
+  pk: kgp
+  fields: {name: Kaingang}
+- model: BookBorrow.language
+  pk: kha
+  fields: {name: Khasi}
+- model: BookBorrow.language
+  pk: kho
+  fields: {name: Khotanese}
+- model: BookBorrow.language
+  pk: khq
+  fields: {name: Koyra Chiini}
+- model: BookBorrow.language
+  pk: khw
+  fields: {name: Khowar}
+- model: BookBorrow.language
+  pk: ki
+  fields: {name: Kikuyu}
+- model: BookBorrow.language
+  pk: kiu
+  fields: {name: Kirmanjki}
+- model: BookBorrow.language
+  pk: kj
+  fields: {name: Kuanyama}
+- model: BookBorrow.language
+  pk: kk
+  fields: {name: Kazakh}
+- model: BookBorrow.language
+  pk: kkj
+  fields: {name: Kako}
+- model: BookBorrow.language
+  pk: kl
+  fields: {name: Kalaallisut}
+- model: BookBorrow.language
+  pk: kln
+  fields: {name: Kalenjin}
+- model: BookBorrow.language
+  pk: km
+  fields: {name: Khmer}
+- model: BookBorrow.language
+  pk: kmb
+  fields: {name: Kimbundu}
+- model: BookBorrow.language
+  pk: kn
+  fields: {name: Kannada}
+- model: BookBorrow.language
+  pk: ko
+  fields: {name: Korean}
+- model: BookBorrow.language
+  pk: koi
+  fields: {name: Komi-Permyak}
+- model: BookBorrow.language
+  pk: kok
+  fields: {name: Konkani}
+- model: BookBorrow.language
+  pk: kos
+  fields: {name: Kosraean}
+- model: BookBorrow.language
+  pk: kpe
+  fields: {name: Kpelle}
+- model: BookBorrow.language
+  pk: kr
+  fields: {name: Kanuri}
+- model: BookBorrow.language
+  pk: krc
+  fields: {name: Karachay-Balkar}
+- model: BookBorrow.language
+  pk: kri
+  fields: {name: Krio}
+- model: BookBorrow.language
+  pk: krj
+  fields: {name: Kinaray-a}
+- model: BookBorrow.language
+  pk: krl
+  fields: {name: Karelian}
+- model: BookBorrow.language
+  pk: kru
+  fields: {name: Kurukh}
+- model: BookBorrow.language
+  pk: ks
+  fields: {name: Kashmiri}
+- model: BookBorrow.language
+  pk: ksb
+  fields: {name: Shambala}
+- model: BookBorrow.language
+  pk: ksf
+  fields: {name: Bafia}
+- model: BookBorrow.language
+  pk: ksh
+  fields: {name: Colognian}
+- model: BookBorrow.language
+  pk: ku
+  fields: {name: Kurdish}
+- model: BookBorrow.language
+  pk: kum
+  fields: {name: Kumyk}
+- model: BookBorrow.language
+  pk: kut
+  fields: {name: Kutenai}
+- model: BookBorrow.language
+  pk: kv
+  fields: {name: Komi}
+- model: BookBorrow.language
+  pk: kw
+  fields: {name: Cornish}
+- model: BookBorrow.language
+  pk: ky
+  fields: {name: Kyrgyz}
+- model: BookBorrow.language
+  pk: la
+  fields: {name: Latin}
+- model: BookBorrow.language
+  pk: lad
+  fields: {name: Ladino}
+- model: BookBorrow.language
+  pk: lag
+  fields: {name: Langi}
+- model: BookBorrow.language
+  pk: lah
+  fields: {name: Lahnda}
+- model: BookBorrow.language
+  pk: lam
+  fields: {name: Lamba}
+- model: BookBorrow.language
+  pk: lb
+  fields: {name: Luxembourgish}
+- model: BookBorrow.language
+  pk: lez
+  fields: {name: Lezghian}
+- model: BookBorrow.language
+  pk: lfn
+  fields: {name: Lingua Franca Nova}
+- model: BookBorrow.language
+  pk: lg
+  fields: {name: Ganda}
+- model: BookBorrow.language
+  pk: li
+  fields: {name: Limburgish}
+- model: BookBorrow.language
+  pk: lij
+  fields: {name: Ligurian}
+- model: BookBorrow.language
+  pk: liv
+  fields: {name: Livonian}
+- model: BookBorrow.language
+  pk: lkt
+  fields: {name: Lakota}
+- model: BookBorrow.language
+  pk: lmo
+  fields: {name: Lombard}
+- model: BookBorrow.language
+  pk: ln
+  fields: {name: Lingala}
+- model: BookBorrow.language
+  pk: lo
+  fields: {name: Lao}
+- model: BookBorrow.language
+  pk: lol
+  fields: {name: Mongo}
+- model: BookBorrow.language
+  pk: loz
+  fields: {name: Lozi}
+- model: BookBorrow.language
+  pk: lt
+  fields: {name: Lithuanian}
+- model: BookBorrow.language
+  pk: ltg
+  fields: {name: Latgalian}
+- model: BookBorrow.language
+  pk: lu
+  fields: {name: Luba-Katanga}
+- model: BookBorrow.language
+  pk: lua
+  fields: {name: Luba-Lulua}
+- model: BookBorrow.language
+  pk: lui
+  fields: {name: Luiseno}
+- model: BookBorrow.language
+  pk: lun
+  fields: {name: Lunda}
+- model: BookBorrow.language
+  pk: luo
+  fields: {name: Luo}
+- model: BookBorrow.language
+  pk: lus
+  fields: {name: Mizo}
+- model: BookBorrow.language
+  pk: luy
+  fields: {name: Luyia}
+- model: BookBorrow.language
+  pk: lv
+  fields: {name: Latvian}
+- model: BookBorrow.language
+  pk: lzh
+  fields: {name: Literary Chinese}
+- model: BookBorrow.language
+  pk: lzz
+  fields: {name: Laz}
+- model: BookBorrow.language
+  pk: mad
+  fields: {name: Madurese}
+- model: BookBorrow.language
+  pk: maf
+  fields: {name: Mafa}
+- model: BookBorrow.language
+  pk: mag
+  fields: {name: Magahi}
+- model: BookBorrow.language
+  pk: mai
+  fields: {name: Maithili}
+- model: BookBorrow.language
+  pk: mak
+  fields: {name: Makasar}
+- model: BookBorrow.language
+  pk: man
+  fields: {name: Mandingo}
+- model: BookBorrow.language
+  pk: mas
+  fields: {name: Masai}
+- model: BookBorrow.language
+  pk: mde
+  fields: {name: Maba}
+- model: BookBorrow.language
+  pk: mdf
+  fields: {name: Moksha}
+- model: BookBorrow.language
+  pk: mdr
+  fields: {name: Mandar}
+- model: BookBorrow.language
+  pk: men
+  fields: {name: Mende}
+- model: BookBorrow.language
+  pk: mer
+  fields: {name: Meru}
+- model: BookBorrow.language
+  pk: mfe
+  fields: {name: Morisyen}
+- model: BookBorrow.language
+  pk: mg
+  fields: {name: Malagasy}
+- model: BookBorrow.language
+  pk: mga
+  fields: {name: Middle Irish}
+- model: BookBorrow.language
+  pk: mgh
+  fields: {name: Makhuwa-Meetto}
+- model: BookBorrow.language
+  pk: mgo
+  fields: {name: "Meta\u02BC"}
+- model: BookBorrow.language
+  pk: mh
+  fields: {name: Marshallese}
+- model: BookBorrow.language
+  pk: mi
+  fields: {name: Maori}
+- model: BookBorrow.language
+  pk: mic
+  fields: {name: Micmac}
+- model: BookBorrow.language
+  pk: min
+  fields: {name: Minangkabau}
+- model: BookBorrow.language
+  pk: mk
+  fields: {name: Macedonian}
+- model: BookBorrow.language
+  pk: ml
+  fields: {name: Malayalam}
+- model: BookBorrow.language
+  pk: mn
+  fields: {name: Mongolian}
+- model: BookBorrow.language
+  pk: mnc
+  fields: {name: Manchu}
+- model: BookBorrow.language
+  pk: mni
+  fields: {name: Manipuri}
+- model: BookBorrow.language
+  pk: moh
+  fields: {name: Mohawk}
+- model: BookBorrow.language
+  pk: mos
+  fields: {name: Mossi}
+- model: BookBorrow.language
+  pk: mr
+  fields: {name: Marathi}
+- model: BookBorrow.language
+  pk: mrj
+  fields: {name: Western Mari}
+- model: BookBorrow.language
+  pk: ms
+  fields: {name: Malay}
+- model: BookBorrow.language
+  pk: mt
+  fields: {name: Maltese}
+- model: BookBorrow.language
+  pk: mua
+  fields: {name: Mundang}
+- model: BookBorrow.language
+  pk: mul
+  fields: {name: Multiple Languages}
+- model: BookBorrow.language
+  pk: mus
+  fields: {name: Creek}
+- model: BookBorrow.language
+  pk: mwl
+  fields: {name: Mirandese}
+- model: BookBorrow.language
+  pk: mwr
+  fields: {name: Marwari}
+- model: BookBorrow.language
+  pk: mwv
+  fields: {name: Mentawai}
+- model: BookBorrow.language
+  pk: my
+  fields: {name: Burmese}
+- model: BookBorrow.language
+  pk: mye
+  fields: {name: Myene}
+- model: BookBorrow.language
+  pk: myv
+  fields: {name: Erzya}
+- model: BookBorrow.language
+  pk: mzn
+  fields: {name: Mazanderani}
+- model: BookBorrow.language
+  pk: na
+  fields: {name: Nauru}
+- model: BookBorrow.language
+  pk: nan
+  fields: {name: Min Nan Chinese}
+- model: BookBorrow.language
+  pk: nap
+  fields: {name: Neapolitan}
+- model: BookBorrow.language
+  pk: naq
+  fields: {name: Nama}
+- model: BookBorrow.language
+  pk: nb
+  fields: {name: "Norwegian Bokm\xE5l"}
+- model: BookBorrow.language
+  pk: nd
+  fields: {name: North Ndebele}
+- model: BookBorrow.language
+  pk: nds
+  fields: {name: Low German}
+- model: BookBorrow.language
+  pk: ne
+  fields: {name: Nepali}
+- model: BookBorrow.language
+  pk: new
+  fields: {name: Newari}
+- model: BookBorrow.language
+  pk: ng
+  fields: {name: Ndonga}
+- model: BookBorrow.language
+  pk: nia
+  fields: {name: Nias}
+- model: BookBorrow.language
+  pk: niu
+  fields: {name: Niuean}
+- model: BookBorrow.language
+  pk: njo
+  fields: {name: Ao Naga}
+- model: BookBorrow.language
+  pk: nl
+  fields: {name: Dutch}
+- model: BookBorrow.language
+  pk: nl_BE
+  fields: {name: Flemish}
+- model: BookBorrow.language
+  pk: nmg
+  fields: {name: Kwasio}
+- model: BookBorrow.language
+  pk: nn
+  fields: {name: Norwegian Nynorsk}
+- model: BookBorrow.language
+  pk: nnh
+  fields: {name: Ngiemboon}
+- model: BookBorrow.language
+  pk: 'no'
+  fields: {name: Norwegian}
+- model: BookBorrow.language
+  pk: nog
+  fields: {name: Nogai}
+- model: BookBorrow.language
+  pk: non
+  fields: {name: Old Norse}
+- model: BookBorrow.language
+  pk: nov
+  fields: {name: Novial}
+- model: BookBorrow.language
+  pk: nqo
+  fields: {name: "N\u02BCKo"}
+- model: BookBorrow.language
+  pk: nr
+  fields: {name: South Ndebele}
+- model: BookBorrow.language
+  pk: nso
+  fields: {name: Northern Sotho}
+- model: BookBorrow.language
+  pk: nus
+  fields: {name: Nuer}
+- model: BookBorrow.language
+  pk: nv
+  fields: {name: Navajo}
+- model: BookBorrow.language
+  pk: nwc
+  fields: {name: Classical Newari}
+- model: BookBorrow.language
+  pk: ny
+  fields: {name: Nyanja}
+- model: BookBorrow.language
+  pk: nym
+  fields: {name: Nyamwezi}
+- model: BookBorrow.language
+  pk: nyn
+  fields: {name: Nyankole}
+- model: BookBorrow.language
+  pk: nyo
+  fields: {name: Nyoro}
+- model: BookBorrow.language
+  pk: nzi
+  fields: {name: Nzima}
+- model: BookBorrow.language
+  pk: oc
+  fields: {name: Occitan}
+- model: BookBorrow.language
+  pk: oj
+  fields: {name: Ojibwa}
+- model: BookBorrow.language
+  pk: om
+  fields: {name: Oromo}
+- model: BookBorrow.language
+  pk: or
+  fields: {name: Oriya}
+- model: BookBorrow.language
+  pk: os
+  fields: {name: Ossetic}
+- model: BookBorrow.language
+  pk: osa
+  fields: {name: Osage}
+- model: BookBorrow.language
+  pk: ota
+  fields: {name: Ottoman Turkish}
+- model: BookBorrow.language
+  pk: pa
+  fields: {name: Punjabi}
+- model: BookBorrow.language
+  pk: pag
+  fields: {name: Pangasinan}
+- model: BookBorrow.language
+  pk: pal
+  fields: {name: Pahlavi}
+- model: BookBorrow.language
+  pk: pam
+  fields: {name: Pampanga}
+- model: BookBorrow.language
+  pk: pap
+  fields: {name: Papiamento}
+- model: BookBorrow.language
+  pk: pau
+  fields: {name: Palauan}
+- model: BookBorrow.language
+  pk: pcd
+  fields: {name: Picard}
+- model: BookBorrow.language
+  pk: pdc
+  fields: {name: Pennsylvania German}
+- model: BookBorrow.language
+  pk: pdt
+  fields: {name: Plautdietsch}
+- model: BookBorrow.language
+  pk: peo
+  fields: {name: Old Persian}
+- model: BookBorrow.language
+  pk: pfl
+  fields: {name: Palatine German}
+- model: BookBorrow.language
+  pk: phn
+  fields: {name: Phoenician}
+- model: BookBorrow.language
+  pk: pi
+  fields: {name: Pali}
+- model: BookBorrow.language
+  pk: pl
+  fields: {name: Polish}
+- model: BookBorrow.language
+  pk: pms
+  fields: {name: Piedmontese}
+- model: BookBorrow.language
+  pk: pnt
+  fields: {name: Pontic}
+- model: BookBorrow.language
+  pk: pon
+  fields: {name: Pohnpeian}
+- model: BookBorrow.language
+  pk: prg
+  fields: {name: Prussian}
+- model: BookBorrow.language
+  pk: pro
+  fields: {name: "Old Proven\xE7al"}
+- model: BookBorrow.language
+  pk: ps
+  fields: {name: Pashto}
+- model: BookBorrow.language
+  pk: pt
+  fields: {name: Portuguese}
+- model: BookBorrow.language
+  pk: pt_BR
+  fields: {name: Brazilian Portuguese}
+- model: BookBorrow.language
+  pk: pt_PT
+  fields: {name: European Portuguese}
+- model: BookBorrow.language
+  pk: qu
+  fields: {name: Quechua}
+- model: BookBorrow.language
+  pk: quc
+  fields: {name: "K\u02BCiche\u02BC"}
+- model: BookBorrow.language
+  pk: qug
+  fields: {name: Chimborazo Highland Quichua}
+- model: BookBorrow.language
+  pk: raj
+  fields: {name: Rajasthani}
+- model: BookBorrow.language
+  pk: rap
+  fields: {name: Rapanui}
+- model: BookBorrow.language
+  pk: rar
+  fields: {name: Rarotongan}
+- model: BookBorrow.language
+  pk: rgn
+  fields: {name: Romagnol}
+- model: BookBorrow.language
+  pk: rif
+  fields: {name: Riffian}
+- model: BookBorrow.language
+  pk: rm
+  fields: {name: Romansh}
+- model: BookBorrow.language
+  pk: rn
+  fields: {name: Rundi}
+- model: BookBorrow.language
+  pk: ro
+  fields: {name: Romanian}
+- model: BookBorrow.language
+  pk: ro_MD
+  fields: {name: Moldavian}
+- model: BookBorrow.language
+  pk: rof
+  fields: {name: Rombo}
+- model: BookBorrow.language
+  pk: rom
+  fields: {name: Romany}
+- model: BookBorrow.language
+  pk: root
+  fields: {name: Root}
+- model: BookBorrow.language
+  pk: rtm
+  fields: {name: Rotuman}
+- model: BookBorrow.language
+  pk: ru
+  fields: {name: Russian}
+- model: BookBorrow.language
+  pk: rue
+  fields: {name: Rusyn}
+- model: BookBorrow.language
+  pk: rug
+  fields: {name: Roviana}
+- model: BookBorrow.language
+  pk: rup
+  fields: {name: Aromanian}
+- model: BookBorrow.language
+  pk: rw
+  fields: {name: Kinyarwanda}
+- model: BookBorrow.language
+  pk: rwk
+  fields: {name: Rwa}
+- model: BookBorrow.language
+  pk: sa
+  fields: {name: Sanskrit}
+- model: BookBorrow.language
+  pk: sad
+  fields: {name: Sandawe}
+- model: BookBorrow.language
+  pk: sah
+  fields: {name: Sakha}
+- model: BookBorrow.language
+  pk: sam
+  fields: {name: Samaritan Aramaic}
+- model: BookBorrow.language
+  pk: saq
+  fields: {name: Samburu}
+- model: BookBorrow.language
+  pk: sas
+  fields: {name: Sasak}
+- model: BookBorrow.language
+  pk: sat
+  fields: {name: Santali}
+- model: BookBorrow.language
+  pk: saz
+  fields: {name: Saurashtra}
+- model: BookBorrow.language
+  pk: sba
+  fields: {name: Ngambay}
+- model: BookBorrow.language
+  pk: sbp
+  fields: {name: Sangu}
+- model: BookBorrow.language
+  pk: sc
+  fields: {name: Sardinian}
+- model: BookBorrow.language
+  pk: scn
+  fields: {name: Sicilian}
+- model: BookBorrow.language
+  pk: sco
+  fields: {name: Scots}
+- model: BookBorrow.language
+  pk: sd
+  fields: {name: Sindhi}
+- model: BookBorrow.language
+  pk: sdc
+  fields: {name: Sassarese Sardinian}
+- model: BookBorrow.language
+  pk: se
+  fields: {name: Northern Sami}
+- model: BookBorrow.language
+  pk: see
+  fields: {name: Seneca}
+- model: BookBorrow.language
+  pk: seh
+  fields: {name: Sena}
+- model: BookBorrow.language
+  pk: sei
+  fields: {name: Seri}
+- model: BookBorrow.language
+  pk: sel
+  fields: {name: Selkup}
+- model: BookBorrow.language
+  pk: ses
+  fields: {name: Koyraboro Senni}
+- model: BookBorrow.language
+  pk: sg
+  fields: {name: Sango}
+- model: BookBorrow.language
+  pk: sga
+  fields: {name: Old Irish}
+- model: BookBorrow.language
+  pk: sgs
+  fields: {name: Samogitian}
+- model: BookBorrow.language
+  pk: sh
+  fields: {name: Serbo-Croatian}
+- model: BookBorrow.language
+  pk: shi
+  fields: {name: Tachelhit}
+- model: BookBorrow.language
+  pk: shn
+  fields: {name: Shan}
+- model: BookBorrow.language
+  pk: shu
+  fields: {name: Chadian Arabic}
+- model: BookBorrow.language
+  pk: si
+  fields: {name: Sinhala}
+- model: BookBorrow.language
+  pk: sid
+  fields: {name: Sidamo}
+- model: BookBorrow.language
+  pk: sk
+  fields: {name: Slovak}
+- model: BookBorrow.language
+  pk: sl
+  fields: {name: Slovenian}
+- model: BookBorrow.language
+  pk: sli
+  fields: {name: Lower Silesian}
+- model: BookBorrow.language
+  pk: sly
+  fields: {name: Selayar}
+- model: BookBorrow.language
+  pk: sm
+  fields: {name: Samoan}
+- model: BookBorrow.language
+  pk: sma
+  fields: {name: Southern Sami}
+- model: BookBorrow.language
+  pk: smj
+  fields: {name: Lule Sami}
+- model: BookBorrow.language
+  pk: smn
+  fields: {name: Inari Sami}
+- model: BookBorrow.language
+  pk: sms
+  fields: {name: Skolt Sami}
+- model: BookBorrow.language
+  pk: sn
+  fields: {name: Shona}
+- model: BookBorrow.language
+  pk: snk
+  fields: {name: Soninke}
+- model: BookBorrow.language
+  pk: so
+  fields: {name: Somali}
+- model: BookBorrow.language
+  pk: sog
+  fields: {name: Sogdien}
+- model: BookBorrow.language
+  pk: sq
+  fields: {name: Albanian}
+- model: BookBorrow.language
+  pk: sr
+  fields: {name: Serbian}
+- model: BookBorrow.language
+  pk: srn
+  fields: {name: Sranan Tongo}
+- model: BookBorrow.language
+  pk: srr
+  fields: {name: Serer}
+- model: BookBorrow.language
+  pk: ss
+  fields: {name: Swati}
+- model: BookBorrow.language
+  pk: ssy
+  fields: {name: Saho}
+- model: BookBorrow.language
+  pk: st
+  fields: {name: Southern Sotho}
+- model: BookBorrow.language
+  pk: stq
+  fields: {name: Saterland Frisian}
+- model: BookBorrow.language
+  pk: su
+  fields: {name: Sundanese}
+- model: BookBorrow.language
+  pk: suk
+  fields: {name: Sukuma}
+- model: BookBorrow.language
+  pk: sus
+  fields: {name: Susu}
+- model: BookBorrow.language
+  pk: sux
+  fields: {name: Sumerian}
+- model: BookBorrow.language
+  pk: sv
+  fields: {name: Swedish}
+- model: BookBorrow.language
+  pk: sw
+  fields: {name: Swahili}
+- model: BookBorrow.language
+  pk: swb
+  fields: {name: Comorian}
+- model: BookBorrow.language
+  pk: swc
+  fields: {name: Congo Swahili}
+- model: BookBorrow.language
+  pk: syc
+  fields: {name: Classical Syriac}
+- model: BookBorrow.language
+  pk: syr
+  fields: {name: Syriac}
+- model: BookBorrow.language
+  pk: szl
+  fields: {name: Silesian}
+- model: BookBorrow.language
+  pk: ta
+  fields: {name: Tamil}
+- model: BookBorrow.language
+  pk: tcy
+  fields: {name: Tulu}
+- model: BookBorrow.language
+  pk: te
+  fields: {name: Telugu}
+- model: BookBorrow.language
+  pk: tem
+  fields: {name: Timne}
+- model: BookBorrow.language
+  pk: teo
+  fields: {name: Teso}
+- model: BookBorrow.language
+  pk: ter
+  fields: {name: Tereno}
+- model: BookBorrow.language
+  pk: tet
+  fields: {name: Tetum}
+- model: BookBorrow.language
+  pk: tg
+  fields: {name: Tajik}
+- model: BookBorrow.language
+  pk: th
+  fields: {name: Thai}
+- model: BookBorrow.language
+  pk: ti
+  fields: {name: Tigrinya}
+- model: BookBorrow.language
+  pk: tig
+  fields: {name: Tigre}
+- model: BookBorrow.language
+  pk: tiv
+  fields: {name: Tiv}
+- model: BookBorrow.language
+  pk: tk
+  fields: {name: Turkmen}
+- model: BookBorrow.language
+  pk: tkl
+  fields: {name: Tokelau}
+- model: BookBorrow.language
+  pk: tkr
+  fields: {name: Tsakhur}
+- model: BookBorrow.language
+  pk: tl
+  fields: {name: Tagalog}
+- model: BookBorrow.language
+  pk: tlh
+  fields: {name: Klingon}
+- model: BookBorrow.language
+  pk: tli
+  fields: {name: Tlingit}
+- model: BookBorrow.language
+  pk: tly
+  fields: {name: Talysh}
+- model: BookBorrow.language
+  pk: tmh
+  fields: {name: Tamashek}
+- model: BookBorrow.language
+  pk: tn
+  fields: {name: Tswana}
+- model: BookBorrow.language
+  pk: to
+  fields: {name: Tongan}
+- model: BookBorrow.language
+  pk: tog
+  fields: {name: Nyasa Tonga}
+- model: BookBorrow.language
+  pk: tpi
+  fields: {name: Tok Pisin}
+- model: BookBorrow.language
+  pk: tr
+  fields: {name: Turkish}
+- model: BookBorrow.language
+  pk: tru
+  fields: {name: Turoyo}
+- model: BookBorrow.language
+  pk: trv
+  fields: {name: Taroko}
+- model: BookBorrow.language
+  pk: ts
+  fields: {name: Tsonga}
+- model: BookBorrow.language
+  pk: tsd
+  fields: {name: Tsakonian}
+- model: BookBorrow.language
+  pk: tsi
+  fields: {name: Tsimshian}
+- model: BookBorrow.language
+  pk: tt
+  fields: {name: Tatar}
+- model: BookBorrow.language
+  pk: ttt
+  fields: {name: Muslim Tat}
+- model: BookBorrow.language
+  pk: tum
+  fields: {name: Tumbuka}
+- model: BookBorrow.language
+  pk: tvl
+  fields: {name: Tuvalu}
+- model: BookBorrow.language
+  pk: tw
+  fields: {name: Twi}
+- model: BookBorrow.language
+  pk: twq
+  fields: {name: Tasawaq}
+- model: BookBorrow.language
+  pk: ty
+  fields: {name: Tahitian}
+- model: BookBorrow.language
+  pk: tyv
+  fields: {name: Tuvinian}
+- model: BookBorrow.language
+  pk: tzm
+  fields: {name: Central Atlas Tamazight}
+- model: BookBorrow.language
+  pk: udm
+  fields: {name: Udmurt}
+- model: BookBorrow.language
+  pk: ug
+  fields: {name: Uyghur}
+- model: BookBorrow.language
+  pk: uga
+  fields: {name: Ugaritic}
+- model: BookBorrow.language
+  pk: uk
+  fields: {name: Ukrainian}
+- model: BookBorrow.language
+  pk: umb
+  fields: {name: Umbundu}
+- model: BookBorrow.language
+  pk: und
+  fields: {name: Unknown Language}
+- model: BookBorrow.language
+  pk: ur
+  fields: {name: Urdu}
+- model: BookBorrow.language
+  pk: uz
+  fields: {name: Uzbek}
+- model: BookBorrow.language
+  pk: vai
+  fields: {name: Vai}
+- model: BookBorrow.language
+  pk: ve
+  fields: {name: Venda}
+- model: BookBorrow.language
+  pk: vec
+  fields: {name: Venetian}
+- model: BookBorrow.language
+  pk: vep
+  fields: {name: Veps}
+- model: BookBorrow.language
+  pk: vi
+  fields: {name: Vietnamese}
+- model: BookBorrow.language
+  pk: vls
+  fields: {name: West Flemish}
+- model: BookBorrow.language
+  pk: vmf
+  fields: {name: Main-Franconian}
+- model: BookBorrow.language
+  pk: vo
+  fields: {name: "Volap\xFCk"}
+- model: BookBorrow.language
+  pk: vot
+  fields: {name: Votic}
+- model: BookBorrow.language
+  pk: vro
+  fields: {name: "V\xF5ro"}
+- model: BookBorrow.language
+  pk: vun
+  fields: {name: Vunjo}
+- model: BookBorrow.language
+  pk: wa
+  fields: {name: Walloon}
+- model: BookBorrow.language
+  pk: wae
+  fields: {name: Walser}
+- model: BookBorrow.language
+  pk: wal
+  fields: {name: Wolaytta}
+- model: BookBorrow.language
+  pk: war
+  fields: {name: Waray}
+- model: BookBorrow.language
+  pk: was
+  fields: {name: Washo}
+- model: BookBorrow.language
+  pk: wbp
+  fields: {name: Warlpiri}
+- model: BookBorrow.language
+  pk: wo
+  fields: {name: Wolof}
+- model: BookBorrow.language
+  pk: wuu
+  fields: {name: Wu Chinese}
+- model: BookBorrow.language
+  pk: xal
+  fields: {name: Kalmyk}
+- model: BookBorrow.language
+  pk: xh
+  fields: {name: Xhosa}
+- model: BookBorrow.language
+  pk: xmf
+  fields: {name: Mingrelian}
+- model: BookBorrow.language
+  pk: xog
+  fields: {name: Soga}
+- model: BookBorrow.language
+  pk: yao
+  fields: {name: Yao}
+- model: BookBorrow.language
+  pk: yap
+  fields: {name: Yapese}
+- model: BookBorrow.language
+  pk: yav
+  fields: {name: Yangben}
+- model: BookBorrow.language
+  pk: ybb
+  fields: {name: Yemba}
+- model: BookBorrow.language
+  pk: yi
+  fields: {name: Yiddish}
+- model: BookBorrow.language
+  pk: yo
+  fields: {name: Yoruba}
+- model: BookBorrow.language
+  pk: yrl
+  fields: {name: Nheengatu}
+- model: BookBorrow.language
+  pk: yue
+  fields: {name: Cantonese}
+- model: BookBorrow.language
+  pk: za
+  fields: {name: Zhuang}
+- model: BookBorrow.language
+  pk: zap
+  fields: {name: Zapotec}
+- model: BookBorrow.language
+  pk: zbl
+  fields: {name: Blissymbols}
+- model: BookBorrow.language
+  pk: zea
+  fields: {name: Zeelandic}
+- model: BookBorrow.language
+  pk: zen
+  fields: {name: Zenaga}
+- model: BookBorrow.language
+  pk: zgh
+  fields: {name: Standard Moroccan Tamazight}
+- model: BookBorrow.language
+  pk: zh
+  fields: {name: Chinese}
+- model: BookBorrow.language
+  pk: zh_Hans
+  fields: {name: Simplified Chinese}
+- model: BookBorrow.language
+  pk: zh_Hant
+  fields: {name: Traditional Chinese}
+- model: BookBorrow.language
+  pk: zu
+  fields: {name: Zulu}
+- model: BookBorrow.language
+  pk: zun
+  fields: {name: Zuni}
+- model: BookBorrow.language
+  pk: zxx
+  fields: {name: No linguistic content}
+- model: BookBorrow.language
+  pk: zza
+  fields: {name: Zaza}
+- model: BookBorrow.author
+  pk: 1
+  fields: {name: Piotr Socha}
+- model: BookBorrow.author
+  pk: 2
+  fields: {name: Wojciech Grajkowski}
+- model: BookBorrow.author
+  pk: 3
+  fields: {name: Zbigniew Gluza}
+- model: BookBorrow.author
+  pk: 4
+  fields: {name: Marta Markowska}
+- model: BookBorrow.author
+  pk: 5
+  fields: {name: "JAN W.G\xD3RA"}
+- model: BookBorrow.author
+  pk: 6
+  fields: {name: Marta Dvorak}
+- model: BookBorrow.author
+  pk: 7
+  fields: {name: Ewa Kozyra-Pawlak}
+- model: BookBorrow.author
+  pk: 8
+  fields: {name: "Pawe\u0142 Pawlak"}
+- model: BookBorrow.author
+  pk: 9
+  fields: {name: Michael Bird}
+- model: BookBorrow.author
+  pk: 10
+  fields: {name: Joanna Wieliczka-Szarkowa}
+- model: BookBorrow.author
+  pk: 11
+  fields: {name: "Krzysztof Kr\xF3las"}
+- model: BookBorrow.author
+  pk: 12
+  fields: {name: Zbigniew Inglot}
+- model: BookBorrow.author
+  pk: 13
+  fields: {name: Marcin Panek}
+- model: BookBorrow.author
+  pk: 14
+  fields: {name: "A. No\u017Cy\u0144ska-Demianiuk"}
+- model: BookBorrow.author
+  pk: 15
+  fields: {name: Jan H. Zawada}
+- model: BookBorrow.author
+  pk: 16
+  fields: {name: Jean-Denis Godet}
+- model: BookBorrow.author
+  pk: 17
+  fields: {name: Ursula Stichmann-Marny}
+- model: BookBorrow.author
+  pk: 18
+  fields: {name: Erich Kretzschmar}
+- model: BookBorrow.author
+  pk: 19
+  fields: {name: "Pawe\u0142 Zych"}
+- model: BookBorrow.author
+  pk: 20
+  fields: {name: Witold Vargas}
+- model: BookBorrow.author
+  pk: 21
+  fields: {name: praca zbiorowa}
+- model: BookBorrow.author
+  pk: 22
+  fields: {name: "Pawe\u0142 Soszy\u0144ski"}
+- model: BookBorrow.author
+  pk: 23
+  fields: {name: Igor Jarek}
+- model: BookBorrow.author
+  pk: 24
+  fields: {name: Marius Ivaskevicius}
+- model: BookBorrow.author
+  pk: 25
+  fields: {name: "Rados\u0142aw Ko\u017Cuszek"}
+- model: BookBorrow.author
+  pk: 26
+  fields: {name: "Sylwia Szczepa\u0144ska"}
+- model: BookBorrow.author
+  pk: 27
+  fields: {name: Krzysztof Grzywocz}
+- model: BookBorrow.author
+  pk: 28
+  fields: {name: Agnieszka Antosiewicz}
+- model: BookBorrow.author
+  pk: 29
+  fields: {name: Ferenc Molnar}
+- model: BookBorrow.author
+  pk: 30
+  fields: {name: "Ren\xE9 Goscinny"}
+- model: BookBorrow.author
+  pk: 31
+  fields: {name: "Jean-Jacques Semp\xE9"}
+- model: BookBorrow.author
+  pk: 32
+  fields: {name: "Anita G\u0142owi\u0144ska"}
+- model: BookBorrow.author
+  pk: 33
+  fields: {name: Andrzej Maleszka}
+- model: BookBorrow.author
+  pk: 34
+  fields: {name: "Jaros\u0142aw \u017Bukowski"}
+- model: BookBorrow.author
+  pk: 35
+  fields: {name: Grzegorz Kasdepke}
+- model: BookBorrow.author
+  pk: 36
+  fields: {name: "Rafa\u0142 Kosik"}
+- model: BookBorrow.author
+  pk: 37
+  fields: {name: "Aleksander Kami\u0144ski"}
+- model: BookBorrow.author
+  pk: 38
+  fields: {name: Marta Galewska-Kustra}
+- model: BookBorrow.author
+  pk: 39
+  fields: {name: Alina Centkiewicz}
+- model: BookBorrow.author
+  pk: 40
+  fields: {name: "Czes\u0142aw Centkiewicz"}
+- model: BookBorrow.author
+  pk: 41
+  fields: {name: C.S. Lewis}
+- model: BookBorrow.author
+  pk: 42
+  fields: {name: "\u0141ukasz Wierzbicki"}
+- model: BookBorrow.author
+  pk: 43
+  fields: {name: "Anna Skowro\u0144ska"}
+- model: BookBorrow.author
+  pk: 44
+  fields: {name: "Bogus\u0142aw Michalec"}
+- model: BookBorrow.author
+  pk: 45
+  fields: {name: Lucyna Szary}
+- model: BookBorrow.author
+  pk: 46
+  fields: {name: Joanna Kalinowska}
+- model: BookBorrow.author
+  pk: 47
+  fields: {name: "Kubiak-Sok\xF3\u0142 Aleksandra"}
+- model: BookBorrow.author
+  pk: 48
+  fields: {name: "Sobol El\u017Cbieta"}
+- model: BookBorrow.author
+  pk: 49
+  fields: {name: Rosie Greenwood}
+- model: BookBorrow.author
+  pk: 50
+  fields: {name: "Marta Cie\u015Bla"}
+- model: BookBorrow.author
+  pk: 51
+  fields: {name: Brenda Walpole}
+- model: BookBorrow.author
+  pk: 52
+  fields: {name: Philip Steele}
+- model: BookBorrow.author
+  pk: 53
+  fields: {name: Monika von Basse}
+- model: BookBorrow.author
+  pk: 54
+  fields: {name: Arkady Fiedler}
+- model: BookBorrow.author
+  pk: 55
+  fields: {name: "Waldemar \u0141ysiak"}
+- model: BookBorrow.author
+  pk: 56
+  fields: {name: "S\u0142awomir Koper"}
+- model: BookBorrow.author
+  pk: 57
+  fields: {name: Joanna Ostrowska}
+- model: BookBorrow.author
+  pk: 58
+  fields: {name: Witold Sienkiewicz}
+- model: BookBorrow.author
+  pk: 59
+  fields: {name: Agnieszka Bukowczan-Rzeszut}
+- model: BookBorrow.author
+  pk: 60
+  fields: {name: Jochen Bohler}
+- model: BookBorrow.author
+  pk: 61
+  fields: {name: Joseph Gies}
+- model: BookBorrow.author
+  pk: 62
+  fields: {name: Francis Gies}
+- model: BookBorrow.author
+  pk: 63
+  fields: {name: Erich von Manstein}
+- model: BookBorrow.author
+  pk: 64
+  fields: {name: "Dariusz Kali\u0144ski"}
+- model: BookBorrow.author
+  pk: 65
+  fields: {name: "Pawe\u0142 Jasienica"}
+- model: BookBorrow.author
+  pk: 66
+  fields: {name: "Ji\u0159\xED Gru\u0161a"}
+- model: BookBorrow.author
+  pk: 67
+  fields: {name: Jerzy Pluta}
+- model: BookBorrow.author
+  pk: 68
+  fields: {name: "Ma\u0142gorzata Konopczy\u0144ska"}
+- model: BookBorrow.author
+  pk: 69
+  fields: {name: "Paulina Ku\u017Amo-Biwan"}
+- model: BookBorrow.author
+  pk: 70
+  fields: {name: "Aleksandra Prochalska-St\u0119pie\u0144"}
+- model: BookBorrow.author
+  pk: 71
+  fields: {name: Jolanta Sochaczewska-Kuleta}
+- model: BookBorrow.author
+  pk: 72
+  fields: {name: Agnieszka Burkat}
+- model: BookBorrow.author
+  pk: 73
+  fields: {name: "Agnieszka Jasi\u0144ska"}
+- model: BookBorrow.author
+  pk: 74
+  fields: {name: "Ma\u0142gorzata Ma\u0142olepsza"}
+- model: BookBorrow.author
+  pk: 75
+  fields: {name: Aneta Szymkiewicz}
+- model: BookBorrow.author
+  pk: 76
+  fields: {name: Beata Guzowska}
+- model: BookBorrow.author
+  pk: 77
+  fields: {name: Krzysztof Tonder}
+- model: BookBorrow.author
+  pk: 78
+  fields: {name: Aleksandra Borowska}
+- model: BookBorrow.author
+  pk: 79
+  fields: {name: "Stanis\u0142aw B\u0119za"}
+- model: BookBorrow.author
+  pk: 80
+  fields: {name: Filak Magdalena}
+- model: BookBorrow.author
+  pk: 81
+  fields: {name: Radej Filip}
+- model: BookBorrow.author
+  pk: 82
+  fields: {name: H. Jackson Brown Jr.}
+- model: BookBorrow.author
+  pk: 83
+  fields: {name: "Magdalena Ga\u0142\u0119zia"}
+- model: BookBorrow.author
+  pk: 84
+  fields: {name: "Gabriela Garga\u015B"}
+- model: BookBorrow.author
+  pk: 85
+  fields: {name: "Wojciech Wid\u0142ak"}
+- model: BookBorrow.author
+  pk: 86
+  fields: {name: Beata Pawlikowska}
+- model: BookBorrow.author
+  pk: 87
+  fields: {name: Janusz Christa}
+- model: BookBorrow.author
+  pk: 88
+  fields: {name: Tomasz Samojlik}
+- model: BookBorrow.author
+  pk: 89
+  fields: {name: Adam Wajrak}
+- model: BookBorrow.author
+  pk: 90
+  fields: {name: Henryk Jerzy Chmielewski}
+- model: BookBorrow.author
+  pk: 91
+  fields: {name: Ed Brubaker}
+- model: BookBorrow.author
+  pk: 92
+  fields: {name: Matt Fraction}
+- model: BookBorrow.author
+  pk: 93
+  fields: {name: David Aja}
+- model: BookBorrow.author
+  pk: 94
+  fields: {name: Jonathan Hickman}
+- model: BookBorrow.author
+  pk: 95
+  fields: {name: Esad Ribic}
+- model: BookBorrow.author
+  pk: 96
+  fields: {name: Paul Renaud}
+- model: BookBorrow.author
+  pk: 97
+  fields: {name: Dan Slott}
+- model: BookBorrow.author
+  pk: 98
+  fields: {name: Adam Kubert}
+- model: BookBorrow.author
+  pk: 99
+  fields: {name: Scott Hanna}
+- model: BookBorrow.author
+  pk: 100
+  fields: {name: Xavier Dorison}
+- model: BookBorrow.author
+  pk: 101
+  fields: {name: Mathieu Mariolle}
+- model: BookBorrow.author
+  pk: 102
+  fields: {name: "Fr\xE9d\xE9ric Vignaux"}
+- model: BookBorrow.author
+  pk: 103
+  fields: {name: Mark Millar}
+- model: BookBorrow.author
+  pk: 104
+  fields: {name: Frank Quitely}
+- model: BookBorrow.author
+  pk: 105
+  fields: {name: Jason Aaron}
+- model: BookBorrow.author
+  pk: 106
+  fields: {name: "Goran Sud\u017Euka"}
+- model: BookBorrow.author
+  pk: 107
+  fields: {name: Chris Sprouse}
+- model: BookBorrow.author
+  pk: 108
+  fields: {name: Tadeusz Baranowski}
+- model: BookBorrow.author
+  pk: 109
+  fields: {name: Marek Szyszko}
+- model: BookBorrow.author
+  pk: 110
+  fields: {name: "Bogus\u0142aw Polch"}
+- model: BookBorrow.author
+  pk: 111
+  fields: {name: Zbigniew Kasprzak}
+- model: BookBorrow.author
+  pk: 112
+  fields: {name: Jason Lutes}
+- model: BookBorrow.author
+  pk: 113
+  fields: {name: Anna Starmach}
+- model: BookBorrow.author
+  pk: 114
+  fields: {name: Katarzyna Pilitowska}
+- model: BookBorrow.author
+  pk: 115
+  fields: {name: Zofia Pilitowska}
+- model: BookBorrow.author
+  pk: 116
+  fields: {name: "Malwina Bare\u0142a"}
+- model: BookBorrow.author
+  pk: 117
+  fields: {name: "Beata Anna D\u0105browska"}
+- model: BookBorrow.author
+  pk: 118
+  fields: {name: Maria Iwaszkiewicz}
+- model: BookBorrow.author
+  pk: 119
+  fields: {name: Marta Dymek}
+- model: BookBorrow.author
+  pk: 120
+  fields: {name: Samar Khanafer}
+- model: BookBorrow.author
+  pk: 121
+  fields: {name: Iwona Zasuwa}
+- model: BookBorrow.author
+  pk: 122
+  fields: {name: "Agnieszka Maci\u0105g"}
+- model: BookBorrow.author
+  pk: 123
+  fields: {name: "Karolina Gawro\u0144ska"}
+- model: BookBorrow.author
+  pk: 124
+  fields: {name: Joanna Jakubiuk}
+- model: BookBorrow.author
+  pk: 125
+  fields: {name: Joanna Anger}
+- model: BookBorrow.author
+  pk: 126
+  fields: {name: Anna Piszczek}
+- model: BookBorrow.author
+  pk: 127
+  fields: {name: Magdalena Gembacka}
+- model: BookBorrow.author
+  pk: 128
+  fields: {name: "Mariusz Szczygie\u0142"}
+- model: BookBorrow.author
+  pk: 129
+  fields: {name: Heather Morris}
+- model: BookBorrow.author
+  pk: 130
+  fields: {name: Anja Rubik}
+- model: BookBorrow.author
+  pk: 131
+  fields: {name: "Beata Saba\u0142a-Zieli\u0144ska"}
+- model: BookBorrow.author
+  pk: 132
+  fields: {name: "Wojciech Sumli\u0144ski"}
+- model: BookBorrow.author
+  pk: 133
+  fields: {name: "Tomasz Budzy\u0144ski"}
+- model: BookBorrow.author
+  pk: 134
+  fields: {name: Yuval Noah Harari}
+- model: BookBorrow.author
+  pk: 135
+  fields: {name: Katarzyna Nosowska}
+- model: BookBorrow.author
+  pk: 136
+  fields: {name: Joanna Kuciel-Frydryszak}
+- model: BookBorrow.author
+  pk: 137
+  fields: {name: Tomasz Michniewicz}
+- model: BookBorrow.author
+  pk: 138
+  fields: {name: "Ma\u0142gorzata Rejmer"}
+- model: BookBorrow.author
+  pk: 139
+  fields: {name: Maya Jasanoff}
+- model: BookBorrow.author
+  pk: 140
+  fields: {name: Marta Abramowicz}
+- model: BookBorrow.author
+  pk: 141
+  fields: {name: "Tomasz Pi\u0105tek"}
+- model: BookBorrow.author
+  pk: 142
+  fields: {name: "Wojciech G\xF3recki"}
+- model: BookBorrow.author
+  pk: 143
+  fields: {name: "Rados\u0142aw Gajda"}
+- model: BookBorrow.author
+  pk: 144
+  fields: {name: "Natalia Szcze\u015Bniak"}
+- model: BookBorrow.author
+  pk: 145
+  fields: {name: Patrick Lencioni}
+- model: BookBorrow.author
+  pk: 146
+  fields: {name: Margit Kossobudzka}
+- model: BookBorrow.author
+  pk: 147
+  fields: {name: Peter Frankopan}
+- model: BookBorrow.author
+  pk: 148
+  fields: {name: Stephen Hawking}
+- model: BookBorrow.author
+  pk: 149
+  fields: {name: Viktor E. Frankl}
+- model: BookBorrow.author
+  pk: 150
+  fields: {name: Zack Davisson}
+- model: BookBorrow.author
+  pk: 151
+  fields: {name: Thomas Reinertsen Berg}
+- model: BookBorrow.author
+  pk: 152
+  fields: {name: Grzegorz Lindenberg}
+- model: BookBorrow.author
+  pk: 153
+  fields: {name: "Ewa Woydy\u0142\u0142o"}
+- model: BookBorrow.author
+  pk: 154
+  fields: {name: Daniel Kahneman}
+- model: BookBorrow.author
+  pk: 155
+  fields: {name: Ewa Cisowska}
+- model: BookBorrow.author
+  pk: 156
+  fields: {name: J.K. Rowling}
+- model: BookBorrow.author
+  pk: 157
+  fields: {name: Joseph Conrad}
+- model: BookBorrow.author
+  pk: 158
+  fields: {name: Greg Gajek}
+- model: BookBorrow.author
+  pk: 159
+  fields: {name: Jacob Grimm}
+- model: BookBorrow.author
+  pk: 160
+  fields: {name: Wilhelm Grimm}
+- model: BookBorrow.author
+  pk: 161
+  fields: {name: Arthur Conan Doyle}
+- model: BookBorrow.author
+  pk: 162
+  fields: {name: "Rafa\u0142 Siwicki"}
+- model: BookBorrow.author
+  pk: 163
+  fields: {name: Rupi Kaur}
+- model: BookBorrow.author
+  pk: 164
+  fields: {name: Szczepan Twardoch}
+- model: BookBorrow.author
+  pk: 165
+  fields: {name: "Wies\u0142aw My\u015Bliwski"}
+- model: BookBorrow.author
+  pk: 166
+  fields: {name: "Kuba Wojew\xF3dzki"}
+- model: BookBorrow.author
+  pk: 167
+  fields: {name: Nicholas Sparks}
+- model: BookBorrow.author
+  pk: 168
+  fields: {name: "Blanka Lipi\u0144ska"}
+- model: BookBorrow.author
+  pk: 169
+  fields: {name: Piotr C.}
+- model: BookBorrow.author
+  pk: 170
+  fields: {name: "Janusz G\u0142owacki"}
+- model: BookBorrow.author
+  pk: 171
+  fields: {name: Lucyna Olejniczak}
+- model: BookBorrow.author
+  pk: 172
+  fields: {name: "Jakub \u017Bulczyk"}
+- model: BookBorrow.author
+  pk: 173
+  fields: {name: "Jakub Ma\u0142ecki"}
+- model: BookBorrow.author
+  pk: 174
+  fields: {name: J.R.R. Tolkien}
+- model: BookBorrow.author
+  pk: 175
+  fields: {name: Laila Shukri}
+- model: BookBorrow.author
+  pk: 176
+  fields: {name: "Ma\u0142gorzata Gutowska-Adamczyk"}
+- model: BookBorrow.author
+  pk: 177
+  fields: {name: "Boles\u0142aw Prus"}
+- model: BookBorrow.author
+  pk: 178
+  fields: {name: Julia Grzechowska}
+- model: BookBorrow.author
+  pk: 179
+  fields: {name: Natalia Grzybowska}
+- model: BookBorrow.author
+  pk: 180
+  fields: {name: Anna Cisowska}
+- model: BookBorrow.author
+  pk: 181
+  fields: {name: Jerzy Janowicz}
+- model: BookBorrow.author
+  pk: 182
+  fields: {name: "El\u017Cbieta Osewska"}
+- model: BookBorrow.author
+  pk: 183
+  fields: {name: "J\xF3zef Stala"}
+- model: BookBorrow.author
+  pk: 184
+  fields: {name: "Alicja Karczmarska-Strzebo\u0144ska"}
+- model: BookBorrow.author
+  pk: 185
+  fields: {name: Krzysztof Mielnicki}
+- model: BookBorrow.author
+  pk: 186
+  fields: {name: "El\u017Cbieta Kondrak"}
+- model: BookBorrow.author
+  pk: 187
+  fields: {name: "Dariusz Kurpi\u0144ski"}
+- model: BookBorrow.author
+  pk: 188
+  fields: {name: Jerzy Snopek}
+- model: BookBorrow.author
+  pk: 189
+  fields: {name: Marian Falski}
+- model: BookBorrow.author
+  pk: 190
+  fields: {name: Ewelina Parszewska}
+- model: BookBorrow.author
+  pk: 191
+  fields: {name: Jolanta Konat}
+- model: BookBorrow.author
+  pk: 192
+  fields: {name: Dariusz Witowski}
+- model: BookBorrow.author
+  pk: 193
+  fields: {name: Jan Sylwester Witowski}
+- model: BookBorrow.author
+  pk: 194
+  fields: {name: Emilia Bonar}
+- model: BookBorrow.author
+  pk: 195
+  fields: {name: "Weronika Krzeszowiec-Jele\u0144"}
+- model: BookBorrow.author
+  pk: 196
+  fields: {name: "Stanis\u0142aw Czachorowski"}
+- model: BookBorrow.author
+  pk: 197
+  fields: {name: "El\u017Cbieta Szymonek"}
+- model: BookBorrow.author
+  pk: 198
+  fields: {name: Beata Kuczera}
+- model: BookBorrow.author
+  pk: 199
+  fields: {name: Krystyna Cygal}
+- model: BookBorrow.author
+  pk: 200
+  fields: {name: "Nela Ma\u0142a Reporterka"}
+- model: BookBorrow.author
+  pk: 201
+  fields: {name: "Torbj\xF8rn F\xE6r\xF8vik"}
+- model: BookBorrow.author
+  pk: 202
+  fields: {name: "Ilona Wi\u015Bniewska"}
+- model: BookBorrow.author
+  pk: 203
+  fields: {name: Aleksandra Chrobak}
+- model: BookBorrow.author
+  pk: 204
+  fields: {name: Klimkiewicz Danuta}
+- model: BookBorrow.author
+  pk: 205
+  fields: {name: "Drabik Wies\u0142aw"}
+- model: BookBorrow.author
+  pk: 206
+  fields: {name: Regina Brett}
+- model: BookBorrow.author
+  pk: 207
+  fields: {name: Magdalena Makarowska}
+- model: BookBorrow.author
+  pk: 208
+  fields: {name: "Dominika Musia\u0142owska"}
+- model: BookBorrow.author
+  pk: 209
+  fields: {name: Agnieszka Stein}
+- model: BookBorrow.author
+  pk: 210
+  fields: {name: Hans Rosling}
+- model: BookBorrow.author
+  pk: 211
+  fields: {name: Ola Rosling}
+- model: BookBorrow.author
+  pk: 212
+  fields: {name: Anna Rosling-Ronnlund}
+- model: BookBorrow.author
+  pk: 213
+  fields: {name: Ross W. Greene}
+- model: BookBorrow.author
+  pk: 214
+  fields: {name: Stephen R. Covey}
+- model: BookBorrow.author
+  pk: 215
+  fields: {name: Jane Nelsen}
+- model: BookBorrow.author
+  pk: 216
+  fields: {name: Monica Peitx}
+- model: BookBorrow.author
+  pk: 217
+  fields: {name: Joanna Faber}
+- model: BookBorrow.author
+  pk: 218
+  fields: {name: Julie King}
+- model: BookBorrow.author
+  pk: 219
+  fields: {name: Michael Mosley}
+- model: BookBorrow.author
+  pk: 220
+  fields: {name: Christine A. Padesky}
+- model: BookBorrow.author
+  pk: 221
+  fields: {name: Dennis Greenberger}
+- model: BookBorrow.author
+  pk: 222
+  fields: {name: Adele Faber}
+- model: BookBorrow.author
+  pk: 223
+  fields: {name: "\u0141ukasz \u015Awi\u0119cicki"}
+- model: BookBorrow.author
+  pk: 224
+  fields: {name: Adam Szustak OP}
+- model: BookBorrow.author
+  pk: 225
+  fields: {name: Marcin Kowalski}
+- model: BookBorrow.author
+  pk: 226
+  fields: {name: Piotr Pawlukiewicz}
+- model: BookBorrow.author
+  pk: 227
+  fields: {name: Dolindo Ruotolo}
+- model: BookBorrow.author
+  pk: 228
+  fields: {name: Tomasz P. Terlikowski}
+- model: BookBorrow.author
+  pk: 229
+  fields: {name: Dorota Mazur}
+- model: BookBorrow.author
+  pk: 230
+  fields: {name: Alicja Lenczewska}
+- model: BookBorrow.author
+  pk: 231
+  fields: {name: Francesca Fabris}
+- model: BookBorrow.author
+  pk: 232
+  fields: {name: Giusy Capizzi}
+- model: BookBorrow.author
+  pk: 233
+  fields: {name: "Joanna Pi\u0105tek"}
+- model: BookBorrow.author
+  pk: 234
+  fields: {name: "Krzysztof Poros\u0142o"}
+- model: BookBorrow.author
+  pk: 235
+  fields: {name: Fiorella Turolli}
+- model: BookBorrow.author
+  pk: 236
+  fields: {name: Abelard Giza}
+- model: BookBorrow.author
+  pk: 237
+  fields: {name: Jacek Stramik}
+- model: BookBorrow.author
+  pk: 238
+  fields: {name: David Hockney}
+- model: BookBorrow.author
+  pk: 239
+  fields: {name: Martin Gayford}
+- model: BookBorrow.author
+  pk: 240
+  fields: {name: Rose Blake}
+- model: BookBorrow.author
+  pk: 241
+  fields: {name: Pan Buk}
+- model: BookBorrow.author
+  pk: 242
+  fields: {name: Pani Bukowa}
+- model: BookBorrow.author
+  pk: 243
+  fields: {name: "Bart\u0142omiej \u0141uczak"}
+- model: BookBorrow.author
+  pk: 244
+  fields: {name: "Monika M\u0105draszewska"}
+- model: BookBorrow.author
+  pk: 245
+  fields: {name: Martin Gardner}
+- model: BookBorrow.author
+  pk: 246
+  fields: {name: "Rafa\u0142 Ksi\u0119\u017Cyk"}
+- model: BookBorrow.author
+  pk: 247
+  fields: {name: Don Norman}
+- model: BookBorrow.author
+  pk: 248
+  fields: {name: Dawid Janczyk}
+- model: BookBorrow.author
+  pk: 249
+  fields: {name: Piotr Dobrowolski}
+- model: BookBorrow.author
+  pk: 250
+  fields: {name: Dr Hardwick}
+- model: BookBorrow.author
+  pk: 251
+  fields: {name: Prof. K. McCoy}
+- model: BookBorrow.author
+  pk: 252
+  fields: {name: Craig Jelley}
+- model: BookBorrow.author
+  pk: 253
+  fields: {name: Keylah Missen}
+- model: BookBorrow.author
+  pk: 254
+  fields: {name: Barbara Szymanek}
+- model: BookBorrow.author
+  pk: 255
+  fields: {name: Bartek Dobroch}
+- model: BookBorrow.author
+  pk: 256
+  fields: {name: Naval}
+- model: BookBorrow.author
+  pk: 257
+  fields: {name: Magda Stachula}
+- model: BookBorrow.author
+  pk: 258
+  fields: {name: Dorota Traczyk}
+- model: BookBorrow.author
+  pk: 259
+  fields: {name: Anna Ficner-Ogonowska}
+- model: BookBorrow.author
+  pk: 260
+  fields: {name: "Stanis\u0142aw Krzemi\u0144ski"}
+- model: BookBorrow.author
+  pk: 261
+  fields: {name: George Musser}
+- model: BookBorrow.author
+  pk: 262
+  fields: {name: "Micha\u0142 Heller"}
+- model: BookBorrow.author
+  pk: 263
+  fields: {name: Krystyna Gucewicz}
+- model: BookBorrow.author
+  pk: 264
+  fields: {name: "Alina Lu\u017Cy\u0144ska"}
+- model: BookBorrow.author
+  pk: 265
+  fields: {name: "Stanis\u0142aw Michalkiewicz"}
+- model: BookBorrow.author
+  pk: 266
+  fields: {name: "T\u0141. SYGU\u0141A DOROTA"}
+- model: BookBorrow.author
+  pk: 267
+  fields: {name: "Anita Plumi\u0144ska-Mieloch"}
+- model: BookBorrow.author
+  pk: 268
+  fields: {name: Dudziec Kamila}
+- model: BookBorrow.author
+  pk: 269
+  fields: {name: "G\u0142uchowska Hanna"}
+- model: BookBorrow.author
+  pk: 270
+  fields: {name: "Tarczy\u0144ska-P\u0142atek Agnieszka"}
+- model: BookBorrow.author
+  pk: 271
+  fields: {name: Bladowska Joanna}
+- model: BookBorrow.author
+  pk: 272
+  fields: {name: Szakiewicz Aleksandra}
+- model: BookBorrow.author
+  pk: 273
+  fields: {name: Stojanowski Jacek}
+- model: BookBorrow.publishment
+  pk: 1
+  fields: {name: Dwie siostry}
+- model: BookBorrow.publishment
+  pk: 2
+  fields: {name: "Siedmior\xF3g"}
+- model: BookBorrow.publishment
+  pk: 3
+  fields: {name: Karta}
+- model: BookBorrow.publishment
+  pk: 4
+  fields: {name: Media Rodzina}
+- model: BookBorrow.publishment
+  pk: 5
+  fields: {name: Olesiejuk Sp. z o.o.}
+- model: BookBorrow.publishment
+  pk: 6
+  fields: {name: "Nasza Ksi\u0119garnia"}
+- model: BookBorrow.publishment
+  pk: 7
+  fields: {name: Wydawnictwo AA}
+- model: BookBorrow.publishment
+  pk: 8
+  fields: {name: "Wydawnictwo Uniwersytetu Jagiello\u0144skiego"}
+- model: BookBorrow.publishment
+  pk: 9
+  fields: {name: BOOKS}
+- model: BookBorrow.publishment
+  pk: 10
+  fields: {name: Delta W-Z Oficyna Wydawnicza}
+- model: BookBorrow.publishment
+  pk: 11
+  fields: {name: Multico}
+- model: BookBorrow.publishment
+  pk: 12
+  fields: {name: Bosz}
+- model: BookBorrow.publishment
+  pk: 13
+  fields: {name: "Instytut Ksi\u0105\u017Cki"}
+- model: BookBorrow.publishment
+  pk: 14
+  fields: {name: Dialog}
+- model: BookBorrow.publishment
+  pk: 15
+  fields: {name: Literat}
+- model: BookBorrow.publishment
+  pk: 16
+  fields: {name: "Mi\u0119dzynarodowe Centrum Kultury Krak\xF3w"}
+- model: BookBorrow.publishment
+  pk: 17
+  fields: {name: Serafin - Czasopismo}
+- model: BookBorrow.publishment
+  pk: 18
+  fields: {name: Edipresse Polska}
+- model: BookBorrow.publishment
+  pk: 19
+  fields: {name: Salwator}
+- model: BookBorrow.publishment
+  pk: 20
+  fields: {name: List}
+- model: BookBorrow.publishment
+  pk: 21
+  fields: {name: Greg}
+- model: BookBorrow.publishment
+  pk: 22
+  fields: {name: Znak}
+- model: BookBorrow.publishment
+  pk: 23
+  fields: {name: Martel}
+- model: BookBorrow.publishment
+  pk: 24
+  fields: {name: Powergraph}
+- model: BookBorrow.publishment
+  pk: 25
+  fields: {name: Bis}
+- model: BookBorrow.publishment
+  pk: 26
+  fields: {name: Muchomor}
+- model: BookBorrow.publishment
+  pk: 27
+  fields: {name: Aksjomat}
+- model: BookBorrow.publishment
+  pk: 28
+  fields: {name: "Centrum Edukacji Dzieci\u0119cej"}
+- model: BookBorrow.publishment
+  pk: 29
+  fields: {name: Wydawnictwo Naukowe PWN}
+- model: BookBorrow.publishment
+  pk: 30
+  fields: {name: Wilga / GW Foksal}
+- model: BookBorrow.publishment
+  pk: 31
+  fields: {name: Bernardinum}
+- model: BookBorrow.publishment
+  pk: 32
+  fields: {name: Nobilis}
+- model: BookBorrow.publishment
+  pk: 33
+  fields: {name: W.A.B. / GW Foksal}
+- model: BookBorrow.publishment
+  pk: 34
+  fields: {name: Marginesy}
+- model: BookBorrow.publishment
+  pk: 35
+  fields: {name: Demart}
+- model: BookBorrow.publishment
+  pk: 36
+  fields: {name: Wydawnictwo Astra}
+- model: BookBorrow.publishment
+  pk: 37
+  fields: {name: Bellona}
+- model: BookBorrow.publishment
+  pk: 38
+  fields: {name: M Wydawnictwo}
+- model: BookBorrow.publishment
+  pk: 39
+  fields: {name: "Pr\xF3szy\u0144ski"}
+- model: BookBorrow.publishment
+  pk: 40
+  fields: {name: Nowa Era}
+- model: BookBorrow.publishment
+  pk: 41
+  fields: {name: Prolog}
+- model: BookBorrow.publishment
+  pk: 42
+  fields: {name: "Cztery G\u0142owy"}
+- model: BookBorrow.publishment
+  pk: 43
+  fields: {name: Edgard}
+- model: BookBorrow.publishment
+  pk: 44
+  fields: {name: Wydawnictwo Szkolne PWN}
+- model: BookBorrow.publishment
+  pk: 45
+  fields: {name: LINGEA}
+- model: BookBorrow.publishment
+  pk: 46
+  fields: {name: NOZOMI}
+- model: BookBorrow.publishment
+  pk: 47
+  fields: {name: Preston Publishing}
+- model: BookBorrow.publishment
+  pk: 48
+  fields: {name: "Wok\xF3\u0142 nas"}
+- model: BookBorrow.publishment
+  pk: 49
+  fields: {name: Dwukropek}
+- model: BookBorrow.publishment
+  pk: 50
+  fields: {name: Czwarta Strona}
+- model: BookBorrow.publishment
+  pk: 51
+  fields: {name: "Edipresse Ksi\u0105\u017Cki"}
+- model: BookBorrow.publishment
+  pk: 52
+  fields: {name: Wydawnictwo Diecezjalne Sandomierz}
+- model: BookBorrow.publishment
+  pk: 53
+  fields: {name: Wydawnictwo Kobiece}
+- model: BookBorrow.publishment
+  pk: 54
+  fields: {name: Egmont - komiksy}
+- model: BookBorrow.publishment
+  pk: 55
+  fields: {name: Agora}
+- model: BookBorrow.publishment
+  pk: 56
+  fields: {name: Mucha Comics}
+- model: BookBorrow.publishment
+  pk: 57
+  fields: {name: Kultura gniewu}
+- model: BookBorrow.publishment
+  pk: 58
+  fields: {name: WSiP}
+- model: BookBorrow.publishment
+  pk: 59
+  fields: {name: Buchmann / GW Foksal}
+- model: BookBorrow.publishment
+  pk: 60
+  fields: {name: WAM}
+- model: BookBorrow.publishment
+  pk: 61
+  fields: {name: Otwarte}
+- model: BookBorrow.publishment
+  pk: 62
+  fields: {name: Mamania}
+- model: BookBorrow.publishment
+  pk: 63
+  fields: {name: "Fundacja Instytutu Reporta\u017Cu"}
+- model: BookBorrow.publishment
+  pk: 64
+  fields: {name: "Wojciech Sumli\u0144ski REPORTER"}
+- model: BookBorrow.publishment
+  pk: 65
+  fields: {name: Wydawnictwo Literackie}
+- model: BookBorrow.publishment
+  pk: 66
+  fields: {name: Wielka Litera}
+- model: BookBorrow.publishment
+  pk: 67
+  fields: {name: Czarne}
+- model: BookBorrow.publishment
+  pk: 68
+  fields: {name: "Pozna\u0144skie"}
+- model: BookBorrow.publishment
+  pk: 69
+  fields: {name: ' Wydawnictwo Krytyki Politycznej'}
+- model: BookBorrow.publishment
+  pk: 70
+  fields: {name: Arbitror}
+- model: BookBorrow.publishment
+  pk: 71
+  fields: {name: Dom Wydawniczy PWN}
+- model: BookBorrow.publishment
+  pk: 72
+  fields: {name: Skrzat}
+- model: BookBorrow.publishment
+  pk: 73
+  fields: {name: MT Biznes}
+- model: BookBorrow.publishment
+  pk: 74
+  fields: {name: Zysk i S-ka}
+- model: BookBorrow.publishment
+  pk: 75
+  fields: {name: Czarna Owca}
+- model: BookBorrow.publishment
+  pk: 76
+  fields: {name: Poltext}
+- model: BookBorrow.publishment
+  pk: 77
+  fields: {name: Bloomsbury}
+- model: BookBorrow.publishment
+  pk: 78
+  fields: {name: "Wydawnictwo Ze s\u0142ownikiem"}
+- model: BookBorrow.publishment
+  pk: 79
+  fields: {name: Albatros}
+- model: BookBorrow.publishment
+  pk: 80
+  fields: {name: Novae Res}
+- model: BookBorrow.publishment
+  pk: 81
+  fields: {name: "\u015Awiat Ksi\u0105\u017Cki"}
+- model: BookBorrow.publishment
+  pk: 82
+  fields: {name: Sine Qua Non}
+- model: BookBorrow.publishment
+  pk: 83
+  fields: {name: Iskry}
+- model: BookBorrow.publishment
+  pk: 84
+  fields: {name: "Jedno\u015B\u0107 - Edukacja"}
+- model: BookBorrow.publishment
+  pk: 85
+  fields: {name: Nowa Matura WITOWSKI}
+- model: BookBorrow.publishment
+  pk: 86
+  fields: {name: GWO}
+- model: BookBorrow.publishment
+  pk: 87
+  fields: {name: "Burda ksi\u0105\u017Cki"}
+- model: BookBorrow.publishment
+  pk: 88
+  fields: {name: Insignis}
+- model: BookBorrow.publishment
+  pk: 89
+  fields: {name: Feeria}
+- model: BookBorrow.publishment
+  pk: 90
+  fields: {name: MiND}
+- model: BookBorrow.publishment
+  pk: 91
+  fields: {name: Rebis}
+- model: BookBorrow.publishment
+  pk: 92
+  fields: {name: CoJaNaTo}
+- model: BookBorrow.publishment
+  pk: 93
+  fields: {name: Wydawnictwo Debit}
+- model: BookBorrow.publishment
+  pk: 94
+  fields: {name: Item Publishing}
+- model: BookBorrow.publishment
+  pk: 95
+  fields: {name: "Edycja \u015Awi\u0119tego Paw\u0142a"}
+- model: BookBorrow.publishment
+  pk: 96
+  fields: {name: Rafael Dom Wydawniczy}
+- model: BookBorrow.publishment
+  pk: 97
+  fields: {name: Esprit}
+- model: BookBorrow.publishment
+  pk: 98
+  fields: {name: eSPe}
+- model: BookBorrow.publishment
+  pk: 99
+  fields: {name: Agape}
+- model: BookBorrow.publishment
+  pk: 100
+  fields: {name: "Jedno\u015B\u0107"}
+- model: BookBorrow.publishment
+  pk: 101
+  fields: {name: Karakter}
+- model: BookBorrow.publishment
+  pk: 102
+  fields: {name: Egmont}
+- model: BookBorrow.publishment
+  pk: 103
+  fields: {name: Muza}
+- model: BookBorrow.publishment
+  pk: 104
+  fields: {name: Publicat}
+- model: BookBorrow.publishment
+  pk: 105
+  fields: {name: Copernicus Center Press}
+- model: BookBorrow.publishment
+  pk: 106
+  fields: {name: "Melan\u017C"}
+- model: BookBorrow.publishment
+  pk: 107
+  fields: {name: Bright Junior Media}
+- model: BookBorrow.publishment
+  pk: 108
+  fields: {name: Goki}
+- model: BookBorrow.publishment
+  pk: 109
+  fields: {name: 3S Media}
+- model: BookBorrow.publishment
+  pk: 110
+  fields: {name: WASPOS}
+- model: BookBorrow.publishment
+  pk: 111
+  fields: {name: Harmonia}
+- model: BookBorrow.publishment
+  pk: 112
+  fields: {name: Media Service Zawada}
+- model: BookBorrow.publishment
+  pk: 113
+  fields: {name: Foksal}
+- model: BookBorrow.subject
+  pk: 1
+  fields: {name: Albumy}
+- model: BookBorrow.subject
+  pk: 2
+  fields: {name: Czasopisma}
+- model: BookBorrow.subject
+  pk: 3
+  fields: {name: "Dla dzieci i m\u0142odzie\u017Cy"}
+- model: BookBorrow.subject
+  pk: 4
+  fields: {name: "Encyklopedie i s\u0142owniki"}
+- model: BookBorrow.subject
+  pk: 5
+  fields: {name: Historia}
+- model: BookBorrow.subject
+  pk: 6
+  fields: {name: "J\u0119zyki obce"}
+- model: BookBorrow.subject
+  pk: 7
+  fields: {name: Kalendarze}
+- model: BookBorrow.subject
+  pk: 8
+  fields: {name: Komiksy}
+- model: BookBorrow.subject
+  pk: 9
+  fields: {name: Kulinaria}
+- model: BookBorrow.subject
+  pk: 10
+  fields: {name: Literatura faktu i publicystyka}
+- model: BookBorrow.subject
+  pk: 11
+  fields: {name: Literatura naukowa}
+- model: BookBorrow.subject
+  pk: 12
+  fields: {name: "Literatura obcoj\u0119zyczna"}
+- model: BookBorrow.subject
+  pk: 13
+  fields: {name: "Literatura pi\u0119kna"}
+- model: BookBorrow.subject
+  pk: 14
+  fields: {name: "Podr\u0119czniki"}
+- model: BookBorrow.subject
+  pk: 15
+  fields: {name: "Podr\xF3\u017Ce"}
+- model: BookBorrow.subject
+  pk: 16
+  fields: {name: Poradniki}
+- model: BookBorrow.subject
+  pk: 17
+  fields: {name: Religie i religioznawstwo}
+- model: BookBorrow.subject
+  pk: 18
+  fields: {name: 'Rozrywka, hobby'}
+- model: BookBorrow.subject
+  pk: 19
+  fields: {name: Z autografem}
+- model: BookBorrow.subject
+  pk: 20
+  fields: {name: "Pozosta\u0142e"}
+- model: BookBorrow.book
+  pk: 1
+  fields:
+    title: Drzewa
+    isbn: '9788365341648'
+    subject: 1
+    lang: pl
+    publishment: 1
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [1, 2]
+- model: BookBorrow.book
+  pk: 2
+  fields:
+    title: "\u015Awi\u0119ty Miko\u0142aj"
+    isbn: '9788378200673'
+    subject: 1
+    lang: pl
+    publishment: 2
+    publication_year: 2013
+    status: '0'
+    return_date: null
+    authors: []
+- model: BookBorrow.book
+  pk: 3
+  fields:
+    title: "Ksi\u0119ga Stulecia Niepodleg\u0142o\u015Bci. Tom 1 i Tom 2"
+    isbn: '9788365979308'
+    subject: 1
+    lang: pl
+    publishment: 3
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [3, 4]
+- model: BookBorrow.book
+  pk: 4
+  fields:
+    title: "Nazywam si\u0119 Jan Pawe\u0142 II"
+    isbn: '9788372782830'
+    subject: 1
+    lang: pl
+    publishment: 4
+    publication_year: 2007
+    status: '0'
+    return_date: null
+    authors: [5]
+- model: BookBorrow.book
+  pk: 5
+  fields:
+    title: "Polska. Najpi\u0119kniejsze miasta"
+    isbn: '9788327459039'
+    subject: 1
+    lang: pl
+    publishment: 5
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [6]
+- model: BookBorrow.book
+  pk: 6
+  fields:
+    title: "Ma\u0142y atlas ptak\xF3w Ewy i Paw\u0142a Pawlak\xF3w"
+    isbn: '9788310132383'
+    subject: 1
+    lang: pl
+    publishment: 6
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [7, 8]
+- model: BookBorrow.book
+  pk: 7
+  fields:
+    title: "Gwia\u017Adzista noc Vincenta i inne opowie\u015Bci. Historia sztuki dla
+      dzieci"
+    isbn: '9788310131713'
+    subject: 1
+    lang: pl
+    publishment: 6
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [9]
+- model: BookBorrow.book
+  pk: 8
+  fields:
+    title: 1918 Polonia Restituta
+    isbn: '9788378649731'
+    subject: 1
+    lang: pl
+    publishment: 7
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [10]
+- model: BookBorrow.book
+  pk: 9
+  fields:
+    title: "Wsz\u0119dzie fizyka"
+    isbn: '9788323344926'
+    subject: 1
+    lang: pl
+    publishment: 8
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [11, 12]
+- model: BookBorrow.book
+  pk: 10
+  fields:
+    title: Polska. Parki narodowe
+    isbn: '9788327459015'
+    subject: 1
+    lang: pl
+    publishment: 5
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [13]
+- model: BookBorrow.book
+  pk: 11
+  fields:
+    title: Polskie symbole narodowe
+    isbn: '9788365952462'
+    subject: 1
+    lang: pl
+    publishment: 9
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [14]
+- model: BookBorrow.book
+  pk: 12
+  fields:
+    title: Cuda Polski
+    isbn: '9788327459022'
+    subject: 1
+    lang: pl
+    publishment: 5
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [15]
+- model: BookBorrow.book
+  pk: 13
+  fields:
+    title: "Przewodnik do rozpoznawania drzew i krzew\xF3w"
+    isbn: '9788371758812'
+    subject: 1
+    lang: pl
+    publishment: 10
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [16]
+- model: BookBorrow.book
+  pk: 14
+  fields:
+    title: "Przewodnik. Ro\u015Bliny i zwierz\u0119ta"
+    isbn: '9788377634158'
+    subject: 1
+    lang: pl
+    publishment: 11
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [17, 18]
+- model: BookBorrow.book
+  pk: 15
+  fields:
+    title: "Duchy polskich miast i zamk\xF3w"
+    isbn: '9788375762051'
+    subject: 1
+    lang: pl
+    publishment: 12
+    publication_year: 2013
+    status: '0'
+    return_date: null
+    authors: [19, 20]
+- model: BookBorrow.book
+  pk: 16
+  fields:
+    title: "Literatura na \u015Bwiecie 7-8/2018"
+    isbn: null
+    subject: 2
+    lang: pl
+    publishment: 13
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 17
+  fields:
+    title: Dialog 2018/10. Teatr Queer
+    isbn: '977001220418510'
+    subject: 2
+    lang: pl
+    publishment: 14
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [22, 23, 24]
+- model: BookBorrow.book
+  pk: 18
+  fields:
+    title: "Porady Lekarza Rodzinnego nr 124. Zachowaj m\u0142odo\u015B\u0107 i zdrowie.
+      Moc antyutleniaczy."
+    isbn: '9788381142755'
+    subject: 2
+    lang: pl
+    publishment: 15
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [25]
+- model: BookBorrow.book
+  pk: 19
+  fields:
+    title: "Herito, nr 30. Ba\u0142kany przeobra\u017Cone"
+    isbn: null
+    subject: 2
+    lang: pl
+    publishment: 16
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 20
+  fields:
+    title: "Porady lekarza rodzinnego. Zdrowy tryb \u017Cycia, aby unikn\u0105\u0107
+      nowotworu. Nr 105"
+    isbn: '9788381141017'
+    subject: 2
+    lang: pl
+    publishment: 15
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [26]
+- model: BookBorrow.book
+  pk: 21
+  fields:
+    title: "G\u0142os Ojca Pio nr 6, listopad/grudzie\u0144 2018"
+    isbn: null
+    subject: 2
+    lang: pl
+    publishment: 17
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 22
+  fields:
+    title: "Kronika PRL 1944-1989. Tom 42. \u017Bycie codzienne w latach 80."
+    isbn: '9788379894550'
+    subject: 2
+    lang: pl
+    publishment: 18
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 23
+  fields:
+    title: "Zeszyty formacji duchowej 33/2006. Przes\u0142oni\u0119te \u015Bwiat\u0142o"
+    isbn: null
+    subject: 2
+    lang: pl
+    publishment: 19
+    publication_year: 2006
+    status: '0'
+    return_date: null
+    authors: [27]
+- model: BookBorrow.book
+  pk: 24
+  fields:
+    title: Biblia krok po kroku nr 35, listopad 2012
+    isbn: null
+    subject: 2
+    lang: pl
+    publishment: 20
+    publication_year: 2012
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 25
+  fields:
+    title: Biblia krok po kroku nr 32, lipiec 2012
+    isbn: null
+    subject: 2
+    lang: pl
+    publishment: 20
+    publication_year: 2012
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 26
+  fields:
+    title: Biblia krok po kroku nr 30, maj 2012
+    isbn: null
+    subject: 2
+    lang: pl
+    publishment: 20
+    publication_year: 2012
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 27
+  fields:
+    title: Biblia krok po kroku nr 28, marzec 2012
+    isbn: null
+    subject: 2
+    lang: pl
+    publishment: 20
+    publication_year: 2012
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 28
+  fields:
+    title: Biblia krok po kroku nr 27, luty 2012
+    isbn: null
+    subject: 2
+    lang: pl
+    publishment: 20
+    publication_year: 2012
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 29
+  fields:
+    title: "Biblia krok po kroku nr 24, pa\u017Adziernik 2011"
+    isbn: null
+    subject: 2
+    lang: pl
+    publishment: 20
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 30
+  fields:
+    title: Biblia krok po kroku nr 18, marzec 2011
+    isbn: null
+    subject: 2
+    lang: pl
+    publishment: 20
+    publication_year: 2011
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 31
+  fields:
+    title: "M\u0105dre bajki"
+    isbn: '9788375173864'
+    subject: 3
+    lang: pl
+    publishment: 21
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [28]
+- model: BookBorrow.book
+  pk: 32
+  fields:
+    title: "Ch\u0142opcy z Placu Broni"
+    isbn: '9788310120410'
+    subject: 3
+    lang: pl
+    publishment: 6
+    publication_year: 2011
+    status: '0'
+    return_date: null
+    authors: [29]
+- model: BookBorrow.book
+  pk: 33
+  fields:
+    title: "Miko\u0142ajek"
+    isbn: '9788310126993'
+    subject: 3
+    lang: pl
+    publishment: 6
+    publication_year: 2014
+    status: '0'
+    return_date: null
+    authors: [30, 31]
+- model: BookBorrow.book
+  pk: 34
+  fields:
+    title: "Kicia Kocia. Co z tymi \u015Bmieciami?"
+    isbn: '9788380085282'
+    subject: 3
+    lang: pl
+    publishment: 4
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [32]
+- model: BookBorrow.book
+  pk: 35
+  fields:
+    title: "Magiczne Drzewo. Czas robot\xF3w"
+    isbn: '9788324050970'
+    subject: 3
+    lang: pl
+    publishment: 22
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [33]
+- model: BookBorrow.book
+  pk: 36
+  fields:
+    title: "Kolorowanka. 100 lat Niepodleg\u0142o\u015Bci"
+    isbn: '9788365944481'
+    subject: 3
+    lang: pl
+    publishment: 23
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [34]
+- model: BookBorrow.book
+  pk: 37
+  fields:
+    title: Detektyw Pozytywka
+    isbn: '9788310126733'
+    subject: 3
+    lang: pl
+    publishment: 6
+    publication_year: 2014
+    status: '0'
+    return_date: null
+    authors: [35]
+- model: BookBorrow.book
+  pk: 38
+  fields:
+    title: Felix, Net i Nika oraz Gang Niewidzialnych Ludzi
+    isbn: '9788364384134'
+    subject: 3
+    lang: pl
+    publishment: 24
+    publication_year: 2014
+    status: '0'
+    return_date: null
+    authors: [36]
+- model: BookBorrow.book
+  pk: 39
+  fields:
+    title: Kamienie na szaniec
+    isbn: '9788310129314'
+    subject: 3
+    lang: pl
+    publishment: 6
+    publication_year: 2015
+    status: '0'
+    return_date: null
+    authors: [37]
+- model: BookBorrow.book
+  pk: 40
+  fields:
+    title: "Pucio uczy si\u0119 m\xF3wi\u0107. Zabawy d\u017Awi\u0119kona\u015Bladowcze
+      dla najm\u0142odszych"
+    isbn: '9788310130815'
+    subject: 3
+    lang: pl
+    publishment: 6
+    publication_year: 2016
+    status: '0'
+    return_date: null
+    authors: [38]
+- model: BookBorrow.book
+  pk: 41
+  fields:
+    title: "Pucio na wakacjach. \u0106wiczenia wymowy dla przedszkolak\xF3w"
+    isbn: '9788310133427'
+    subject: 3
+    lang: pl
+    publishment: 6
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [38]
+- model: BookBorrow.book
+  pk: 42
+  fields:
+    title: Kicia Kocia. Zima
+    isbn: '9788380082809'
+    subject: 3
+    lang: pl
+    publishment: 4
+    publication_year: 2016
+    status: '0'
+    return_date: null
+    authors: [32]
+- model: BookBorrow.book
+  pk: 43
+  fields:
+    title: Zaczarowana zagroda
+    isbn: '9788310130051'
+    subject: 3
+    lang: pl
+    publishment: 6
+    publication_year: 2016
+    status: '0'
+    return_date: null
+    authors: [39, 40]
+- model: BookBorrow.book
+  pk: 44
+  fields:
+    title: "Opowie\u015Bci z Narnii. Lew, Czarownica i stara szafa, wydanie filmowe"
+    isbn: '8372781753'
+    subject: 3
+    lang: pl
+    publishment: 4
+    publication_year: 2005
+    status: '0'
+    return_date: null
+    authors: [41]
+- model: BookBorrow.book
+  pk: 45
+  fields:
+    title: Afryka Kazika
+    isbn: '9788375515329'
+    subject: 3
+    lang: pl
+    publishment: 25
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [42]
+- model: BookBorrow.book
+  pk: 46
+  fields:
+    title: "Alfabet niepodleg\u0142o\u015Bci"
+    isbn: '9788365650160'
+    subject: 4
+    lang: pl
+    publishment: 26
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [43]
+- model: BookBorrow.book
+  pk: 47
+  fields:
+    title: "S\u0142ownik ortograficzny dla uczni\xF3w szko\u0142y podstawowej. 4000
+      hase\u0142 i zasady ortograficzne"
+    isbn: '9788381061056'
+    subject: 4
+    lang: pl
+    publishment: 27
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [44]
+- model: BookBorrow.book
+  pk: 48
+  fields:
+    title: "S\u0142ownik ortograficzny"
+    isbn: '9788373273924'
+    subject: 4
+    lang: pl
+    publishment: 21
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 49
+  fields:
+    title: "Gwia\u017Adzista noc Vincenta i inne opowie\u015Bci. Historia sztuki dla
+      dzieci"
+    isbn: '9788310131713'
+    subject: 4
+    lang: pl
+    publishment: 6
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [9]
+- model: BookBorrow.book
+  pk: 50
+  fields:
+    title: "M\xF3j pierwszy s\u0142ownik ortograficzny"
+    isbn: '9788375173482'
+    subject: 4
+    lang: pl
+    publishment: 21
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [45]
+- model: BookBorrow.book
+  pk: 51
+  fields:
+    title: Moja pierwsza encyklopedia Polski
+    isbn: '9788327116338'
+    subject: 4
+    lang: pl
+    publishment: 28
+    publication_year: 2016
+    status: '0'
+    return_date: null
+    authors: [46]
+- model: BookBorrow.book
+  pk: 52
+  fields:
+    title: "S\u0142ownik frazeologiczny PWN"
+    isbn: '9788301173791'
+    subject: 4
+    lang: pl
+    publishment: 29
+    publication_year: 2013
+    status: '0'
+    return_date: null
+    authors: [47, 48]
+- model: BookBorrow.book
+  pk: 53
+  fields:
+    title: "S\u0142ownik j\u0119zyka polskiego PWN, wydanie III, dodruk"
+    isbn: '8301146265'
+    subject: 4
+    lang: pl
+    publishment: 29
+    publication_year: 1996
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 54
+  fields:
+    title: "S\u0142ownik poprawnej polszczyzny PWN"
+    isbn: '9788301173814'
+    subject: 4
+    lang: pl
+    publishment: 29
+    publication_year: 2013
+    status: '0'
+    return_date: null
+    authors: []
+- model: BookBorrow.book
+  pk: 55
+  fields:
+    title: "Ciekawe dlaczego wulkany wybuchaj\u0105"
+    isbn: '9788378442837'
+    subject: 4
+    lang: pl
+    publishment: 5
+    publication_year: 2012
+    status: '0'
+    return_date: null
+    authors: [49]
+- model: BookBorrow.book
+  pk: 56
+  fields:
+    title: "S\u0142ownik rosyjski"
+    isbn: '9788327450395'
+    subject: 4
+    lang: pl
+    publishment: 5
+    publication_year: 2016
+    status: '0'
+    return_date: null
+    authors: [50]
+- model: BookBorrow.book
+  pk: 57
+  fields:
+    title: "Ciekawe dlaczego wschodzi s\u0142o\u0144ce"
+    isbn: '9788378442820'
+    subject: 4
+    lang: pl
+    publishment: 5
+    publication_year: 2012
+    status: '0'
+    return_date: null
+    authors: [51]
+- model: BookBorrow.book
+  pk: 58
+  fields:
+    title: "Ciekawe dlaczego zamki mia\u0142y fosy"
+    isbn: '9788378442868'
+    subject: 4
+    lang: pl
+    publishment: 5
+    publication_year: 2012
+    status: '0'
+    return_date: null
+    authors: [52]
+- model: BookBorrow.book
+  pk: 59
+  fields:
+    title: Pierwsza encyklopedia. Dinozaury
+    isbn: '9788328031692'
+    subject: 4
+    lang: pl
+    publishment: 30
+    publication_year: 2016
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 60
+  fields:
+    title: "S\u0142ownik wyraz\xF3w obcych"
+    isbn: '9788378982371'
+    subject: 4
+    lang: pl
+    publishment: 15
+    publication_year: 2015
+    status: '0'
+    return_date: null
+    authors: [53]
+- model: BookBorrow.book
+  pk: 61
+  fields:
+    title: Dywizjon 303
+    isbn: '9788378239840'
+    subject: 5
+    lang: pl
+    publishment: 31
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [54]
+- model: BookBorrow.book
+  pk: 62
+  fields:
+    title: Pan Rebeliant. Romantyzm
+    isbn: '9788360297698'
+    subject: 5
+    lang: pl
+    publishment: 32
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [55]
+- model: BookBorrow.book
+  pk: 63
+  fields:
+    title: "Korepetycje z niepodleg\u0142o\u015Bci"
+    isbn: '9788328060456'
+    subject: 5
+    lang: pl
+    publishment: 33
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [56]
+- model: BookBorrow.book
+  pk: 64
+  fields:
+    title: "Przemilczane. Seksualna praca przymusowa w trakcie II wojny \u015Bwiatowej"
+    isbn: '9788365973733'
+    subject: 5
+    lang: pl
+    publishment: 34
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [57]
+- model: BookBorrow.book
+  pk: 65
+  fields:
+    title: "Niepodleg\u0142a 1918. Legiony Pi\u0142sudskiego"
+    isbn: '9788379122196'
+    subject: 5
+    lang: pl
+    publishment: 35
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [58]
+- model: BookBorrow.book
+  pk: 66
+  fields:
+    title: "Jak przetrwa\u0107 w \u015Bredniowiecznym Krakowie"
+    isbn: '9788365280459'
+    subject: 5
+    lang: pl
+    publishment: 36
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [59]
+- model: BookBorrow.book
+  pk: 67
+  fields:
+    title: "Ksi\u0119ga Stulecia Niepodleg\u0142o\u015Bci. Tom 1 i Tom 2"
+    isbn: '9788365979308'
+    subject: 5
+    lang: pl
+    publishment: 3
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [3, 4]
+- model: BookBorrow.book
+  pk: 68
+  fields:
+    title: Wojna domowa. Nowe spojrzenie na odrodzenie Polski
+    isbn: '9788324054787'
+    subject: 5
+    lang: pl
+    publishment: 22
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [60]
+- model: BookBorrow.book
+  pk: 69
+  fields:
+    title: "\u017Bycie w \u015Bredniowiecznym mie\u015Bcie"
+    isbn: '9788324042951'
+    subject: 5
+    lang: pl
+    publishment: 22
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [61, 62]
+- model: BookBorrow.book
+  pk: 70
+  fields:
+    title: "Stracone zwyci\u0119stwa"
+    isbn: '9788311143463'
+    subject: 5
+    lang: pl
+    publishment: 37
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [63]
+- model: BookBorrow.book
+  pk: 71
+  fields:
+    title: "Teraz jeste\u015Bcie Niemcami. Wstrz\u0105saj\u0105ce losy zrabowanych
+      polskich dzieci"
+    isbn: '9788380434295'
+    subject: 5
+    lang: pl
+    publishment: 38
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 72
+  fields:
+    title: "Czerwona zaraza. Jak naprawd\u0119 wygl\u0105da\u0142o wyzwolenie Polski?"
+    isbn: '9788324041947'
+    subject: 5
+    lang: pl
+    publishment: 22
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [64]
+- model: BookBorrow.book
+  pk: 73
+  fields:
+    title: "Polska Piast\xF3w"
+    isbn: '9788381238809'
+    subject: 5
+    lang: pl
+    publishment: 39
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [65]
+- model: BookBorrow.book
+  pk: 74
+  fields:
+    title: "Czechy. Instrukcja obs\u0142ugi"
+    isbn: '9788363463816'
+    subject: 5
+    lang: pl
+    publishment: 16
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [66]
+- model: BookBorrow.book
+  pk: 75
+  fields:
+    title: Jezioro Pejpus 1242
+    isbn: '9788311155787'
+    subject: 5
+    lang: pl
+    publishment: 37
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [67]
+- model: BookBorrow.book
+  pk: 76
+  fields:
+    title: "Teraz egzamin \xF3smoklasisty. J\u0119zyk angielski. Repetytorium"
+    isbn: '9788326733369'
+    subject: 6
+    lang: pl
+    publishment: 40
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [68, 69, 70, 71]
+- model: BookBorrow.book
+  pk: 77
+  fields:
+    title: "Teraz egzamin \xF3smoklasisty. J\u0119zyk angielski. Arkusze"
+    isbn: '9788326733925'
+    subject: 6
+    lang: pl
+    publishment: 40
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [71]
+- model: BookBorrow.book
+  pk: 78
+  fields:
+    title: "Moje pierwsze s\u0142\xF3wka angielskie"
+    isbn: '9788375175196'
+    subject: 6
+    lang: pl
+    publishment: 21
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 79
+  fields:
+    title: "Po polsku 3. Zeszyt \u0107wicze\u0144. Poziom B1 + CD"
+    isbn: '9788360229293'
+    subject: 6
+    lang: pl
+    publishment: 41
+    publication_year: 2010
+    status: '0'
+    return_date: null
+    authors: [72, 73, 74, 75]
+- model: BookBorrow.book
+  pk: 80
+  fields:
+    title: Fiszki in Blanco 300
+    isbn: '5907591927363'
+    subject: 6
+    lang: pl
+    publishment: 42
+    publication_year: 2013
+    status: '0'
+    return_date: null
+    authors: []
+- model: BookBorrow.book
+  pk: 81
+  fields:
+    title: Nauka pisania. Alfabet rosyjski, nowe wydanie
+    isbn: '9788381143776'
+    subject: 6
+    lang: pl
+    publishment: 15
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [76, 77]
+- model: BookBorrow.book
+  pk: 82
+  fields:
+    title: "Fiszki in blanco. 1000 element\xF3w"
+    isbn: '5907591927370'
+    subject: 6
+    lang: pl
+    publishment: 42
+    publication_year: 2013
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 83
+  fields:
+    title: "Angielskie krzy\u017C\xF3wki i \u0142amig\u0142\xF3wki"
+    isbn: '9788381062619'
+    subject: 6
+    lang: pl
+    publishment: 27
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 84
+  fields:
+    title: "Classic \u2013 kartonowy Memobox"
+    isbn: '5907591927349'
+    subject: 6
+    lang: pl
+    publishment: 42
+    publication_year: 2013
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 85
+  fields:
+    title: "Wielka gramatyka j\u0119zyka angielskiego z \u0107wiczeniami"
+    isbn: '9788377884850'
+    subject: 6
+    lang: pl
+    publishment: 43
+    publication_year: 2015
+    status: '0'
+    return_date: null
+    authors: [78]
+- model: BookBorrow.book
+  pk: 86
+  fields:
+    title: "Nowe repetytorium z gramatyki j\u0119zyka niemieckiego"
+    isbn: '9788371950261'
+    subject: 6
+    lang: pl
+    publishment: 44
+    publication_year: 2009
+    status: '0'
+    return_date: null
+    authors: [79]
+- model: BookBorrow.book
+  pk: 87
+  fields:
+    title: "Idiomy j\u0119zyka angielskiego, wydanie 2018"
+    isbn: '9788381142939'
+    subject: 6
+    lang: pl
+    publishment: 15
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 88
+  fields:
+    title: "Rozm\xF3wki w\u0142oskie. Z nami si\u0119 dogadacie"
+    isbn: '9788365633255'
+    subject: 6
+    lang: pl
+    publishment: 45
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 89
+  fields:
+    title: "Pismo japo\u0144skie. Tom 1"
+    isbn: '9788390617572'
+    subject: 6
+    lang: pl
+    publishment: 46
+    publication_year: 2007
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 90
+  fields:
+    title: "Angielski w t\u0142umaczeniach. Gramatyka Cz\u0119\u015B\u0107 1"
+    isbn: '9788364211430'
+    subject: 6
+    lang: pl
+    publishment: 47
+    publication_year: 2016
+    status: '0'
+    return_date: null
+    authors: [80, 81]
+- model: BookBorrow.book
+  pk: 91
+  fields:
+    title: Kalendarz 2019 1259 plakietka, mix
+    isbn: null
+    subject: 7
+    lang: pl
+    publishment: 48
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 92
+  fields:
+    title: "Kalendarz 2019. Ma\u0142y poradnik \u017Cycia"
+    isbn: null
+    subject: 7
+    lang: pl
+    publishment: 4
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [82]
+- model: BookBorrow.book
+  pk: 93
+  fields:
+    title: "Kalendarz Kota Ja\u015Bniepana 2019, ksi\u0105\u017Ckowy"
+    isbn: '9788378749233'
+    subject: 7
+    lang: pl
+    publishment: 49
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [83]
+- model: BookBorrow.book
+  pk: 94
+  fields:
+    title: "Planer taki jak Ty od Gabrieli Garga\u015B"
+    isbn: '9788379760756'
+    subject: 7
+    lang: pl
+    publishment: 50
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [84]
+- model: BookBorrow.book
+  pk: 95
+  fields:
+    title: Kalendarz 2019. Pan Kuleczka
+    isbn: null
+    subject: 7
+    lang: pl
+    publishment: 4
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [85]
+- model: BookBorrow.book
+  pk: 96
+  fields:
+    title: "Kalendarz 2019 1237 stoj\u0105cy"
+    isbn: null
+    subject: 7
+    lang: pl
+    publishment: 48
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 97
+  fields:
+    title: "Rok dobrych my\u015Bli. Kalendarz 2019"
+    isbn: '5903228163081'
+    subject: 7
+    lang: pl
+    publishment: 51
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [86]
+- model: BookBorrow.book
+  pk: 98
+  fields:
+    title: "Kalendarz 2019 z Janem Paw\u0142em II"
+    isbn: null
+    subject: 7
+    lang: pl
+    publishment: 52
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 99
+  fields:
+    title: Kalendarz 2019. Kicia Kocia
+    isbn: 0336012935
+    subject: 7
+    lang: pl
+    publishment: 4
+    publication_year: 2009
+    status: '0'
+    return_date: null
+    authors: [32]
+- model: BookBorrow.book
+  pk: 100
+  fields:
+    title: "Kalendarz Kota Ja\u015Bniepana 2019, z magnesem"
+    isbn: '5901764724025'
+    subject: 7
+    lang: pl
+    publishment: 49
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [83]
+- model: BookBorrow.book
+  pk: 101
+  fields:
+    title: "Kalendarz z ksi\u0119dzem Twardowskim 2019, z biedronk\u0105"
+    isbn: '5902983908500'
+    subject: 7
+    lang: pl
+    publishment: 52
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 102
+  fields:
+    title: "Kalendarz 2019 1255 \u015Bcienny, tr\xF3jdzielny. Toskania"
+    isbn: null
+    subject: 7
+    lang: pl
+    publishment: 48
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 103
+  fields:
+    title: CzaroMarownik 2019. Magiczny dziennik
+    isbn: '9788366134188'
+    subject: 7
+    lang: pl
+    publishment: 53
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 104
+  fields:
+    title: "Kalendarz z ksi\u0119dzem Twardowskim 2019"
+    isbn: '5902983908517'
+    subject: 7
+    lang: pl
+    publishment: 52
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 105
+  fields:
+    title: "Kalendarz Kota Ja\u015Bniepana 2019, \u015Bcienny"
+    isbn: '5901764724001'
+    subject: 7
+    lang: pl
+    publishment: 49
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [83]
+- model: BookBorrow.book
+  pk: 106
+  fields:
+    title: "Kajko i Kokosz. Tom 10. Szko\u0142a latania"
+    isbn: '9788323746935'
+    subject: 8
+    lang: pl
+    publishment: 54
+    publication_year: 2011
+    status: '0'
+    return_date: null
+    authors: [87]
+- model: BookBorrow.book
+  pk: 107
+  fields:
+    title: Zew padliny
+    isbn: '9788326827167'
+    subject: 8
+    lang: pl
+    publishment: 55
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [88, 89]
+- model: BookBorrow.book
+  pk: 108
+  fields:
+    title: "Tytus, Romek i A'Tomek obchodz\u0105 100\u2013lecie odzyskania niepodleg\u0142o\u015Bci
+      Polski z wyobra\u017Ani Papcia Chmiela narysowani"
+    isbn: '9788381233538'
+    subject: 8
+    lang: pl
+    publishment: 39
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [90]
+- model: BookBorrow.book
+  pk: 109
+  fields:
+    title: "Nie\u015Bmiertelny Iron Fist. Tom 3. Historia \u017Celaznej pi\u0119\u015Bci"
+    isbn: '9788365938251'
+    subject: 8
+    lang: pl
+    publishment: 56
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [91, 92, 93]
+- model: BookBorrow.book
+  pk: 110
+  fields:
+    title: Tajne wojny
+    isbn: '9788328126848'
+    subject: 8
+    lang: pl
+    publishment: 54
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [94, 95, 96]
+- model: BookBorrow.book
+  pk: 111
+  fields:
+    title: "Amazing Spider-Man. Odnowi\u0107 \u015Bluby"
+    isbn: '9788328126879'
+    subject: 8
+    lang: pl
+    publishment: 54
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [97, 98, 99]
+- model: BookBorrow.book
+  pk: 112
+  fields:
+    title: "Thorgal. Kriss de Valnor. Tom 8. Stra\u017Cnik Sprawiedliwo\u015Bci"
+    isbn: '9788328135468'
+    subject: 8
+    lang: pl
+    publishment: 54
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [100, 101, 102]
+- model: BookBorrow.book
+  pk: 113
+  fields:
+    title: Dziedzictwo Jowisza. Tom 2
+    isbn: '9788365938213'
+    subject: 8
+    lang: pl
+    publishment: 56
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [103, 104]
+- model: BookBorrow.book
+  pk: 114
+  fields:
+    title: Thorowie
+    isbn: '9788328126886'
+    subject: 8
+    lang: pl
+    publishment: 54
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [105, 106, 107]
+- model: BookBorrow.book
+  pk: 115
+  fields:
+    title: "Kajko i Kokosz. Tom 2. Z\u0142oty puchar, cz\u0119\u015B\u0107 2"
+    isbn: '9788323737544'
+    subject: 8
+    lang: pl
+    publishment: 54
+    publication_year: 2010
+    status: '0'
+    return_date: null
+    authors: [87]
+- model: BookBorrow.book
+  pk: 116
+  fields:
+    title: Na co dybie w wielorybie czubek nosa Eskimosa
+    isbn: '9788366128019'
+    subject: 8
+    lang: pl
+    publishment: 57
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [108]
+- model: BookBorrow.book
+  pk: 117
+  fields:
+    title: "Kajko i Kokosz. Tom 1. Z\u0142oty puchar, cz\u0119\u015B\u0107 1"
+    isbn: '9788323747000'
+    subject: 8
+    lang: pl
+    publishment: 54
+    publication_year: 2011
+    status: '0'
+    return_date: null
+    authors: [87]
+- model: BookBorrow.book
+  pk: 118
+  fields:
+    title: 100 na 100
+    isbn: '9788302180446'
+    subject: 8
+    lang: pl
+    publishment: 58
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [90, 109, 110, 111]
+- model: BookBorrow.book
+  pk: 119
+  fields:
+    title: Tajne tajne wojny Deadpoola
+    isbn: '9788328126893'
+    subject: 8
+    lang: pl
+    publishment: 54
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 120
+  fields:
+    title: "Berlin. Tom 3. Miasto \u015Bwiat\u0142a"
+    isbn: '9788366128026'
+    subject: 8
+    lang: pl
+    publishment: 57
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [112]
+- model: BookBorrow.book
+  pk: 121
+  fields:
+    title: Pyszne kolacje
+    isbn: '9788324048410'
+    subject: 9
+    lang: pl
+    publishment: 22
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [113]
+- model: BookBorrow.book
+  pk: 122
+  fields:
+    title: Jajko
+    isbn: '9788328058385'
+    subject: 9
+    lang: pl
+    publishment: 59
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [114, 115]
+- model: BookBorrow.book
+  pk: 123
+  fields:
+    title: "Lunchbox na ka\u017Cdy dzie\u0144. Przepisy inspirowane japo\u0144skim
+      bento"
+    isbn: '9788324054589'
+    subject: 9
+    lang: pl
+    publishment: 22
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [116]
+- model: BookBorrow.book
+  pk: 124
+  fields:
+    title: "Dieta warzywno-owocowa dr Ewy D\u0105browskiej. Przepisy"
+    isbn: '9788327715180'
+    subject: 9
+    lang: pl
+    publishment: 60
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [117]
+- model: BookBorrow.book
+  pk: 125
+  fields:
+    title: "Kuchnia Iwaszkiewicz\xF3w. Przepisy i anegdoty"
+    isbn: '9788324048380'
+    subject: 9
+    lang: pl
+    publishment: 22
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [118]
+- model: BookBorrow.book
+  pk: 126
+  fields:
+    title: "Jad\u0142onomia. Kuchnia ro\u015Blinna. 100 przepis\xF3w nie tylko dla
+      wegan"
+    isbn: '9788363696351'
+    subject: 9
+    lang: pl
+    publishment: 1
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [119]
+- model: BookBorrow.book
+  pk: 127
+  fields:
+    title: "Nowa Jad\u0142onomia. Ro\u015Blinne przepisy z ca\u0142ego \u015Bwiata"
+    isbn: '9788365973863'
+    subject: 9
+    lang: pl
+    publishment: 34
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [119]
+- model: BookBorrow.book
+  pk: 128
+  fields:
+    title: "Szafran, mi\u0119ta i kardamon"
+    isbn: '9788328050273'
+    subject: 9
+    lang: pl
+    publishment: 59
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [120]
+- model: BookBorrow.book
+  pk: 129
+  fields:
+    title: Smakoterapia 2
+    isbn: '9788381176347'
+    subject: 9
+    lang: pl
+    publishment: 51
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [121]
+- model: BookBorrow.book
+  pk: 130
+  fields:
+    title: "Smak \u015Bwi\u0105t"
+    isbn: '9788375153255'
+    subject: 9
+    lang: pl
+    publishment: 61
+    publication_year: 2015
+    status: '0'
+    return_date: null
+    authors: [122]
+- model: BookBorrow.book
+  pk: 131
+  fields:
+    title: "Wega\u0144skie s\u0142odycze"
+    isbn: '9788328060395'
+    subject: 9
+    lang: pl
+    publishment: 59
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [123]
+- model: BookBorrow.book
+  pk: 132
+  fields:
+    title: Ziemniak
+    isbn: '9788381177474'
+    subject: 9
+    lang: pl
+    publishment: 51
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [124]
+- model: BookBorrow.book
+  pk: 133
+  fields:
+    title: Pyszne obiady
+    isbn: '9788324046416'
+    subject: 9
+    lang: pl
+    publishment: 22
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [113]
+- model: BookBorrow.book
+  pk: 134
+  fields:
+    title: Nowe AlaAntkowe BLW
+    isbn: '9788365796257'
+    subject: 9
+    lang: pl
+    publishment: 62
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [125, 126]
+- model: BookBorrow.book
+  pk: 135
+  fields:
+    title: "Wi\u0119cej warzyw na talerzu"
+    isbn: '9788365973702'
+    subject: 9
+    lang: pl
+    publishment: 34
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [127]
+- model: BookBorrow.book
+  pk: 136
+  fields:
+    title: Nie ma
+    isbn: '9788365970312'
+    subject: 10
+    lang: pl
+    publishment: 63
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [128]
+- model: BookBorrow.book
+  pk: 137
+  fields:
+    title: "Tatua\u017Cysta z Auschwitz"
+    isbn: '9788365973313'
+    subject: 10
+    lang: pl
+    publishment: 34
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [129]
+- model: BookBorrow.book
+  pk: 138
+  fields:
+    title: "sexedpl. Rozmowy Anji Rubik o dojrzewaniu, mi\u0142o\u015Bci i seksie"
+    isbn: '9788328060661'
+    subject: 10
+    lang: pl
+    publishment: 33
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [130]
+- model: BookBorrow.book
+  pk: 139
+  fields:
+    title: "TOPR. \u017Beby inni mogli prze\u017Cy\u0107"
+    isbn: '9788381233828'
+    subject: 10
+    lang: pl
+    publishment: 39
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [131]
+- model: BookBorrow.book
+  pk: 140
+  fields:
+    title: "Niebezpieczne zwi\u0105zki Donalda Tuska"
+    isbn: '9788394582999'
+    subject: 10
+    lang: pl
+    publishment: 64
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [132, 133]
+- model: BookBorrow.book
+  pk: 141
+  fields:
+    title: 21 lekcji na XXI wiek
+    isbn: '9788308065853'
+    subject: 10
+    lang: pl
+    publishment: 65
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [134]
+- model: BookBorrow.book
+  pk: 142
+  fields:
+    title: "A ja \u017Cem jej powiedzia\u0142a..."
+    isbn: '9788380322592'
+    subject: 10
+    lang: pl
+    publishment: 66
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [135]
+- model: BookBorrow.book
+  pk: 143
+  fields:
+    title: "S\u0142u\u017C\u0105ce do wszystkiego"
+    isbn: '9788365973818'
+    subject: 10
+    lang: pl
+    publishment: 34
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [136]
+- model: BookBorrow.book
+  pk: 144
+  fields:
+    title: "Chrobot. \u017Bycie najzwyklejszych ludzi \u015Bwiata"
+    isbn: '9788375154948'
+    subject: 10
+    lang: pl
+    publishment: 61
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [137]
+- model: BookBorrow.book
+  pk: 145
+  fields:
+    title: "B\u0142oto s\u0142odsze ni\u017C mi\xF3d. G\u0142osy komunistycznej Albanii"
+    isbn: '9788380497450'
+    subject: 10
+    lang: pl
+    publishment: 67
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [138]
+- model: BookBorrow.book
+  pk: 146
+  fields:
+    title: "Joseph Conrad i narodziny globalnego \u015Bwiata"
+    isbn: '9788379769742'
+    subject: 10
+    lang: pl
+    publishment: 68
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [139]
+- model: BookBorrow.book
+  pk: 147
+  fields:
+    title: "Dzieci ksi\u0119\u017Cy. Nasza wsp\xF3lna tajemnica"
+    isbn: '9788365853790'
+    subject: 10
+    lang: pl
+    publishment: 69
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [140]
+- model: BookBorrow.book
+  pk: 148
+  fields:
+    title: "Macierewicz. Jak to si\u0119 sta\u0142o"
+    isbn: '9788366095021'
+    subject: 10
+    lang: pl
+    publishment: 70
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [141]
+- model: BookBorrow.book
+  pk: 149
+  fields:
+    title: "Buran. Kirgiz wraca na ko\u0144"
+    isbn: '9788380497498'
+    subject: 10
+    lang: pl
+    publishment: 67
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [142]
+- model: BookBorrow.book
+  pk: 150
+  fields:
+    title: "Przecie\u017C ich nie zostawi\u0119. O \u017Cydowskich opiekunkach w czasie
+      wojny"
+    isbn: '9788380496798'
+    subject: 10
+    lang: pl
+    publishment: 67
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 151
+  fields:
+    title: "Sapiens. Od zwierz\u0105t do bog\xF3w"
+    isbn: '9788377059968'
+    subject: 11
+    lang: pl
+    publishment: 71
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [134]
+- model: BookBorrow.book
+  pk: 152
+  fields:
+    title: "Archistorie. Jak odkrywa\u0107 przestrze\u0144 miast?"
+    isbn: '9788324054411'
+    subject: 11
+    lang: pl
+    publishment: 22
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [143, 144]
+- model: BookBorrow.book
+  pk: 153
+  fields:
+    title: Konstytucja Rzeczypospolitej Polskiej
+    isbn: '9788388642791'
+    subject: 11
+    lang: pl
+    publishment: 72
+    publication_year: 2003
+    status: '0'
+    return_date: null
+    authors: []
+- model: BookBorrow.book
+  pk: 154
+  fields:
+    title: "Homo deus. Kr\xF3tka historia jutra"
+    isbn: '9788308064955'
+    subject: 11
+    lang: pl
+    publishment: 65
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [134]
+- model: BookBorrow.book
+  pk: 155
+  fields:
+    title: "Cztery obsesje wyj\u0105tkowego szefa"
+    isbn: '9788380874862'
+    subject: 11
+    lang: pl
+    publishment: 73
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [145]
+- model: BookBorrow.book
+  pk: 156
+  fields:
+    title: "Cz\u0142owiek na ba(k)terie. Jak czerpa\u0107 energi\u0119 i zdrowie z
+      jelit"
+    isbn: '9788326826900'
+    subject: 11
+    lang: pl
+    publishment: 55
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [146]
+- model: BookBorrow.book
+  pk: 157
+  fields:
+    title: "Jedwabne szlaki. Nowa historia \u015Bwiata"
+    isbn: '9788328026919'
+    subject: 11
+    lang: pl
+    publishment: 33
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [147]
+- model: BookBorrow.book
+  pk: 158
+  fields:
+    title: "Kr\xF3tkie odpowiedzi na wielkie pytania"
+    isbn: '9788381164764'
+    subject: 11
+    lang: pl
+    publishment: 74
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [148]
+- model: BookBorrow.book
+  pk: 159
+  fields:
+    title: "Cz\u0142owiek w poszukiwaniu sensu"
+    isbn: '9788375540765'
+    subject: 11
+    lang: pl
+    publishment: 75
+    publication_year: 2011
+    status: '0'
+    return_date: null
+    authors: [149]
+- model: BookBorrow.book
+  pk: 160
+  fields:
+    title: Pan Rebeliant. Romantyzm
+    isbn: '9788360297698'
+    subject: 11
+    lang: pl
+    publishment: 32
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [55]
+- model: BookBorrow.book
+  pk: 161
+  fields:
+    title: "Yurei. Niesamowite duchy w kulturze japo\u0144skiej"
+    isbn: '9788323345022'
+    subject: 11
+    lang: pl
+    publishment: 8
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [150]
+- model: BookBorrow.book
+  pk: 162
+  fields:
+    title: "Teatr \u015Bwiata. Mapy, kt\xF3re tworz\u0105 histori\u0119"
+    isbn: '9788324048335'
+    subject: 11
+    lang: pl
+    publishment: 22
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [151]
+- model: BookBorrow.book
+  pk: 163
+  fields:
+    title: "Ludzko\u015B\u0107 poprawiona. Jak najbli\u017Csze lata zmieni\u0105 \u015Bwiat,
+      w kt\xF3rym \u017Cyjemy"
+    isbn: '9788375155457'
+    subject: 11
+    lang: pl
+    publishment: 61
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [152]
+- model: BookBorrow.book
+  pk: 164
+  fields:
+    title: Ludzie, ludzie... 2
+    isbn: '9788308065952'
+    subject: 11
+    lang: pl
+    publishment: 65
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [153]
+- model: BookBorrow.book
+  pk: 165
+  fields:
+    title: "Pu\u0142apki my\u015Blenia. O my\u015Bleniu szybkim i wolnym"
+    isbn: '9788372786777'
+    subject: 11
+    lang: pl
+    publishment: 4
+    publication_year: 2012
+    status: '0'
+    return_date: null
+    authors: [154]
+- model: BookBorrow.book
+  pk: 166
+  fields:
+    title: "Cat in the Book. Elementarz j\u0119zyka angielskiego z p\u0142yt\u0105
+      CD"
+    isbn: '9788327102188'
+    subject: 12
+    lang: pl
+    publishment: 28
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [155]
+- model: BookBorrow.book
+  pk: 167
+  fields:
+    title: The Adventures of Sherlock Holmes. Part 1
+    isbn: '9788375617214'
+    subject: 12
+    lang: pl
+    publishment: 76
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 168
+  fields:
+    title: Harry Potter and the Prisoner of Azkaban
+    isbn: '9781408834985'
+    subject: 12
+    lang: pl
+    publishment: 77
+    publication_year: 2013
+    status: '0'
+    return_date: null
+    authors: [156]
+- model: BookBorrow.book
+  pk: 169
+  fields:
+    title: Harry Potter and the Philosopher's Stone
+    isbn: null
+    subject: 12
+    lang: pl
+    publishment: 77
+    publication_year: 2013
+    status: '0'
+    return_date: null
+    authors: [156]
+- model: BookBorrow.book
+  pk: 170
+  fields:
+    title: Kapitan Nauka. Angielski dla dzieci. Rymowanki i wierszyki
+    isbn: '9788365884923'
+    subject: 12
+    lang: pl
+    publishment: 43
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 171
+  fields:
+    title: "Angielski z \u0107wiczeniami. Heart of Darkness. J\u0105dro ciemno\u015Bci"
+    isbn: '9788365884978'
+    subject: 12
+    lang: pl
+    publishment: 43
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [157]
+- model: BookBorrow.book
+  pk: 172
+  fields:
+    title: "The Adventures of Sherlock Holmes, cz\u0119\u015B\u0107 2. Ci\u0105g dalszy
+      przyg\xF3d Sherlocka Holmesa w wersji do nauki angielskiego"
+    isbn: '9788375617290'
+    subject: 12
+    lang: pl
+    publishment: 76
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 173
+  fields:
+    title: "The Secret Garden. Tajemniczy ogr\xF3d w wersji do nauki angielskiego"
+    isbn: '9788375618532'
+    subject: 12
+    lang: pl
+    publishment: 76
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 174
+  fields:
+    title: "Angielski Krymina\u0142 z \u0107wiczeniami. Dead Broke"
+    isbn: '9788365884916'
+    subject: 12
+    lang: pl
+    publishment: 43
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [158]
+- model: BookBorrow.book
+  pk: 175
+  fields:
+    title: Czytam po polsku i angielsku. Roszpunka
+    isbn: '9788366136427'
+    subject: 12
+    lang: pl
+    publishment: 9
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 176
+  fields:
+    title: Czytam po polsku i angielsku. Czerwony Kapturek
+    isbn: '9788366136410'
+    subject: 12
+    lang: pl
+    publishment: 9
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 177
+  fields:
+    title: "Die Marchen von Gebruder Grimm / Ba\u015Bnie braci Grimm z podr\u0119cznym
+      s\u0142ownikiem niemiecko-polskim"
+    isbn: '9788365646774'
+    subject: 12
+    lang: pl
+    publishment: 78
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [159, 160]
+- model: BookBorrow.book
+  pk: 178
+  fields:
+    title: "Angielski z \u0107wiczeniami. The Valley of Fear. Dolina Trwogi"
+    isbn: '9788365884879'
+    subject: 12
+    lang: pl
+    publishment: 43
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [161]
+- model: BookBorrow.book
+  pk: 179
+  fields:
+    title: "Rosyjski krymina\u0142 z \u0107wiczeniami. Nocny Ekspress. Poziom A2-B1"
+    isbn: '9788365884886'
+    subject: 12
+    lang: pl
+    publishment: 43
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [162]
+- model: BookBorrow.book
+  pk: 180
+  fields:
+    title: "S\u0142o\u0144ce i jej kwiaty / The Sun and Her Flower"
+    isbn: '9788375154863'
+    subject: 12
+    lang: pl
+    publishment: 61
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [163]
+- model: BookBorrow.book
+  pk: 181
+  fields:
+    title: "Kr\xF3lestwo"
+    isbn: '9788308068007'
+    subject: 13
+    lang: pl
+    publishment: 65
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [164]
+- model: BookBorrow.book
+  pk: 182
+  fields:
+    title: Ucho Igielne
+    isbn: '9788324054466'
+    subject: 13
+    lang: pl
+    publishment: 22
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [165]
+- model: BookBorrow.book
+  pk: 183
+  fields:
+    title: "Kuba Wojew\xF3dzki. Nieautoryzowana autobiografia"
+    isbn: '9788380322882'
+    subject: 13
+    lang: pl
+    publishment: 66
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [166]
+- model: BookBorrow.book
+  pk: 184
+  fields:
+    title: "Z ka\u017Cdym oddechem"
+    isbn: '9788381254243'
+    subject: 13
+    lang: pl
+    publishment: 79
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [167]
+- model: BookBorrow.book
+  pk: 185
+  fields:
+    title: Magia grudniowej nocy
+    isbn: '9788379760732'
+    subject: 13
+    lang: pl
+    publishment: 50
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [84]
+- model: BookBorrow.book
+  pk: 186
+  fields:
+    title: "Ten dzie\u0144"
+    isbn: '9788381179140'
+    subject: 13
+    lang: pl
+    publishment: 18
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [168]
+- model: BookBorrow.book
+  pk: 187
+  fields:
+    title: '# to o nas'
+    isbn: '9788381471671'
+    subject: 13
+    lang: pl
+    publishment: 80
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [169]
+- model: BookBorrow.book
+  pk: 188
+  fields:
+    title: "Bezsenno\u015B\u0107 w czasie karnawa\u0142u"
+    isbn: '9788328050327'
+    subject: 13
+    lang: pl
+    publishment: 33
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [170]
+- model: BookBorrow.book
+  pk: 189
+  fields:
+    title: Kobiety z ulicy Grodzkiej. Tom 5. Emilia
+    isbn: '9788381233835'
+    subject: 13
+    lang: pl
+    publishment: 39
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [171]
+- model: BookBorrow.book
+  pk: 190
+  fields:
+    title: "\u015Alepn\u0105c od \u015Bwiate\u0142, wydanie serialowe"
+    isbn: '9788381391733'
+    subject: 13
+    lang: pl
+    publishment: 81
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [172]
+- model: BookBorrow.book
+  pk: 191
+  fields:
+    title: Nikt nie idzie
+    isbn: '9788381291125'
+    subject: 13
+    lang: pl
+    publishment: 82
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [173]
+- model: BookBorrow.book
+  pk: 192
+  fields:
+    title: Hobbit, czyli tam i z powrotem
+    isbn: '9788324403875'
+    subject: 13
+    lang: pl
+    publishment: 83
+    publication_year: 2014
+    status: '0'
+    return_date: null
+    authors: [174]
+- model: BookBorrow.book
+  pk: 193
+  fields:
+    title: "Jestem \u017Con\u0105 terrorysty"
+    isbn: '9788381233590'
+    subject: 13
+    lang: pl
+    publishment: 39
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [175]
+- model: BookBorrow.book
+  pk: 194
+  fields:
+    title: "Cukiernia Pod Amorem. Cz\u0119\u015B\u0107 2. Dziedzictwo Hryci\xF3w"
+    isbn: '9788381233583'
+    subject: 13
+    lang: pl
+    publishment: 39
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [176]
+- model: BookBorrow.book
+  pk: 195
+  fields:
+    title: Katarynka (wydanie z opracowaniem i streszczeniem)
+    isbn: "9788373272675\t"
+    subject: 13
+    lang: pl
+    publishment: 21
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [177]
+- model: BookBorrow.book
+  pk: 196
+  fields:
+    title: "Teraz egzamin \xF3smoklasisty. J\u0119zyk angielski. Repetytorium"
+    isbn: '9788326733369'
+    subject: 14
+    lang: pl
+    publishment: 40
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [68, 69, 70, 71]
+- model: BookBorrow.book
+  pk: 197
+  fields:
+    title: "Teraz egzamin \xF3smoklasisty. J\u0119zyk angielski. Arkusze"
+    isbn: '9788326733925'
+    subject: 14
+    lang: pl
+    publishment: 40
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [71]
+- model: BookBorrow.book
+  pk: 198
+  fields:
+    title: "Teraz egzamin \xF3smoklasisty. J\u0119zyk polski. Arkusze"
+    isbn: '9788326733895'
+    subject: 14
+    lang: pl
+    publishment: 40
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [178, 179, 180]
+- model: BookBorrow.book
+  pk: 199
+  fields:
+    title: "Teraz egzamin \xF3smoklasisty. Matematyka. Repetytorium"
+    isbn: '9788326733420'
+    subject: 14
+    lang: pl
+    publishment: 40
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [181]
+- model: BookBorrow.book
+  pk: 200
+  fields:
+    title: "Teraz egzamin \xF3smoklasisty. Matematyka Arkusze"
+    isbn: '9788326734007'
+    subject: 14
+    lang: pl
+    publishment: 40
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 201
+  fields:
+    title: "Kocham Dobrego Boga. Podr\u0119cznik do nauki religii dla dzieci sze\u015Bcioletnich"
+    isbn: '9788374423496'
+    subject: 14
+    lang: pl
+    publishment: 84
+    publication_year: 2014
+    status: '0'
+    return_date: null
+    authors: [182, 183]
+- model: BookBorrow.book
+  pk: 202
+  fields:
+    title: "Teraz egzamin \xF3smoklasisty. J\u0119zyk polski. Repetytorium"
+    isbn: '9788326733376'
+    subject: 14
+    lang: pl
+    publishment: 40
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [178, 179, 180]
+- model: BookBorrow.book
+  pk: 203
+  fields:
+    title: "Elementarz - czytamy metod\u0105 sylabow\u0105"
+    isbn: '9788375173703'
+    subject: 14
+    lang: pl
+    publishment: 21
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [184]
+- model: BookBorrow.book
+  pk: 204
+  fields:
+    title: "\u017Byjemy w Bo\u017Cym \u015Bwiecie. Podr\u0119cznik do religii dla
+      klasy 1 szko\u0142y podstawowej + CD"
+    isbn: '9788376603872'
+    subject: 14
+    lang: pl
+    publishment: 84
+    publication_year: 2011
+    status: '0'
+    return_date: null
+    authors: [185, 186, 187, 188]
+- model: BookBorrow.book
+  pk: 205
+  fields:
+    title: Elementarz
+    isbn: '9788302022432'
+    subject: 14
+    lang: pl
+    publishment: 58
+    publication_year: 2013
+    status: '0'
+    return_date: null
+    authors: [189]
+- model: BookBorrow.book
+  pk: 206
+  fields:
+    title: "Spotkania uBOGAcaj\u0105ce. Religia. Zeszyt \u0107wicze\u0144 dla klasy
+      5 szko\u0142y podstawowej"
+    isbn: '9788376608686'
+    subject: 14
+    lang: pl
+    publishment: 84
+    publication_year: 2013
+    status: '0'
+    return_date: null
+    authors: [186, 190, 191]
+- model: BookBorrow.book
+  pk: 207
+  fields:
+    title: "Biologia. Zbi\xF3r zada\u0144 wraz z odpowiedziami. Tom II"
+    isbn: '9788393094288'
+    subject: 14
+    lang: pl
+    publishment: 85
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [192, 193]
+- model: BookBorrow.book
+  pk: 208
+  fields:
+    title: "Kalendarz \xF3smoklasisty. Matematyka"
+    isbn: '9788381181624'
+    subject: 14
+    lang: pl
+    publishment: 86
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 209
+  fields:
+    title: "Biologia na czasie. Podr\u0119cznik dla szk\xF3\u0142 ponadgimnazjalnych.
+      Zakres podstawowy"
+    isbn: '9788326721243'
+    subject: 14
+    lang: pl
+    publishment: 40
+    publication_year: 2015
+    status: '0'
+    return_date: null
+    authors: [194, 195, 196]
+- model: BookBorrow.book
+  pk: 210
+  fields:
+    title: "150 dyktand dla szko\u0142y podstawowej. Klasy 4-6"
+    isbn: '8373275622'
+    subject: 14
+    lang: pl
+    publishment: 21
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [197, 198, 199]
+- model: BookBorrow.book
+  pk: 211
+  fields:
+    title: "Nela i sekrety dalekich l\u0105d\xF3w"
+    isbn: '9788380534544'
+    subject: 15
+    lang: pl
+    publishment: 87
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [200]
+- model: BookBorrow.book
+  pk: 212
+  fields:
+    title: "I znowu kusz\u0105ca Kanada"
+    isbn: '9788378232674'
+    subject: 15
+    lang: pl
+    publishment: 31
+    publication_year: 2014
+    status: '0'
+    return_date: null
+    authors: [54]
+- model: BookBorrow.book
+  pk: 213
+  fields:
+    title: "\u015Aladami Neli przez d\u017Cungl\u0119, morza i oceany"
+    isbn: '9788375966268'
+    subject: 15
+    lang: pl
+    publishment: 87
+    publication_year: 2016
+    status: '0'
+    return_date: null
+    authors: [200]
+- model: BookBorrow.book
+  pk: 214
+  fields:
+    title: "Orient Express. \u015Awiat z okien najs\u0142ynniejszego poci\u0105gu"
+    isbn: '9788379760404'
+    subject: 15
+    lang: pl
+    publishment: 68
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [201]
+- model: BookBorrow.book
+  pk: 215
+  fields:
+    title: "Nela i polarne zwierz\u0119ta"
+    isbn: '9788380533097'
+    subject: 15
+    lang: pl
+    publishment: 87
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [200]
+- model: BookBorrow.book
+  pk: 216
+  fields:
+    title: Lud. Z grenlandzkiej wyspy
+    isbn: '9788380497214'
+    subject: 15
+    lang: pl
+    publishment: 67
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [202]
+- model: BookBorrow.book
+  pk: 217
+  fields:
+    title: "Nela i skarby Karaib\xF3w"
+    isbn: '9788375966473'
+    subject: 15
+    lang: pl
+    publishment: 87
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [200]
+- model: BookBorrow.book
+  pk: 218
+  fields:
+    title: Szkolny atlas geograficzny
+    isbn: '9788374278638'
+    subject: 15
+    lang: pl
+    publishment: 35
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: []
+- model: BookBorrow.book
+  pk: 219
+  fields:
+    title: "Fashionistki zrzucaj\u0105 czadory. Moje odkrywanie Iranu"
+    isbn: '9788324048113'
+    subject: 15
+    lang: pl
+    publishment: 22
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [203]
+- model: BookBorrow.book
+  pk: 220
+  fields:
+    title: "Nela i tajemnice \u015Bwiata"
+    isbn: '9788375966077'
+    subject: 15
+    lang: pl
+    publishment: 87
+    publication_year: 2015
+    status: '0'
+    return_date: null
+    authors: [200]
+- model: BookBorrow.book
+  pk: 221
+  fields:
+    title: "Czechy. Instrukcja obs\u0142ugi"
+    isbn: '9788363463816'
+    subject: 15
+    lang: pl
+    publishment: 16
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [66]
+- model: BookBorrow.book
+  pk: 222
+  fields:
+    title: "Podr\xF3\u017Ce Neli. Nela na kole podbiegunowym"
+    isbn: '9788375966435'
+    subject: 15
+    lang: pl
+    publishment: 87
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: []
+- model: BookBorrow.book
+  pk: 223
+  fields:
+    title: "Nela na 3 kontynentach. Podr\xF3\u017Ce w nieznane"
+    isbn: '9788375966039'
+    subject: 15
+    lang: pl
+    publishment: 87
+    publication_year: 2014
+    status: '0'
+    return_date: null
+    authors: [200]
+- model: BookBorrow.book
+  pk: 224
+  fields:
+    title: "Ryby \u015Bpiewaj\u0105 w Ukajali"
+    isbn: '9788378233992'
+    subject: 15
+    lang: pl
+    publishment: 31
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [54]
+- model: BookBorrow.book
+  pk: 225
+  fields:
+    title: "Poznajemy Krak\xF3w"
+    isbn: '8387972746'
+    subject: 15
+    lang: pl
+    publishment: 72
+    publication_year: 2004
+    status: '0'
+    return_date: null
+    authors: [204, 205]
+- model: BookBorrow.book
+  pk: 226
+  fields:
+    title: "M\xF3w w\u0142asnym g\u0142osem. 50 lekcji, jak g\u0142osi\u0107 swoj\u0105
+      prawd\u0119"
+    isbn: '9788366071346'
+    subject: 16
+    lang: pl
+    publishment: 88
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [206]
+- model: BookBorrow.book
+  pk: 227
+  fields:
+    title: "Insulinooporno\u015B\u0107 w polskiej kuchni"
+    isbn: '9788372297761'
+    subject: 16
+    lang: pl
+    publishment: 89
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [207, 208]
+- model: BookBorrow.book
+  pk: 228
+  fields:
+    title: "Nowe wychowanie seksualne. Cia\u0142o, emocje, umys\u0142. Dorastanie
+      do dobrych relacji z sob\u0105 i innymi"
+    isbn: '9788365796837'
+    subject: 16
+    lang: pl
+    publishment: 62
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [209]
+- model: BookBorrow.book
+  pk: 229
+  fields:
+    title: "Factfulness. Dlaczego \u015Bwiat jest lepszy, ni\u017C my\u015Blimy, czyli
+      jak stereotypy zast\u0105pi\u0107 realn\u0105 wiedz\u0105"
+    isbn: '9788380084995'
+    subject: 16
+    lang: pl
+    publishment: 4
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [210, 211, 212]
+- model: BookBorrow.book
+  pk: 230
+  fields:
+    title: "Trudne emocje u dzieci. Jak wsp\xF3lnie rozwi\u0105zywa\u0107 problemy
+      w domu i w szkole"
+    isbn: '9788377884522'
+    subject: 16
+    lang: pl
+    publishment: 43
+    publication_year: 2014
+    status: '0'
+    return_date: null
+    authors: [213]
+- model: BookBorrow.book
+  pk: 231
+  fields:
+    title: "Kiedy Twoja z\u0142o\u015B\u0107 krzywdzi dziecko. Poradnik dla rodzic\xF3w"
+    isbn: '9788362445141'
+    subject: 16
+    lang: pl
+    publishment: 90
+    publication_year: 2012
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 232
+  fields:
+    title: "7 nawyk\xF3w skutecznego dzia\u0142ania"
+    isbn: '9788373018778'
+    subject: 16
+    lang: pl
+    publishment: 91
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [214]
+- model: BookBorrow.book
+  pk: 233
+  fields:
+    title: Pozytywna dyscyplina
+    isbn: '9788363860127'
+    subject: 16
+    lang: pl
+    publishment: 92
+    publication_year: 2015
+    status: '0'
+    return_date: null
+    authors: [215]
+- model: BookBorrow.book
+  pk: 234
+  fields:
+    title: "Kacper dorasta. Niezb\u0119dnik dorastaj\u0105cego ch\u0142opca"
+    isbn: '9788380572751'
+    subject: 16
+    lang: pl
+    publishment: 93
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [216]
+- model: BookBorrow.book
+  pk: 235
+  fields:
+    title: "Jak m\xF3wi\u0107, \u017Ceby maluchy nas s\u0142ucha\u0142y. Poradnik
+      przetrwania dla rodzic\xF3w dzieci w wieku 2-7 lat"
+    isbn: '9788380083479'
+    subject: 16
+    lang: pl
+    publishment: 4
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [217, 218]
+- model: BookBorrow.book
+  pk: 236
+  fields:
+    title: "Maja dorasta. Niezb\u0119dnik dorastaj\u0105cej dziewczynki"
+    isbn: '9788380572263'
+    subject: 16
+    lang: pl
+    publishment: 93
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [216]
+- model: BookBorrow.book
+  pk: 237
+  fields:
+    title: "Jelita wiedz\u0105 lepiej"
+    isbn: '9788375154924'
+    subject: 16
+    lang: pl
+    publishment: 61
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [219]
+- model: BookBorrow.book
+  pk: 238
+  fields:
+    title: "Umys\u0142 ponad nastrojem. Zmie\u0144 nastr\xF3j poprzez zmian\u0119
+      sposobu my\u015Blenia"
+    isbn: '9788323342120'
+    subject: 16
+    lang: pl
+    publishment: 8
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [220, 221]
+- model: BookBorrow.book
+  pk: 239
+  fields:
+    title: "Jak m\xF3wi\u0107, \u017Ceby dzieci nas s\u0142ucha\u0142y. Jak s\u0142ucha\u0107,
+      \u017Ceby dzieci do nas m\xF3wi\u0142y"
+    isbn: '9788380084520'
+    subject: 16
+    lang: pl
+    publishment: 4
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [222]
+- model: BookBorrow.book
+  pk: 240
+  fields:
+    title: "Depresja. Instrukcja obs\u0142ugi"
+    isbn: '9788365747488'
+    subject: 16
+    lang: pl
+    publishment: 94
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [223]
+- model: BookBorrow.book
+  pk: 241
+  fields:
+    title: "Ewangelia 2019. Droga, Prawda i \u017Bycie"
+    isbn: '9788377977491'
+    subject: 17
+    lang: pl
+    publishment: 95
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 242
+  fields:
+    title: "Straszna ksi\u0105\u017Cka"
+    isbn: '9788395122422'
+    subject: 17
+    lang: pl
+    publishment: 96
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [224, 225]
+- model: BookBorrow.book
+  pk: 243
+  fields:
+    title: "Wsta\u0144! Albo b\u0119dziesz \u015Bwi\u0119ty albo b\u0119dziesz nikim"
+    isbn: '9788324054473'
+    subject: 17
+    lang: pl
+    publishment: 22
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [226]
+- model: BookBorrow.book
+  pk: 244
+  fields:
+    title: "Ewangelia 2019. Droga, Prawda i \u017Bycie"
+    isbn: '9788377977507'
+    subject: 17
+    lang: pl
+    publishment: 95
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 245
+  fields:
+    title: "G\u0142\u0119boka przemiana serca w szkole Maryi. 31 medytacji"
+    isbn: '9788380211179'
+    subject: 17
+    lang: pl
+    publishment: 38
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [227]
+- model: BookBorrow.book
+  pk: 246
+  fields:
+    title: "Ma\u0142a droga Wenantego Katarzy\u0144ca. Rekolekcje z polskim Szarbelem"
+    isbn: '9788366061484'
+    subject: 17
+    lang: pl
+    publishment: 97
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [228]
+- model: BookBorrow.book
+  pk: 247
+  fields:
+    title: "Najwi\u0119kszy cud"
+    isbn: '9788378641520'
+    subject: 17
+    lang: pl
+    publishment: 7
+    publication_year: 2013
+    status: '0'
+    return_date: null
+    authors: []
+- model: BookBorrow.book
+  pk: 248
+  fields:
+    title: "Przygotowanie do aktu zawierzenia si\u0119 Jezusowi przez r\u0119ce Maryi
+      wed\u0142ug \u015Bw. Ludwika Marii Grignion de Montfort"
+    isbn: '9788374827027'
+    subject: 17
+    lang: pl
+    publishment: 98
+    publication_year: 2015
+    status: '0'
+    return_date: null
+    authors: [229]
+- model: BookBorrow.book
+  pk: 249
+  fields:
+    title: "\u015Awiadectwo. Dziennik duchowy"
+    isbn: '9788364774614'
+    subject: 17
+    lang: pl
+    publishment: 99
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [230]
+- model: BookBorrow.book
+  pk: 250
+  fields:
+    title: "Wielcy przyjaciele Jezusa. Historia Matki Bo\u017Cej"
+    isbn: '9788381440356'
+    subject: 17
+    lang: pl
+    publishment: 100
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [231, 232]
+- model: BookBorrow.book
+  pk: 251
+  fields:
+    title: "Jezu, Ty si\u0119 tym zajmij. Modlitwa pe\u0142na zawierzenia"
+    isbn: '9788375698756'
+    subject: 17
+    lang: pl
+    publishment: 96
+    publication_year: 2016
+    status: '0'
+    return_date: null
+    authors: [233]
+- model: BookBorrow.book
+  pk: 252
+  fields:
+    title: Modlitwy zawierzenia ks. Dolindo Ruotolo
+    isbn: '9788380433168'
+    subject: 17
+    lang: pl
+    publishment: 38
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 253
+  fields:
+    title: "\u015Awi\u0119ta codzienno\u015B\u0107. O liturgii przemieniaj\u0105cej
+      \u017Cycie"
+    isbn: '9788327715616'
+    subject: 17
+    lang: pl
+    publishment: 60
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [234]
+- model: BookBorrow.book
+  pk: 254
+  fields:
+    title: "\u015Awiadectwo. Dziennik duchowy"
+    isbn: '9788364774607'
+    subject: 17
+    lang: pl
+    publishment: 99
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [230]
+- model: BookBorrow.book
+  pk: 255
+  fields:
+    title: "Brat Elia. Bo\u017Ca Opatrzno\u015B\u0107 i Jej aposto\u0142. Trzecia
+      cz\u0119\u015B\u0107 historii najs\u0142ynniejszego wsp\xF3\u0142czesnego mistyka"
+    isbn: '9788366061163'
+    subject: 17
+    lang: pl
+    publishment: 97
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [235]
+- model: BookBorrow.book
+  pk: 256
+  fields:
+    title: "A ja \u017Cem jej powiedzia\u0142a..."
+    isbn: '9788380322592'
+    subject: 18
+    lang: pl
+    publishment: 66
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [135]
+- model: BookBorrow.book
+  pk: 257
+  fields:
+    title: "\u0141apy precz od \u017Cart\xF3w"
+    isbn: '9788380321793'
+    subject: 18
+    lang: pl
+    publishment: 66
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [236, 237]
+- model: BookBorrow.book
+  pk: 258
+  fields:
+    title: "Historia obraz\xF3w dla dzieci"
+    isbn: '9788380623675'
+    subject: 18
+    lang: pl
+    publishment: 91
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [238, 239, 240]
+- model: BookBorrow.book
+  pk: 259
+  fields:
+    title: "Wielki Ogarniacz \u017Bycia we 2, czyli jak by\u0107 razem i si\u0119
+      nie pozabija\u0107"
+    isbn: '9788324048151'
+    subject: 18
+    lang: pl
+    publishment: 22
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [241, 242]
+- model: BookBorrow.book
+  pk: 260
+  fields:
+    title: "\u015Apiewnik - zawiera chwyty gitarowe"
+    isbn: '9788381140379'
+    subject: 18
+    lang: pl
+    publishment: 15
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [243]
+- model: BookBorrow.book
+  pk: 261
+  fields:
+    title: "Dowcipy PRL z przymru\u017Ceniem oka"
+    isbn: '9788381142908'
+    subject: 18
+    lang: pl
+    publishment: 15
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [244]
+- model: BookBorrow.book
+  pk: 262
+  fields:
+    title: Moje ulubione zagadki matematyczne i logiczne
+    isbn: '9788381164740'
+    subject: 18
+    lang: pl
+    publishment: 74
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [245]
+- model: BookBorrow.book
+  pk: 263
+  fields:
+    title: Wywracanie kultury. O dandysach, hipsterach, mutantach
+    isbn: '9788380497481'
+    subject: 18
+    lang: pl
+    publishment: 67
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [246]
+- model: BookBorrow.book
+  pk: 264
+  fields:
+    title: "Szycie jest \u0142atwe"
+    isbn: '9788380534339'
+    subject: 18
+    lang: pl
+    publishment: 87
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 265
+  fields:
+    title: "Dizajn na co dzie\u0144"
+    isbn: '9788365271891'
+    subject: 18
+    lang: pl
+    publishment: 101
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [247]
+- model: BookBorrow.book
+  pk: 266
+  fields:
+    title: "Dawid Janczyk. Moja spowied\u017A"
+    isbn: '9788381292528'
+    subject: 18
+    lang: pl
+    publishment: 82
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [248, 249]
+- model: BookBorrow.book
+  pk: 267
+  fields:
+    title: "Najnudniejsza ksi\u0105\u017Cka \u015Bwiata"
+    isbn: '9788366074866'
+    subject: 18
+    lang: pl
+    publishment: 53
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [250, 251]
+- model: BookBorrow.book
+  pk: 268
+  fields:
+    title: "Minecraft. Podr\u0119cznik kreatywnego budowania"
+    isbn: '9788328120648'
+    subject: 18
+    lang: pl
+    publishment: 102
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [252]
+- model: BookBorrow.book
+  pk: 269
+  fields:
+    title: "Sekretnik wsp\xF3\u0142czesnej czarownicy"
+    isbn: '9788328710412'
+    subject: 18
+    lang: pl
+    publishment: 103
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [253]
+- model: BookBorrow.book
+  pk: 270
+  fields:
+    title: Bazgrolnik o kotach
+    isbn: '9788327452146'
+    subject: 18
+    lang: pl
+    publishment: 5
+    publication_year: 2016
+    status: '0'
+    return_date: null
+    authors: [254]
+- model: BookBorrow.book
+  pk: 271
+  fields:
+    title: Pyszne kolacje. Z autografem
+    isbn: null
+    subject: 19
+    lang: pl
+    publishment: 22
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [113]
+- model: BookBorrow.book
+  pk: 272
+  fields:
+    title: "Artur Hajzer. Droga S\u0142onia. Z autografem"
+    isbn: null
+    subject: 19
+    lang: pl
+    publishment: 22
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [255]
+- model: BookBorrow.book
+  pk: 273
+  fields:
+    title: "Zatoka (ksi\u0105\u017Cka z autografem)"
+    isbn: '9788311154711'
+    subject: 19
+    lang: pl
+    publishment: 37
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [256]
+- model: BookBorrow.book
+  pk: 274
+  fields:
+    title: "W pu\u0142apce. Z autografem"
+    isbn: null
+    subject: 19
+    lang: pl
+    publishment: 22
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [257]
+- model: BookBorrow.book
+  pk: 275
+  fields:
+    title: "Ostatnich gryz\u0105 psy (ksi\u0105\u017Cka z autografem)"
+    isbn: '9788311143678'
+    subject: 19
+    lang: pl
+    publishment: 37
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [256]
+- model: BookBorrow.book
+  pk: 276
+  fields:
+    title: "Legalny doping. Naturalna dieta dla aktywnych. Ksi\u0105\u017Cka z autografem"
+    isbn: '9788327125132'
+    subject: 19
+    lang: pl
+    publishment: 104
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [258]
+- model: BookBorrow.book
+  pk: 277
+  fields:
+    title: Okruch. Z autografem
+    isbn: null
+    subject: 19
+    lang: pl
+    publishment: 22
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [259]
+- model: BookBorrow.book
+  pk: 278
+  fields:
+    title: Idealna. Z autografem
+    isbn: null
+    subject: 19
+    lang: pl
+    publishment: 22
+    publication_year: 2016
+    status: '0'
+    return_date: null
+    authors: [257]
+- model: BookBorrow.book
+  pk: 279
+  fields:
+    title: "Drogi do wolno\u015Bci. Iskra. Z autografem"
+    isbn: null
+    subject: 19
+    lang: pl
+    publishment: 22
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [260]
+- model: BookBorrow.book
+  pk: 280
+  fields:
+    title: Trzecia. Z autografem
+    isbn: null
+    subject: 19
+    lang: pl
+    publishment: 22
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [257]
+- model: BookBorrow.book
+  pk: 281
+  fields:
+    title: "Upiorne dzia\u0142anie na odleg\u0142o\u015B\u0107 i jego wp\u0142yw na
+      czarne dziury, Wielki Wybuch i teori\u0119 wszystkiego. Z autografem"
+    isbn: null
+    subject: 19
+    lang: pl
+    publishment: 105
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [261]
+- model: BookBorrow.book
+  pk: 282
+  fields:
+    title: "Drogi do wolno\u015Bci. Jesienny poniedzia\u0142ek. Z autografem"
+    isbn: null
+    subject: 19
+    lang: pl
+    publishment: 22
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [260]
+- model: BookBorrow.book
+  pk: 283
+  fields:
+    title: "Przestrzenie Wszech\u015Bwiata. Od geometrii do kosmologii. Z autografem"
+    isbn: null
+    subject: 19
+    lang: pl
+    publishment: 105
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [262]
+- model: BookBorrow.book
+  pk: 284
+  fields:
+    title: "Jeszcze wczoraj mia\u0142am raka. Z autografem"
+    isbn: '9788364378119'
+    subject: 19
+    lang: pl
+    publishment: 106
+    publication_year: 2015
+    status: '0'
+    return_date: null
+    authors: [263]
+- model: BookBorrow.book
+  pk: 285
+  fields:
+    title: "\u0141za przesz\u0142o\u015Bci. Z autografem"
+    isbn: '9788364378256'
+    subject: 19
+    lang: pl
+    publishment: 106
+    publication_year: 2015
+    status: '0'
+    return_date: null
+    authors: [264]
+- model: BookBorrow.book
+  pk: 286
+  fields:
+    title: Akademia CzuCzu 5-6 lat
+    isbn: null
+    subject: 20
+    lang: pl
+    publishment: 107
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: []
+- model: BookBorrow.book
+  pk: 287
+  fields:
+    title: Akademia CzuCzu 4-5 lat
+    isbn: null
+    subject: 20
+    lang: pl
+    publishment: 107
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: []
+- model: BookBorrow.book
+  pk: 288
+  fields:
+    title: Kalendarz 2019 liturgiczny
+    isbn: '9788386384853'
+    subject: 20
+    lang: pl
+    publishment: 95
+    publication_year: 1985
+    status: '0'
+    return_date: null
+    authors: []
+- model: BookBorrow.book
+  pk: 289
+  fields:
+    title: "\u0106wicz cierpliwo\u015B\u0107 dzieci"
+    isbn: null
+    subject: 20
+    lang: pl
+    publishment: 108
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: []
+- model: BookBorrow.book
+  pk: 290
+  fields:
+    title: "Nazi\u015Bci i Szabesgoje"
+    isbn: '9788361935759'
+    subject: 20
+    lang: pl
+    publishment: 109
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [265]
+- model: BookBorrow.book
+  pk: 291
+  fields:
+    title: "Ba\u015Bnie braci Grimm. Oryginalne"
+    isbn: '9788366070356'
+    subject: 20
+    lang: pl
+    publishment: 110
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [266]
+- model: BookBorrow.book
+  pk: 292
+  fields:
+    title: Prototypy broni pancernej
+    isbn: null
+    subject: 20
+    lang: pl
+    publishment: 18
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: []
+- model: BookBorrow.book
+  pk: 293
+  fields:
+    title: Akademia CzuCzu 3-4 lata
+    isbn: null
+    subject: 20
+    lang: pl
+    publishment: 107
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: []
+- model: BookBorrow.book
+  pk: 294
+  fields:
+    title: "Historia SP 7 \u0107w. WSiP"
+    isbn: '9788302166907'
+    subject: 20
+    lang: pl
+    publishment: 58
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: [267]
+- model: BookBorrow.book
+  pk: 295
+  fields:
+    title: "T i D na us\u0142ugach g\u0142oski R"
+    isbn: '9788380800434'
+    subject: 20
+    lang: pl
+    publishment: 111
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [268, 269, 270]
+- model: BookBorrow.book
+  pk: 296
+  fields:
+    title: Poznajemy zawody i miejsca pracy Karty pracy
+    isbn: '9788371347337'
+    subject: 20
+    lang: pl
+    publishment: 111
+    publication_year: 2015
+    status: '0'
+    return_date: null
+    authors: [271, 272]
+- model: BookBorrow.book
+  pk: 297
+  fields:
+    title: "Polskie pie\u015Bni patriotyczne"
+    isbn: '9788365875167'
+    subject: 20
+    lang: pl
+    publishment: 9
+    publication_year: 2017
+    status: '0'
+    return_date: null
+    authors: []
+- model: BookBorrow.book
+  pk: 298
+  fields:
+    title: "Rozwijanie komunikacji Karty pracy dla uczni\xF3w z niepe\u0142nosprawno\u015Bci\u0105
+      intelektualn\u0105, autyzmem oraz problemami w komunikowaniu si\u0119"
+    isbn: '9788380801288'
+    subject: 20
+    lang: pl
+    publishment: 111
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [273]
+- model: BookBorrow.book
+  pk: 299
+  fields:
+    title: "Psi Patrol. Dodaj Kolor\xF3w! Barwne zabawy"
+    isbn: '9788379948031'
+    subject: 20
+    lang: pl
+    publishment: 112
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: [21]
+- model: BookBorrow.book
+  pk: 300
+  fields:
+    title: "Biedronka Mrugnij oczkiem i pos\u0142uchaj"
+    isbn: '9788328051690'
+    subject: 20
+    lang: pl
+    publishment: 113
+    publication_year: 2018
+    status: '0'
+    return_date: null
+    authors: []
+- model: contenttypes.contenttype
+  pk: 1
+  fields: {app_label: BookBorrow, model: country}
+- model: contenttypes.contenttype
+  pk: 2
+  fields: {app_label: BookBorrow, model: language}
+- model: contenttypes.contenttype
+  pk: 3
+  fields: {app_label: BookBorrow, model: author}
+- model: contenttypes.contenttype
+  pk: 4
+  fields: {app_label: BookBorrow, model: publishment}
+- model: contenttypes.contenttype
+  pk: 5
+  fields: {app_label: BookBorrow, model: subject}
+- model: contenttypes.contenttype
+  pk: 6
+  fields: {app_label: BookBorrow, model: reader}
+- model: contenttypes.contenttype
+  pk: 7
+  fields: {app_label: BookBorrow, model: book}
+- model: contenttypes.contenttype
+  pk: 8
+  fields: {app_label: BookBorrow, model: bookqueue}
+- model: contenttypes.contenttype
+  pk: 9
+  fields: {app_label: admin, model: logentry}
+- model: contenttypes.contenttype
+  pk: 10
+  fields: {app_label: auth, model: permission}
+- model: contenttypes.contenttype
+  pk: 11
+  fields: {app_label: auth, model: group}
+- model: contenttypes.contenttype
+  pk: 12
+  fields: {app_label: auth, model: user}
+- model: contenttypes.contenttype
+  pk: 13
+  fields: {app_label: contenttypes, model: contenttype}
+- model: contenttypes.contenttype
+  pk: 14
+  fields: {app_label: sessions, model: session}
+- model: auth.permission
+  pk: 1
+  fields: {name: Can add country, content_type: 1, codename: add_country}
+- model: auth.permission
+  pk: 2
+  fields: {name: Can change country, content_type: 1, codename: change_country}
+- model: auth.permission
+  pk: 3
+  fields: {name: Can delete country, content_type: 1, codename: delete_country}
+- model: auth.permission
+  pk: 4
+  fields: {name: Can view country, content_type: 1, codename: view_country}
+- model: auth.permission
+  pk: 5
+  fields: {name: Can add language, content_type: 2, codename: add_language}
+- model: auth.permission
+  pk: 6
+  fields: {name: Can change language, content_type: 2, codename: change_language}
+- model: auth.permission
+  pk: 7
+  fields: {name: Can delete language, content_type: 2, codename: delete_language}
+- model: auth.permission
+  pk: 8
+  fields: {name: Can view language, content_type: 2, codename: view_language}
+- model: auth.permission
+  pk: 9
+  fields: {name: Can add author, content_type: 3, codename: add_author}
+- model: auth.permission
+  pk: 10
+  fields: {name: Can change author, content_type: 3, codename: change_author}
+- model: auth.permission
+  pk: 11
+  fields: {name: Can delete author, content_type: 3, codename: delete_author}
+- model: auth.permission
+  pk: 12
+  fields: {name: Can view author, content_type: 3, codename: view_author}
+- model: auth.permission
+  pk: 13
+  fields: {name: Can add publishment, content_type: 4, codename: add_publishment}
+- model: auth.permission
+  pk: 14
+  fields: {name: Can change publishment, content_type: 4, codename: change_publishment}
+- model: auth.permission
+  pk: 15
+  fields: {name: Can delete publishment, content_type: 4, codename: delete_publishment}
+- model: auth.permission
+  pk: 16
+  fields: {name: Can view publishment, content_type: 4, codename: view_publishment}
+- model: auth.permission
+  pk: 17
+  fields: {name: Can add subject, content_type: 5, codename: add_subject}
+- model: auth.permission
+  pk: 18
+  fields: {name: Can change subject, content_type: 5, codename: change_subject}
+- model: auth.permission
+  pk: 19
+  fields: {name: Can delete subject, content_type: 5, codename: delete_subject}
+- model: auth.permission
+  pk: 20
+  fields: {name: Can view subject, content_type: 5, codename: view_subject}
+- model: auth.permission
+  pk: 21
+  fields: {name: Can add reader, content_type: 6, codename: add_reader}
+- model: auth.permission
+  pk: 22
+  fields: {name: Can change reader, content_type: 6, codename: change_reader}
+- model: auth.permission
+  pk: 23
+  fields: {name: Can delete reader, content_type: 6, codename: delete_reader}
+- model: auth.permission
+  pk: 24
+  fields: {name: Can view reader, content_type: 6, codename: view_reader}
+- model: auth.permission
+  pk: 25
+  fields: {name: Can add book, content_type: 7, codename: add_book}
+- model: auth.permission
+  pk: 26
+  fields: {name: Can change book, content_type: 7, codename: change_book}
+- model: auth.permission
+  pk: 27
+  fields: {name: Can delete book, content_type: 7, codename: delete_book}
+- model: auth.permission
+  pk: 28
+  fields: {name: Can view book, content_type: 7, codename: view_book}
+- model: auth.permission
+  pk: 29
+  fields: {name: Can add book queue, content_type: 8, codename: add_bookqueue}
+- model: auth.permission
+  pk: 30
+  fields: {name: Can change book queue, content_type: 8, codename: change_bookqueue}
+- model: auth.permission
+  pk: 31
+  fields: {name: Can delete book queue, content_type: 8, codename: delete_bookqueue}
+- model: auth.permission
+  pk: 32
+  fields: {name: Can view book queue, content_type: 8, codename: view_bookqueue}
+- model: auth.permission
+  pk: 33
+  fields: {name: Can add log entry, content_type: 9, codename: add_logentry}
+- model: auth.permission
+  pk: 34
+  fields: {name: Can change log entry, content_type: 9, codename: change_logentry}
+- model: auth.permission
+  pk: 35
+  fields: {name: Can delete log entry, content_type: 9, codename: delete_logentry}
+- model: auth.permission
+  pk: 36
+  fields: {name: Can view log entry, content_type: 9, codename: view_logentry}
+- model: auth.permission
+  pk: 37
+  fields: {name: Can add permission, content_type: 10, codename: add_permission}
+- model: auth.permission
+  pk: 38
+  fields: {name: Can change permission, content_type: 10, codename: change_permission}
+- model: auth.permission
+  pk: 39
+  fields: {name: Can delete permission, content_type: 10, codename: delete_permission}
+- model: auth.permission
+  pk: 40
+  fields: {name: Can view permission, content_type: 10, codename: view_permission}
+- model: auth.permission
+  pk: 41
+  fields: {name: Can add group, content_type: 11, codename: add_group}
+- model: auth.permission
+  pk: 42
+  fields: {name: Can change group, content_type: 11, codename: change_group}
+- model: auth.permission
+  pk: 43
+  fields: {name: Can delete group, content_type: 11, codename: delete_group}
+- model: auth.permission
+  pk: 44
+  fields: {name: Can view group, content_type: 11, codename: view_group}
+- model: auth.permission
+  pk: 45
+  fields: {name: Can add user, content_type: 12, codename: add_user}
+- model: auth.permission
+  pk: 46
+  fields: {name: Can change user, content_type: 12, codename: change_user}
+- model: auth.permission
+  pk: 47
+  fields: {name: Can delete user, content_type: 12, codename: delete_user}
+- model: auth.permission
+  pk: 48
+  fields: {name: Can view user, content_type: 12, codename: view_user}
+- model: auth.permission
+  pk: 49
+  fields: {name: Can add content type, content_type: 13, codename: add_contenttype}
+- model: auth.permission
+  pk: 50
+  fields: {name: Can change content type, content_type: 13, codename: change_contenttype}
+- model: auth.permission
+  pk: 51
+  fields: {name: Can delete content type, content_type: 13, codename: delete_contenttype}
+- model: auth.permission
+  pk: 52
+  fields: {name: Can view content type, content_type: 13, codename: view_contenttype}
+- model: auth.permission
+  pk: 53
+  fields: {name: Can add session, content_type: 14, codename: add_session}
+- model: auth.permission
+  pk: 54
+  fields: {name: Can change session, content_type: 14, codename: change_session}
+- model: auth.permission
+  pk: 55
+  fields: {name: Can delete session, content_type: 14, codename: delete_session}
+- model: auth.permission
+  pk: 56
+  fields: {name: Can view session, content_type: 14, codename: view_session}

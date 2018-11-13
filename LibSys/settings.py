@@ -57,7 +57,7 @@ ROOT_URLCONF = 'LibSys.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [os.path.join(BASE_DIR, 'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -127,9 +127,4 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.0/howto/static-files/
 
-STATIC_URL = '/static/'
-TEMPLATE_DIRS = (
-    os.path.join(BASE_DIR, 'BookBorrow', 'templates'),
-    os.path.join(BASE_DIR, 'LibSys', 'templates'),
-    os.path.join(BASE_DIR, 'templates'),
-)
+STATIC_URL = '/BookBorrow/static/'
