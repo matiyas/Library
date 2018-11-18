@@ -1,0 +1,22 @@
+version: '2'
+services:
+  db:
+    build: './db'
+    ports:
+    - '5432:5432'
+    environment:
+    - "LIBRARY_DB_USER=libsysadmin"
+    - "LIBRARY_DB_PASSWORD=libsyspasswd"
+    - "LIBRARY_DB_DATABASE=libsysdb"
+    - "POSTGRES_PASSWORD=password"
+  web:
+    build: './web'
+    ports:
+     - "8000:8000"
+    volumes:
+     - /home/foobarx/PycharmProjects/Library/:/home/hosting/workspace
+     - /home/foobarx/.ssh:/home/hosting/.ssh
+    stdin_open: true
+    tty: true
+    depends_on:
+      - db

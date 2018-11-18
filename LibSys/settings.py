@@ -25,7 +25,7 @@ SECRET_KEY = '8w2(c)aj&73fnkzjb3=*&liu213_2&b-(-abgy(x-5k14x4cvm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['0.0.0.0']
 
 
 # Application definition
@@ -78,15 +78,12 @@ WSGI_APPLICATION = 'LibSys.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'LibSysDB',
-        'USER': 'LibSysAdmin',
-        'PASSWORD': 'libsysadminpass',
-        'HOST': '127.0.0.1',
-        'PORT': '3306',
-        'OPTIONS': {
-            'sql_mode': 'STRICT_TRANS_TABLES',
-        }
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'libsysdb',
+        'USER': 'libsysadmin',
+        'PASSWORD': 'libsyspasswd',
+        'HOST': 'db',
+        'PORT': '5432'
     }
 }
 
@@ -115,7 +112,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'pl'
 
-TIME_ZONE = 'Europe/Warsaw'
+TIME_ZONE = 'UTC'
 
 USE_I18N = True
 
@@ -128,3 +125,5 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.0/howto/static-files/
 
 STATIC_URL = '/BookBorrow/static/'
+
+client_encoding = 'UTF8'
