@@ -1,0 +1,21 @@
+version: '3'
+services:
+  db:
+    image: postgres
+    volumes:
+      # montowanie katalogu z plikiem backup
+      - /home/foobarx/tmp/databasebackup:/tmp
+      - library_pgdata:/var/lib/postgresql/data
+  web:
+    build: .
+    ports:
+     - "8000:8000"
+    volumes:
+     - /home/foobarx/PycharmProjects/Library/:/home/hosting/workspace
+     - /home/foobarx/.ssh:/home/hosting/.ssh
+    stdin_open: true
+    tty: true
+    depends_on:
+      - db
+volumes:
+  library_pgdata:
