@@ -1,6 +1,7 @@
 {% extends 'BookBorrow/base.html' %}
 {% block content %}
     <h3>Borrow a Book</h3><br/>
+    {% include 'BookBorrow/_paginator.html' %}
     <table class="table">
         <th>Title</th>
         <th>Author</th>
@@ -9,7 +10,7 @@
         <th>Publishment</th>
         <th>Language</th>
         <th>Status</th>
-        {% for book in book_list %}
+        {% for book in books %}
         <tr>
             <td>{{ book.title }}</td>
             <td>{{ book.authors.all|join:', ' }}</td>
@@ -21,4 +22,5 @@
         </tr>
         {% endfor %}
     </table>
+    {% include 'BookBorrow/_paginator.html' %}
 {% endblock %}

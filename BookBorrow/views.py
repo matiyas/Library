@@ -1,4 +1,5 @@
 from dal import autocomplete
+from django.core.paginator import Paginator
 from django.views import generic
 
 from BookBorrow.models import Book
@@ -33,6 +34,11 @@ class LanguageAutocomplete(AbstractAutocomplete):
 
 class IndexView(generic.ListView):
     template_name = 'BookBorrow/index.html'
+    context_object_name = 'books'
 
     def get_queryset(self):
-        return Book.objects.all()
+        books_list = Book.objects.all()
+        paginator = Paginator(books_list, 15)
+        page = self.request.GET.get('page')
+        books = paginator.get_page(page)
+        return books
